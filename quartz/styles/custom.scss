@@ -1,0 +1,37 @@
+@use "./base.scss";
+@use "./variables.scss" as *;
+
+// light theme only, even when the reader's system prefers dark
+:root {
+  color-scheme: light;
+}
+
+// a bigger local graph
+.graph > .graph-outer {
+  height: 440px;
+}
+
+// hover previews for graph nodes sit above the expanded global graph too
+.popover.graph-preview {
+  z-index: 10000;
+  pointer-events: none;
+
+  & > .popover-inner {
+    width: 26rem;
+    max-height: 22rem;
+    overflow: hidden;
+  }
+}
+
+// callouts and tables that read well on the light background
+article table {
+  margin-left: 0;
+}
+
+article blockquote {
+  border-left-color: var(--secondary);
+}
+
+.graph > .graph-outer > .graph-container {
+  height: 100%;
+}
