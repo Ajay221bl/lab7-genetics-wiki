@@ -1,5 +1,6 @@
 ---
 title: "Heterozygote Advantage"
+type: atomic
 aliases:
   - "overdominance"
   - "heterozygote superiority"
@@ -9,36 +10,18 @@ tags:
 description: "Heterozygote advantage is when heterozygotes survive and reproduce better than either homozygote, which keeps both alleles common in a population."
 ---
 
-> [!abstract] In one sentence
-> Heterozygote advantage is when heterozygotes survive and reproduce better than either homozygote, which keeps both alleles common in a population.
+Heterozygote advantage is when heterozygotes survive and reproduce better than either homozygote, which keeps both alleles common in a population.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Being 'half and half' is the sweet spot: one copy protects against malaria, two copies cause disease, zero leaves you unprotected.
+The manual (p. 122) notes heterozygotes are sometimes "more likely to survive and reproduce". The classic case is sickle cell where malaria is common:
 
-## Build it from first principles
+- Hbᴬ Hbᴬ: no anemia, but malaria kills more of them.
+- Hbˢ Hbˢ: [[Sickle Cell Anemia|sickle cell anemia]].
+- **Hbᴬ Hbˢ**: no disease **and** resistant to malaria. Best of both.
 
-Manual p. 122 mentions that heterozygous individuals are sometimes 'more likely to survive and reproduce'.
+Because carriers do best, natural selection keeps the "harmful" Hbˢ allele around ([[Why the sickle cell allele survives]]).
 
-Classic case: sickle cell where [[Malaria|malaria]] is common.
-- Hb^A Hb^A: no anemia, but vulnerable to malaria.
-- Hb^S Hb^S: [[Sickle Cell Anemia|sickle cell anemia]].
-- **Hb^A Hb^S**: no disease and resistant to malaria → highest [[Natural Selection|fitness]].
+Try it yourself. If malaria disappeared, would heterozygotes still have an advantage? No, so Hbˢ would slowly become rarer.
 
-So natural selection keeps the 'harmful' Hb^S allele around.
+See also: [[Sickle Cell Trait]], [[Malaria]], [[Natural Selection]], [[Why the sickle cell allele survives]].
 
-> [!question]- Test yourself: Why does the sickle allele stay common where malaria exists?
-> **Answer:** Carriers survive malaria better than either homozygote.
-
-## Connected ideas
-
-- [[Sickle Cell Anemia]]
-- [[Sickle Cell Trait]]
-- [[Malaria]]
-- [[Natural Selection]]
-- [[Topic - Sickle Cell One Gene Many Patterns]]
-
-Browse more in [[MOC - Patterns of Inheritance]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Heterozygote advantage](https://en.wikipedia.org/wiki/Heterozygote_advantage)
+Learn more: [Wikipedia: Heterozygote advantage](<https://en.wikipedia.org/wiki/Heterozygote_advantage>)

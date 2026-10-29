@@ -1,34 +1,24 @@
 ---
 title: "Ratio"
+type: atomic
 aliases:
   - "ratios"
 tags:
   - atomic
-  - probability
-description: "A ratio compares the sizes of groups to each other, written with colons, e.g. 3 green : 1 albino."
+  - probability-and-chance
+description: "A ratio compares the sizes of groups to each other, written with colons, like 3:1."
 ---
 
-> [!abstract] In one sentence
-> A ratio compares the sizes of groups to each other, written with colons, e.g. 3 green : 1 albino.
+A ratio compares the sizes of groups to each other, written with colons, like 3:1.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A ratio is a recipe proportion: 3 cups flour to 1 cup sugar, regardless of batch size.
+3:1 means "for every 3 of these, 1 of those". Add the parts to get the total: 3 + 1 = 4 parts, so the first group is ¾ of the whole and the second is ¼. Ratios and fractions are two ways to say the same thing.
 
-## Build it from first principles
+![[Ratios as slices of a pie.png|700]]
 
-A ratio doesn't tell you the total. 3 : 1 means 'for every 3 green, 1 albino'. To turn a ratio into fractions, add the parts (3 + 1 = 4) and put each over the sum: ¾ and ¼.
+*A 3:1 ratio is a pie in 4 slices: 3 for one group, 1 for the other. 9:3:3:1 is a pie in 16 slices.*
 
-9 : 3 : 3 : 1 → parts add to 16 → 9/16, 3/16, 3/16, 1/16.
+The trap: 3:1 is **not** "3 out of 1". The bottom of the fraction is always the sum of all parts.
 
-> [!question]- Test yourself: Turn 3 : 1 into fractions.
-> **Answer:** ¾ and ¼ (divide each part by 3 + 1).
+Try it yourself. Turn 9:3:3:1 into fractions. Total 16: 9/16, 3/16, 3/16, 1/16.
 
-## Connected ideas
-
-- [[Proportion]]
-- [[Frequency]]
-- [[Probability]]
-- [[Phenotypic Ratio]]
-- [[Calc 01 - Fraction Decimal Percent]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
+See also: [[Proportion]], [[Fractions and Ratios]], [[3-1 Ratio]], [[9-3-3-1 Ratio]].

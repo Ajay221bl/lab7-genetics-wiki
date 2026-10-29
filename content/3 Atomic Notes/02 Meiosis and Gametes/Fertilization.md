@@ -1,37 +1,20 @@
 ---
 title: "Fertilization"
+type: atomic
 tags:
   - atomic
-  - meiosis-gametes
-description: "Fertilization is the fusion of an egg and a sperm, restoring the diploid chromosome number and creating a zygote with one allele of each gene from each parent."
+  - meiosis-and-gametes
+description: "Fertilization is the fusion of an egg and a sperm, which restores two copies of every chromosome and creates a zygote."
 ---
 
-> [!abstract] In one sentence
-> Fertilization is the fusion of an egg and a sperm, restoring the diploid chromosome number and creating a zygote with one allele of each gene from each parent.
+Fertilization is the fusion of an egg and a sperm, which restores two copies of every chromosome and creates a zygote.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Fertilization is a blind date: any egg can meet any sperm, and which pair meets is luck.
+Think of it as a blind date. Any egg can meet any sperm, and which pair meets is pure luck. If Mom makes half G eggs and half g eggs, and Dad makes half G and half g sperm, every pairing (G–G, G–g, g–G, g–g) is equally likely. A [[Punnett Square|Punnett square]] is just the list of those equally likely pairings ([[Why every box in a Punnett square is equally likely]]).
 
-## Build it from first principles
+Each fertilization is a separate event: what happened for one kernel has no effect on the next. That's [[Independent Event|independence]], and the chi-square test depends on it.
 
-Which egg meets which sperm is **random**. If a Gg mother makes half G eggs and half g eggs, and a Gg father makes half G sperm and half g sperm, every pairing is equally likely. A [[Punnett Square|Punnett square]] is simply a list of all those equally likely pairings.
+Try it yourself. Two Gg parents have already produced five albino seedlings in a row. Is the next one more likely to be green? No. Each fertilization is independent: it's still ¾ green.
 
-Because each fertilization is a separate random event, each offspring is an [[Independent Event|independent event]], which is one of the [[Assumptions of Chi-Square|assumptions of the chi-square test]].
+See also: [[Zygote]], [[Punnett Square]], [[Independent Event]].
 
-> [!question]- Test yourself: Why is each offspring an independent event?
-> **Answer:** Each fertilization is a separate random pairing of one egg and one sperm.
-
-## Connected ideas
-
-- [[Zygote]]
-- [[Egg]]
-- [[Sperm]]
-- [[Punnett Square]]
-- [[Random Chance]]
-- [[Independent Event]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Fertilisation](https://en.wikipedia.org/wiki/Fertilisation)
+Learn more: [Wikipedia: Fertilisation](<https://en.wikipedia.org/wiki/Fertilisation>)

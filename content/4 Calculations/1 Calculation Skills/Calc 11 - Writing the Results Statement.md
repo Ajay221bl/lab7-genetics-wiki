@@ -1,5 +1,6 @@
 ---
 title: "Calc 11 - Writing the Results Statement"
+type: molecular
 aliases:
   - "results statement template"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "A fill-in template for the results statement and interpretation."
 ---
 
-> [!example] The Feynman version
-> Write one sentence a stranger could read and know what you tested, what you found, and how sure you are. Then one sentence on what it means biologically.
+Write one sentence a stranger could read and know what you tested, what you found, and how sure you are. Then one sentence on what it means biologically.
 
 ## Templates (manual p. 125)
 

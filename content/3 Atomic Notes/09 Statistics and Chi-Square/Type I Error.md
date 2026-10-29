@@ -1,35 +1,25 @@
 ---
 title: "Type I Error"
+type: atomic
 aliases:
   - "false positive"
   - "false alarm"
 tags:
   - atomic
-  - statistics
-description: "A Type I error is rejecting a null hypothesis that is actually true; α is the probability of making one."
+  - statistics-and-chi-square
+description: "A Type I error is rejecting H₀ when it was actually true: a false alarm."
 ---
 
-> [!abstract] In one sentence
-> A Type I error is rejecting a null hypothesis that is actually true; α is the probability of making one.
+A Type I error is rejecting H₀ when it was actually true: a false alarm.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Crying wolf: deciding there's a difference when it was really luck.
+At the 0.05 level, if H₀ is true, about 1 table in 20 will still have an unlucky χ² over the line. With 20 groups in a class all testing a true 3:1, expect about one group to "reject" by pure chance ([[Why about 1 in 20 honest tables will still reject]]).
 
-## Build it from first principles
+![[False alarms happen about 5 percent of the time.png|700]]
 
-With α = 0.05, about 1 in 20 tables whose tray really is Gg × Gg will get χ² above 3.841 by bad luck and wrongly reject. That's why one odd table isn't alarming and why the class data matter. (The opposite mistake, failing to reject a false H₀, is a Type II error, more likely with small samples.)
+*Simulated classes testing a true 3:1 ratio. About 1 table in 20 lands past the critical value by chance alone.*
 
-> [!question]- Test yourself: With α = 0.05, how often do true-H₀ tables wrongly reject?
-> **Answer:** About 1 in 20.
+Try it yourself. One group out of 20 rejects 3:1 while the rest don't. Most likely explanation? A Type I error (or a counting mistake), not new genetics.
 
-## Connected ideas
+See also: [[Type II Error]], [[Level of Significance]].
 
-- [[Level of Significance]]
-- [[Reject the Null Hypothesis]]
-- [[Sample Size]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Type I and type II errors](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
+Learn more: [Wikipedia: Type I and type II errors](<https://en.wikipedia.org/wiki/Type_I_and_type_II_errors>)

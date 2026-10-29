@@ -1,5 +1,6 @@
 ---
 title: "Worked - Question 9 Sample Size"
+type: molecular
 aliases:
   - "question 9"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Question 9 (p. 128): why a large sample size matters for chi-square."
 ---
 
-> [!example] The Feynman version
-> Taste one spoonful of soup and you might get all salt or none. Taste ten and you know the soup.
+Taste one spoonful of soup and you might get all salt or none. Taste ten and you know the soup.
 
 Compare the same proportions at two sample sizes:
 

@@ -1,5 +1,6 @@
 ---
 title: "Worked - Coin Toss Example"
+type: molecular
 aliases:
   - "coin toss"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "The manual's chi-square example: 58 heads and 42 tails in 100 tosses."
 ---
 
-> [!example] The Feynman version
-> If a coin is fair, 100 tosses 'should' give 50 : 50. We got 58 : 42. Is that just luck, or is the coin bent?
+If a coin is fair, 100 tosses 'should' give 50 : 50. We got 58 : 42. Is that just luck, or is the coin bent?
 
 H₀: the coin is fair (no significant difference from 50 : 50).
 

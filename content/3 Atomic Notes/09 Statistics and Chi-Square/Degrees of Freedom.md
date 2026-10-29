@@ -1,44 +1,33 @@
 ---
 title: "Degrees of Freedom"
+type: atomic
 aliases:
-  - "degree of freedom"
+  - "d.f."
 tags:
   - atomic
-  - statistics
-description: "Degrees of freedom (df) is the number of categories whose counts are free to vary once the total is fixed; for this chi-square test, df = k − 1."
+  - statistics-and-chi-square
+description: "Degrees of freedom (df) is how many categories are free to vary once you know the total: categories − 1."
 ---
 
-> [!abstract] In one sentence
-> Degrees of freedom (df) is the number of categories whose counts are free to vary once the total is fixed; for this chi-square test, df = k − 1.
+Degrees of freedom (df) is how many categories are free to vary once you know the total: categories − 1.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> If you know the total and all but one bin, the last bin is forced. df counts the bins that were free.
+Imagine 23 seedlings split into green and albino. Tell me green = 18 and I already know albino = 5. Only one number was "free". With 4 categories and a known total, you can choose 3; the last is forced ([[Why degrees of freedom are categories minus one]]).
 
-## Build it from first principles
+![[Degrees of freedom - the forced last count.png|700]]
 
-Manual p. 125 reasoning with coins: if you toss 100 coins and know 58 were heads, tails *must* be 42. Only one count was free → df = 2 − 1 = **1**.
+*With a fixed total, once all but one category is filled in, the last one has no choice.*
 
-| Data | k | df | Critical value (α 0.05) |
-|---|---|---|---|
-| green / albino | 2 | 1 | 3.841 |
-| purple / yellow (ear 1) | 2 | 1 | 3.841 |
-| four kernel types (ear 5) | 4 | 3 | 7.815 |
-| five colors (Lab 8) | 5 | 4 | 9.488 |
+Why it matters: more categories means more places for chance gaps to pile up, so χ² naturally runs bigger, and the cut-off has to be higher. df picks the row of the table.
 
-Common errors: df = number of plants − 1, or genotypes − 1. Both wrong.
+| Categories | df | Critical value (0.05) |
+|---|---|---|
+| 2 | 1 | 3.841 |
+| 3 | 2 | 5.991 |
+| 4 | 3 | 7.815 |
+| 5 | 4 | 9.488 |
 
-> [!question]- Test yourself: df for green/albino?
-> **Answer:** 1.
+Try it yourself. Ear 5 (four phenotypes): df? 3, critical value 7.815.
 
-## Connected ideas
+See also: [[Critical Value]], [[Categories]], [[Calc 08 - Degrees of Freedom]], [[Why ear 5 uses a different critical value]].
 
-- [[Categories]]
-- [[Critical Value]]
-- [[Critical Value Table]]
-- [[Calc 08 - Degrees of Freedom]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Degrees of freedom (statistics)](https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics))
+Learn more: [Wikipedia: Degrees of freedom (statistics)](<https://en.wikipedia.org/wiki/Degrees_of_freedom_(statistics)>)

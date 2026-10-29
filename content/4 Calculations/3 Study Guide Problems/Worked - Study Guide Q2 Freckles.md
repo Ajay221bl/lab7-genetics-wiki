@@ -1,5 +1,6 @@
 ---
 title: "Worked - Study Guide Q2 Freckles"
+type: molecular
 aliases:
   - "Q2 freckles"
 tags:

@@ -1,40 +1,23 @@
 ---
 title: "Homologous Chromosomes"
+type: atomic
 aliases:
   - "homologous pair"
   - "homologues"
 tags:
   - atomic
   - building-blocks
-description: "Homologous chromosomes are a matching pair of chromosomes, one from each parent, that carry the same genes at the same loci (though possibly different alleles)."
+description: "Homologous chromosomes are a matching pair, one from each parent, carrying the same genes in the same order, though possibly different alleles."
 ---
 
-> [!abstract] In one sentence
-> Homologous chromosomes are a matching pair of chromosomes, one from each parent, that carry the same genes at the same loci (though possibly different alleles).
+Homologous chromosomes are a matching pair, one from each parent, carrying the same genes in the same order, though possibly different alleles.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Two editions of the same book: same chapters in the same order, maybe a few words different.
+Picture two editions of the same cookbook: same recipes, same page numbers, but some recipes worded a bit differently. That's a homologous pair. At the kernel-color page, Mom's copy might say R and Dad's might say r.
 
-## Build it from first principles
+During [[Meiosis|meiosis]] the two homologues are pulled apart into different cells. That single event is the physical reason behind [[Law of Segregation|Mendel's law of segregation]]: each gamete gets one chromosome of the pair, so one allele.
 
-Think of two editions of the same cookbook: same recipes in the same order, but some recipes have slightly different wording. Each chromosome in the pair has the same genes, but at a given gene one chromosome might carry R and the other r.
+Try it yourself. When are homologues separated? In meiosis I.
 
-During [[Meiosis|meiosis]] the two homologues are separated into different gametes. That single event is the physical basis of [[Law of Segregation|Mendel's law of segregation]].
+See also: [[Chromosome]], [[Meiosis]], [[Law of Segregation]].
 
-> [!question]- Test yourself: During which event are homologues separated?
-> **Answer:** Meiosis I.
-
-## Connected ideas
-
-- [[Chromosome]]
-- [[Locus]]
-- [[Meiosis]]
-- [[Law of Segregation]]
-- [[Diploid]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Homologous Chromosomes](https://www.genome.gov/genetics-glossary/Homologous-Chromosomes)
-- [Wikipedia: Homologous chromosome](https://en.wikipedia.org/wiki/Homologous_chromosome)
+Learn more: [NHGRI Talking Glossary: Homologous Chromosomes](<https://www.genome.gov/genetics-glossary/Homologous-Chromosomes>) · [Wikipedia: Homologous chromosome](<https://en.wikipedia.org/wiki/Homologous_chromosome>)

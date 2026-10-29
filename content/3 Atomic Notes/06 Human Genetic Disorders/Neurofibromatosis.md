@@ -1,30 +1,18 @@
 ---
 title: "Neurofibromatosis"
+type: atomic
 tags:
   - atomic
-  - disorders
+  - human-genetic-disorders
 description: "Neurofibromatosis is an autosomal dominant disorder in which benign tumors grow on nerves."
 ---
 
-> [!abstract] In one sentence
-> Neurofibromatosis is an autosomal dominant disorder in which benign tumors grow on nerves.
+Neurofibromatosis is an autosomal dominant disorder in which benign tumors grow on nerves.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A broken brake on cell growth in nerve tissue.
+The gene normally acts as a brake on cell growth in nerve tissue; one faulty copy weakens the brake.
 
-## Build it from first principles
+Try it yourself. Inheritance pattern? Autosomal dominant.
 
-Type 1 (NF1) is the most common; it also causes light-brown skin patches ('café-au-lait spots').
+See also: [[Autosomal Dominant Disorder]].
 
-> [!question]- Test yourself: Inheritance pattern?
-> **Answer:** Autosomal dominant.
-
-## Connected ideas
-
-- [[Autosomal Dominant Disorder]]
-
-Browse more in [[MOC - Human Genetics and Disease]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Neurofibromatosis](https://en.wikipedia.org/wiki/Neurofibromatosis)
+Learn more: [Wikipedia: Neurofibromatosis](<https://en.wikipedia.org/wiki/Neurofibromatosis>)

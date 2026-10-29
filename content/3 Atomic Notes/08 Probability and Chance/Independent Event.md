@@ -1,42 +1,23 @@
 ---
 title: "Independent Event"
+type: atomic
 aliases:
   - "independent events"
   - "independence"
-  - "independent observation"
 tags:
   - atomic
-  - probability
-description: "An independent event is one whose outcome is not influenced by any other event's outcome."
+  - probability-and-chance
+description: "Two events are independent when the result of one doesn't change the odds of the other."
 ---
 
-> [!abstract] In one sentence
-> An independent event is one whose outcome is not influenced by any other event's outcome.
+Two events are independent when the result of one doesn't change the odds of the other.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A coin has no memory.
+A coin has no memory. After 5 heads in a row, the next flip is still 50:50. Each birth is the same: if a couple has had 4 girls, the next child is still ½ girl ([[Why each birth is an independent event]]). Each kernel on an ear is its own fertilization, so each is an independent draw.
 
-## Build it from first principles
+The trap: "We've had three healthy kids, so the next one is due to be affected." No. Each child is a fresh ¼.
 
-Manual p. 125: each coin toss is independent; simply turning a coin over is not (its result depends on the side it started on).
+Try it yourself. Two carriers have an affected child. Chance their next child is affected? Still ¼.
 
-- Each kernel is a separate fertilization → independent. ✔
-- Each birth is independent: after five girls, the next child still has a ½ chance of being a girl (study guide Q9).
+See also: [[Product Rule]], [[Probability]], [[Why each birth is an independent event]].
 
-Independence is an [[Assumptions of Chi-Square|assumption of chi-square]].
-
-> [!question]- Test yourself: Five girls so far. Chance the next child is a girl?
-> **Answer:** ½.
-
-## Connected ideas
-
-- [[Probability]]
-- [[Product Rule]]
-- [[Assumptions of Chi-Square]]
-- [[Worked - Study Guide Q9 Five Girls]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Independence (probability theory)](https://en.wikipedia.org/wiki/Independence_(probability_theory))
+Learn more: [Wikipedia: Independence (probability theory)](<https://en.wikipedia.org/wiki/Independence_(probability_theory)>)

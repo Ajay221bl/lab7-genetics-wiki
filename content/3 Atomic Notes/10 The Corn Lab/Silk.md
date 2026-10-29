@@ -1,31 +1,19 @@
 ---
 title: "Silk"
+type: atomic
 aliases:
   - "silks"
   - "corn silk"
 tags:
   - atomic
-  - corn-lab
-description: "Each silk is a long thread from one ovule on the ear; pollen landing on a silk fertilizes that one ovule."
+  - the-corn-lab
+description: "A silk is one of the long threads coming out of the top of the ear; each one is a tube leading to a single ovule."
 ---
 
-> [!abstract] In one sentence
-> Each silk is a long thread from one ovule on the ear; pollen landing on a silk fertilizes that one ovule.
+A silk is one of the long threads coming out of the top of the ear; each one is a tube leading to a single ovule.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Each silk is a private delivery chute to one ovule.
+Every silk is a private delivery chute to one future kernel. That's why an ear with poor pollination has gaps: those ovules' silks never caught pollen.
 
-## Build it from first principles
+Try it yourself. If an ear has 400 kernels, how many silks caught pollen? About 400.
 
-One silk → one ovule → one kernel. A missing kernel on a cob usually means its silk was never pollinated.
-
-> [!question]- Test yourself: One silk leads to how many ovules?
-> **Answer:** One.
-
-## Connected ideas
-
-- [[Ovule]]
-- [[Pollen]]
-- [[Corn Ear]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
+See also: [[Ovule]], [[Pollen]], [[Corn Ear]].

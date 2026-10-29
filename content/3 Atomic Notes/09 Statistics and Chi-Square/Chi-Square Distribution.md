@@ -1,34 +1,24 @@
 ---
 title: "Chi-Square Distribution"
+type: atomic
 aliases:
-  - "χ² distribution"
+  - "chi-square curve"
 tags:
   - atomic
-  - statistics
-description: "The chi-square distribution describes how often each χ² value would occur by chance alone if H₀ were true; its shape depends on the degrees of freedom."
+  - statistics-and-chi-square
+description: "The chi-square distribution is the shape you'd get if you repeated an experiment many times with H₀ true and plotted all the χ² values."
 ---
 
-> [!abstract] In one sentence
-> The chi-square distribution describes how often each χ² value would occur by chance alone if H₀ were true; its shape depends on the degrees of freedom.
+The chi-square distribution is the shape you'd get if you repeated an experiment many times with H₀ true and plotted all the χ² values.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A histogram of all the χ² values pure luck would produce.
+Most of the time χ² comes out small (chance gaps are usually small), so the curve is tall near zero with a long tail to the right. The critical value is the point that cuts off the top 5% of that tail. More df shifts the curve right.
 
-## Build it from first principles
+![[Chi-square distributions.png|700]]
 
-Imagine running the seedling experiment thousands of times on trays that truly are Gg × Gg and computing χ² each time. Most χ² values would be small; a few would be large by bad luck. The cut-off that only 5% of chance results exceed is the [[Critical Value|critical value]]. More categories (more df) → bigger χ² values by chance → higher cut-off.
+*Chi-square curves for df 1 to 4. The shaded tails hold the top 5%; their left edges are the critical values.*
 
-> [!question]- Test yourself: Why does the critical value rise with df?
-> **Answer:** More categories give more room for chance gaps, so luck produces bigger χ².
+Try it yourself. Why is the curve bunched near 0? With H₀ true, small gaps are much more common than big ones.
 
-## Connected ideas
+See also: [[Critical Value]], [[Degrees of Freedom]], [[P-Value]].
 
-- [[Critical Value]]
-- [[Degrees of Freedom]]
-- [[P-Value]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Chi-squared distribution](https://en.wikipedia.org/wiki/Chi-squared_distribution)
+Learn more: [Wikipedia: Chi-squared distribution](<https://en.wikipedia.org/wiki/Chi-squared_distribution>)

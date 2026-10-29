@@ -1,34 +1,20 @@
 ---
 title: "tRNA"
+type: atomic
 aliases:
   - "transfer RNA"
 tags:
   - atomic
-  - mtdna
-description: "tRNA (transfer RNA) carries amino acids to the ribosome and matches each one to the right codon while a protein is built."
+  - mitochondrial-dna
+description: "tRNA (transfer RNA) carries amino acids to the ribosome and matches each one to the right spot while a protein is built."
 ---
 
-> [!abstract] In one sentence
-> tRNA (transfer RNA) carries amino acids to the ribosome and matches each one to the right codon while a protein is built.
+tRNA (transfer RNA) carries amino acids to the ribosome and matches each one to the right spot while a protein is built.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> tRNA is a delivery truck that brings the right amino acid to the protein factory.
+A delivery truck bringing the right bead to the bead-stringing machine. mtDNA codes for its own tRNAs because mitochondria build some of their own proteins.
 
-## Build it from first principles
+Try it yourself. Why would mitochondria need their own tRNA? To build their own proteins inside the mitochondrion.
 
-Mitochondria make their own tRNAs (encoded by mtDNA) because they build some of their own proteins.
+See also: [[rRNA]], [[Gene Expression]], [[Mitochondrial DNA]].
 
-> [!question]- Test yourself: Why does mtDNA encode tRNAs?
-> **Answer:** Mitochondria make some of their own proteins.
-
-## Connected ideas
-
-- [[rRNA]]
-- [[Protein]]
-- [[Mitochondrial DNA]]
-
-Browse more in [[MOC - Mitochondrial DNA]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Transfer RNA](https://en.wikipedia.org/wiki/Transfer_RNA)
+Learn more: [Wikipedia: Transfer RNA](<https://en.wikipedia.org/wiki/Transfer_RNA>)

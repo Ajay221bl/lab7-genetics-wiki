@@ -1,39 +1,25 @@
 ---
 title: "Critical Value"
+type: atomic
 aliases:
-  - "critical values"
-  - "chi-square critical value"
+  - "critical chi-square"
+  - "cut-off"
 tags:
   - atomic
-  - statistics
-description: "The critical value is the cut-off χ² from the table (for your df and α) that chance alone exceeds only α of the time; your χ² must reach it to count as significant."
+  - statistics-and-chi-square
+description: "The critical value is the cut-off χ² for your df at the 0.05 level: if your χ² is bigger, reject H₀; if smaller, keep it."
 ---
 
-> [!abstract] In one sentence
-> The critical value is the cut-off χ² from the table (for your df and α) that chance alone exceeds only α of the time; your χ² must reach it to count as significant.
+The critical value is the cut-off χ² for your df at the 0.05 level: if your χ² is bigger, reject H₀; if smaller, keep it.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The finish line: if your χ² crosses it, the gap is too big to blame on luck.
+A height bar at a ride. Below the bar: the gap is chance-sized. Over it: too big for chance.
 
-## Build it from first principles
+![[Chi-square decision line.png|700]]
 
-For α = 0.05: df 1 → **3.841**; df 2 → 5.991; df 3 → **7.815**; df 4 → 9.488.
+*If χ² lands left of the critical value, fail to reject H₀; to the right, reject it.*
 
-Decision rule (manual p. 125):
-- χ² **≥** critical value → significant difference → **reject H₀**, p < 0.05.
-- χ² **<** critical value → not significant → **fail to reject H₀**, p > 0.05.
+The ones to memorize: df 1 → 3.841, df 2 → 5.991, df 3 → 7.815, df 4 → 9.488.
 
-TA tip: write 'χ² = …, critical value = …' then the comparison sign, so you don't mix them up. The 'alligator' (< or >) eats the bigger number.
+Try it yourself. χ² = 7.348, df 1. Decision? 7.348 > 3.841, so reject H₀ (this is the tray against 1:1).
 
-> [!question]- Test yourself: χ² = 0.130, df = 1. Reject?
-> **Answer:** No: 0.130 < 3.841, fail to reject.
-
-## Connected ideas
-
-- [[Critical Value Table]]
-- [[Degrees of Freedom]]
-- [[Level of Significance]]
-- [[Calc 09 - Looking Up the Critical Value]]
-- [[Calc 10 - Comparing and Deciding]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
+See also: [[Critical Value Table]], [[Degrees of Freedom]], [[Calc 09 - Looking Up the Critical Value]], [[Calc 10 - Comparing and Deciding]].

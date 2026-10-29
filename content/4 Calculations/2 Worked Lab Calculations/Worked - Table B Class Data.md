@@ -1,5 +1,6 @@
 ---
 title: "Worked - Table B Class Data"
+type: molecular
 aliases:
   - "Table B class"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Table B class data: chi-square of the whole room's seedling totals against both possible crosses."
 ---
 
-> [!warning] Sample data
-> These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
+*Sample data.* These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
 
 Class totals: **106 green, 34 albino** (140 plants).
 

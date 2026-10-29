@@ -1,36 +1,20 @@
 ---
 title: "Wrinkled Kernel"
+type: atomic
 aliases:
-  - "wrinkled"
+  - "wrinkled kernels"
   - "sugary kernel"
-  - "sweet kernel"
-  - "sweet corn"
+  - "shrunken kernel"
 tags:
   - atomic
-  - corn-lab
-description: "A wrinkled (sugary) kernel is homozygous recessive (hh): it stores sugar instead of starch, loses more water as it dries, and shrinks into a wrinkled shape."
+  - the-corn-lab
+description: "A wrinkled kernel is hh: it can't turn sugar into starch, so it holds sugar and water, then shrivels as it dries."
 ---
 
-> [!abstract] In one sentence
-> A wrinkled (sugary) kernel is homozygous recessive (hh): it stores sugar instead of starch, loses more water as it dries, and shrinks into a wrinkled shape.
+A wrinkled kernel is hh: it can't turn sugar into starch, so it holds sugar and water, then shrivels as it dries.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Sugar pulls in water; as it dries the kernel deflates like a raisin.
+Sugar pulls water into the kernel while it grows; when the kernel dries, the water leaves and the kernel collapses into wrinkles. This is the same idea behind sweet corn ([[Why wrinkled kernels are sweet]]).
 
-## Build it from first principles
+Try it yourself. Why is h recessive? One H makes enough of the starch-making enzyme.
 
-Manual p. 131. This is sweet corn. Why sugar → wrinkles: sugar draws in water, so the young kernel is plump and juicy; as it dries it loses that water and collapses. Starch holds its shape.
-
-TA meeting: check before class that you can tell sugary from starchy by eye (no tasting).
-
-> [!question]- Test yourself: Genotype?
-> **Answer:** hh.
-
-## Connected ideas
-
-- [[Smooth Kernel]]
-- [[Sugar]]
-- [[Starch]]
-- [[Lab 7 Letter Key]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
+See also: [[Smooth Kernel]], [[Sugar]], [[Why wrinkled kernels are sweet]].

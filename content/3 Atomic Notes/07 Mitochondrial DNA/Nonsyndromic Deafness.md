@@ -1,33 +1,20 @@
 ---
 title: "Nonsyndromic Deafness"
+type: atomic
 aliases:
   - "nonsyndromic hearing loss"
 tags:
   - atomic
-  - mtdna
-description: "Nonsyndromic deafness is hearing loss with no other symptoms; some forms are caused by mtDNA mutations inherited from the mother."
+  - mitochondrial-dna
+description: "Nonsyndromic deafness is hearing loss with no other symptoms; some forms come from mtDNA mutations passed down by the mother."
 ---
 
-> [!abstract] In one sentence
-> Nonsyndromic deafness is hearing loss with no other symptoms; some forms are caused by mtDNA mutations inherited from the mother.
+Nonsyndromic deafness is hearing loss with no other symptoms; some forms come from mtDNA mutations passed down by the mother.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Hearing loss alone, with no other symptoms; some forms come from mtDNA.
+"Nonsyndromic" just means it isn't part of a wider set of symptoms. Named on manual p. 123, alongside the note that mtDNA mutations have also been linked to some cancers.
 
-## Build it from first principles
+Try it yourself. What does "nonsyndromic" mean? Not part of a broader syndrome.
 
-'Nonsyndromic' = not part of a wider syndrome. Named in manual p. 123 as an mtDNA disease. mtDNA mutations have also been linked to some cancers.
+See also: [[Mitochondrial DNA]], [[Leber Hereditary Optic Neuropathy]].
 
-> [!question]- Test yourself: What does 'nonsyndromic' mean?
-> **Answer:** Not part of a wider syndrome.
-
-## Connected ideas
-
-- [[Mitochondrial DNA]]
-- [[Leber Hereditary Optic Neuropathy]]
-
-Browse more in [[MOC - Mitochondrial DNA]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Nonsyndromic deafness](https://en.wikipedia.org/wiki/Nonsyndromic_deafness)
+Learn more: [Wikipedia: Nonsyndromic deafness](<https://en.wikipedia.org/wiki/Nonsyndromic_deafness>)

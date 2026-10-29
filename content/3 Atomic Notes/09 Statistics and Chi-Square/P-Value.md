@@ -1,38 +1,25 @@
 ---
 title: "P-Value"
+type: atomic
 aliases:
   - "p value"
   - "probability value"
 tags:
   - atomic
-  - statistics
-description: "The p-value is the probability of getting a result at least as extreme as the one observed if the null hypothesis were true."
+  - statistics-and-chi-square
+description: "The p-value is the chance of getting a gap at least as big as yours if H₀ were true."
 ---
 
-> [!abstract] In one sentence
-> The p-value is the probability of getting a result at least as extreme as the one observed if the null hypothesis were true.
+The p-value is the chance of getting a gap at least as big as yours **if H₀ were true**.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The p-value is 'how often would luck alone give a gap this big or bigger?'
+Small p means "this would be a rare fluke if H₀ were true", so you start doubting H₀. If p < 0.05, reject.
 
-## Build it from first principles
+The lab doesn't compute p directly. Instead you compare χ² with the critical value, which is the same decision ([[Why we compare chi-square with the critical value not with 0.05]]): χ² bigger than the critical value is the same as p smaller than 0.05.
 
-Manual p. 125: significant at 0.05 means 'there is a less than 5% probability (hence the symbol p) of getting a more extreme result, i.e. that chance alone can explain the results'.
+The trap: p is **not** the chance that H₀ is true. It's how surprising your data would be if H₀ were true.
 
-In Lab 7 you don't calculate p exactly; you say **p > 0.05** (χ² below the critical value) or **p < 0.05** (χ² at or above it). Bigger χ² ↔ smaller p.
+Try it yourself. χ² = 0.130 with df 1. Is p above or below 0.05? Above (0.130 < 3.841), so keep H₀.
 
-> [!question]- Test yourself: χ² below the critical value means p is … ?
-> **Answer:** Greater than 0.05.
+See also: [[Level of Significance]], [[Critical Value]], [[Chi-Square Distribution]].
 
-## Connected ideas
-
-- [[Level of Significance]]
-- [[Critical Value]]
-- [[Statistically Significant]]
-- [[Results Statement]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: P-value](https://en.wikipedia.org/wiki/P-value)
+Learn more: [Wikipedia: P-value](<https://en.wikipedia.org/wiki/P-value>)

@@ -1,33 +1,20 @@
 ---
 title: "ATP"
+type: atomic
 aliases:
   - "adenosine triphosphate"
 tags:
   - atomic
-  - mtdna
-description: "ATP (adenosine triphosphate) is the small molecule cells use as their immediate energy currency."
+  - mitochondrial-dna
+description: "ATP (adenosine triphosphate) is the small molecule cells use as ready energy, like cash in a wallet."
 ---
 
-> [!abstract] In one sentence
-> ATP (adenosine triphosphate) is the small molecule cells use as their immediate energy currency.
+ATP (adenosine triphosphate) is the small molecule cells use as ready energy, like cash in a wallet.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> ATP is the cell's cash: earned by burning food, spent on every job.
+Mitochondria earn it by breaking down food; the cell spends it on every job, from building proteins to moving muscles (manual p. 123).
 
-## Build it from first principles
+Try it yourself. Where is most ATP made? In mitochondria.
 
-Mitochondria capture the energy released by breaking down food and store it in ATP; the cell then 'spends' ATP to power its work (manual p. 123).
+See also: [[Aerobic Respiration]], [[Mitochondrion]].
 
-> [!question]- Test yourself: Where is most ATP made?
-> **Answer:** Mitochondria.
-
-## Connected ideas
-
-- [[Aerobic Respiration]]
-- [[Mitochondrion]]
-
-Browse more in [[MOC - Mitochondrial DNA]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Adenosine triphosphate](https://en.wikipedia.org/wiki/Adenosine_triphosphate)
+Learn more: [Wikipedia: Adenosine triphosphate](<https://en.wikipedia.org/wiki/Adenosine_triphosphate>)

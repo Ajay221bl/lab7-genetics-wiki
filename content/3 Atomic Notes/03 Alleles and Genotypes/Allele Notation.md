@@ -1,42 +1,26 @@
 ---
 title: "Allele Notation"
+type: atomic
 aliases:
-  - "uppercase lowercase letters"
   - "letter notation"
   - "genetic notation"
+  - "uppercase lowercase letters"
 tags:
   - atomic
-  - alleles-genotypes
-description: "Allele notation uses one letter per gene: an uppercase letter for the dominant allele and the same letter in lowercase for the recessive allele."
+  - alleles-and-genotypes
+description: "Allele notation writes each gene as one letter: capital for the dominant allele, the same letter in lowercase for the recessive one."
 ---
 
-> [!abstract] In one sentence
-> Allele notation uses one letter per gene: an uppercase letter for the dominant allele and the same letter in lowercase for the recessive allele.
+Allele notation writes each gene as one letter: capital for the dominant allele, the same letter in lowercase for the recessive one.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Letters are a shorthand label system: same letter = same gene, capital = dominant version, small = recessive version.
+The manual (p. 123): "Uppercase letters indicate dominant alleles, lowercase letters indicate recessive alleles."
 
-## Build it from first principles
+Four rules that prevent most mistakes:
+1. **Same letter = same gene.** R and r are two versions of one gene; R and H are two different genes.
+2. **Two letters of a gene = a genotype** (Rr). **One letter per gene = a gamete** (R).
+3. **A letter means only what the problem says.** In the pea problems H/h is tall/short; on the corn pages H/h is smooth/wrinkled ([[Lab 7 Letter Key]]).
+4. **Special cases use superscripts**: blood type Iᴬ, Iᴮ, i; X-linked Xᴮ, Xᵇ; hemoglobin Hbᴬ, Hbˢ ([[Subscripts and Superscripts]]). For incomplete dominance some books use two different letters (C for curly, S for straight), since neither allele is dominant.
 
-Manual p. 123: 'Uppercase letters indicate dominant alleles, lowercase letters indicate recessive alleles.'
+Try it yourself. Is "Hh" a genotype or a gamete? A genotype: two letters of the same gene.
 
-Rules that prevent confusion:
-1. **Same letter = same gene.** R and r are two alleles of one gene. R and H are different genes.
-2. **Two letters = a genotype** (Rr). **One letter per gene = a gamete** (R).
-3. A letter only means what the problem defines. In the pea problems H/h is tall/short; on the corn pages H/h is smooth/wrinkled.
-4. Special cases use superscripts: blood type alleles I^A, I^B, i ([[ABO Blood Type]]); X-linked alleles X^B, X^b ([[X-Linked Trait]]); hemoglobin Hb^A, Hb^S.
-5. For incomplete dominance some books use two different letters (C for curly, S for straight) because neither is dominant.
-
-> [!question]- Test yourself: Are R and H alleles of the same gene?
-> **Answer:** No; different letters mean different genes.
-
-## Connected ideas
-
-- [[Allele]]
-- [[Genotype]]
-- [[Gamete]]
-- [[Lab 7 Letter Key]]
-- [[Dominant Allele]]
-- [[Recessive Allele]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
+See also: [[Lab 7 Letter Key]], [[Genotype]], [[Gamete]], [[Subscripts and Superscripts]].

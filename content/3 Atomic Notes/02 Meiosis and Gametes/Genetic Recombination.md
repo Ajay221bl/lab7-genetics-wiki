@@ -1,38 +1,22 @@
 ---
 title: "Genetic Recombination"
+type: atomic
 aliases:
   - "recombination"
 tags:
   - atomic
-  - meiosis-gametes
-description: "Genetic recombination is the production of new combinations of alleles in offspring, through crossing over, independent assortment and the random union of gametes."
+  - meiosis-and-gametes
+description: "Genetic recombination is the shuffling of alleles into new combinations in each generation, through crossing over, independent assortment and random fertilization."
 ---
 
-> [!abstract] In one sentence
-> Genetic recombination is the production of new combinations of alleles in offspring, through crossing over, independent assortment and the random union of gametes.
+Genetic recombination is the shuffling of alleles into new combinations in each generation, through crossing over, independent assortment and random fertilization.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Recombination is reshuffling the deck each generation so every child gets a new hand.
+It's like reshuffling the deck before every new hand, so each child gets a new mix. That's why siblings differ.
 
-## Build it from first principles
+The manual (p. 123) points out what doesn't recombine: [[Mitochondrial DNA|mtDNA]] is "not subject to genetic recombination during sexual reproduction", so it passes from mother to child essentially unchanged, which is what makes it useful for tracing ancestry.
 
-Recombination is why siblings differ and why sexual reproduction creates variation for [[Natural Selection|natural selection]] to act on.
+Try it yourself. Name the three sources of recombination. Crossing over, independent assortment, random fertilization.
 
-Manual p. 123: mtDNA is 'not subject to genetic recombination during sexual reproduction', so it is copied from mother to child essentially unchanged. That makes it useful for tracing the female line (see [[Genealogy]]).
+See also: [[Crossing Over]], [[Law of Independent Assortment]], [[Mitochondrial DNA]].
 
-> [!question]- Test yourself: Name the three sources of recombination.
-> **Answer:** Crossing over, independent assortment, random fertilization.
-
-## Connected ideas
-
-- [[Crossing Over]]
-- [[Law of Independent Assortment]]
-- [[Fertilization]]
-- [[Mitochondrial DNA]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Genetic Recombination](https://www.genome.gov/genetics-glossary/Genetic-Recombination)
-- [Wikipedia: Genetic recombination](https://en.wikipedia.org/wiki/Genetic_recombination)
+Learn more: [NHGRI Talking Glossary: Genetic Recombination](<https://www.genome.gov/genetics-glossary/Genetic-Recombination>) · [Wikipedia: Genetic recombination](<https://en.wikipedia.org/wiki/Genetic_recombination>)

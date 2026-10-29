@@ -1,41 +1,24 @@
 ---
 title: "Recessive Allele"
+type: atomic
 aliases:
   - "recessive"
 tags:
   - atomic
-  - alleles-genotypes
-description: "A recessive allele is one whose trait shows only when an individual has two copies of it (homozygous recessive), because a dominant allele masks it."
+  - alleles-and-genotypes
+description: "A recessive allele is one whose trait shows only when an individual has two copies of it, because any dominant allele present hides it."
 ---
 
-> [!abstract] In one sentence
-> A recessive allele is one whose trait shows only when an individual has two copies of it (homozygous recessive), because a dominant allele masks it.
+A recessive allele is one whose trait shows only when an individual has two copies of it, because any dominant allele present hides it.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A recessive allele is a broken switch: you only notice it's broken if both switches in the room are broken.
+The manual (p. 122): recessive alleles "can be fully expressed only in complete absence of dominant alleles". Back to the two light switches: a recessive allele is a broken switch. You only notice it's broken if **both** switches are broken.
 
-## Build it from first principles
+This gives you a superpower in Lab 7: **whenever you see the recessive phenotype, you know the genotype for certain.** A yellow kernel is rr. An albino seedling is gg. A wrinkled kernel is hh. That certainty is what makes the [[Test Cross|test cross]] work, and what tells you both parents of an albino carry g ([[Why an albino seedling means both parents carry g]]).
 
-Manual p. 122: 'Recessive alleles can be fully expressed only in complete absence of dominant alleles.'
+Recessive alleles can hide for generations in [[Carrier|carriers]], then reappear when two carriers have a child.
 
-- Yellow kernels must be **rr**; albino seedlings must be **gg**; wrinkled kernels must be **hh**.
-- So whenever you *see* the recessive phenotype, you know the genotype for sure. That is the key to the [[Test Cross|test cross]].
-- Recessive alleles can hide for generations in [[Carrier|carriers]] and then reappear when two carriers have a child.
+Try it yourself. Two purple parents have a yellow kernel among their offspring. What must both parents be? Rr. Each gave an r.
 
-> [!question]- Test yourself: If you see a yellow kernel, what is its genotype for sure?
-> **Answer:** rr.
+See also: [[Dominant Allele]], [[Homozygous Recessive]], [[Carrier]], [[Test Cross]].
 
-## Connected ideas
-
-- [[Dominant Allele]]
-- [[Homozygous Recessive]]
-- [[Carrier]]
-- [[Test Cross]]
-- [[Topic - Why Dominance Happens]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Recessive](https://www.genome.gov/genetics-glossary/Recessive)
-- [Wikipedia: Dominance (genetics)](https://en.wikipedia.org/wiki/Dominance_(genetics))
+Learn more: [NHGRI Talking Glossary: Recessive](<https://www.genome.gov/genetics-glossary/Recessive>) · [Wikipedia: Dominance (genetics)](<https://en.wikipedia.org/wiki/Dominance_(genetics)>)

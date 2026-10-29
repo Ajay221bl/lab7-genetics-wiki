@@ -1,44 +1,23 @@
 ---
 title: "Pigment"
+type: atomic
 aliases:
   - "pigmentation"
   - "pigments"
 tags:
   - atomic
   - building-blocks
-description: "A pigment is a molecule that absorbs some colors of light and reflects others, giving tissue its color; pigmentation is color produced by pigments."
+description: "A pigment is a colored molecule: it absorbs some colors of light and reflects the rest, and the reflected light is the color you see."
 ---
 
-> [!abstract] In one sentence
-> A pigment is a molecule that absorbs some colors of light and reflects others, giving tissue its color; pigmentation is color produced by pigments.
+A pigment is a colored molecule: it absorbs some colors of light and reflects the rest, and the reflected light is the color you see.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Pigments are like paint chemicals made inside cells. No paint-making machine, no color.
+Color in living things is almost always chemistry. An enzyme builds a pigment molecule; the pigment reflects certain wavelengths. Purple corn kernels contain anthocyanin pigments ([[Anthocyanin]]); green leaves contain [[Chlorophyll|chlorophyll]].
 
-## Build it from first principles
+So whenever a lab talks about "pigmentation" (manual p. 126: "green pigmentation (G) is dominant over albino (g)"), translate it as "can this plant make the pigment, or is a step in the pathway broken?"
 
-Color in living things is usually chemistry: an enzyme builds a pigment molecule, and the pigment reflects certain wavelengths of light.
+Try it yourself. Why is an albino seedling white? It can't make chlorophyll, its green pigment, because an enzyme in that pathway is broken.
 
-- The purple of corn kernels comes from anthocyanin pigments in the outer layer of the kernel.
-- The green of plants comes from [[Chlorophyll|chlorophyll]].
-- An [[Albino Seedling|albino]] lacks a pigment it would normally have, because the gene for an enzyme in its pathway is broken.
+See also: [[Chlorophyll]], [[Anthocyanin]], [[Enzyme]], [[Albino Seedling]].
 
-## Where it shows up in Lab 7
-
-Manual p. 126: 'green pigmentation (G) is dominant over albino (g)'.
-
-> [!question]- Test yourself: What does an albino lack?
-> **Answer:** A pigment it normally makes (here chlorophyll), because an enzyme in the pathway is broken.
-
-## Connected ideas
-
-- [[Chlorophyll]]
-- [[Enzyme]]
-- [[Albino Seedling]]
-- [[Purple Kernel]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Biological pigment](https://en.wikipedia.org/wiki/Biological_pigment)
+Learn more: [Wikipedia: Biological pigment](<https://en.wikipedia.org/wiki/Biological_pigment>)

@@ -1,31 +1,16 @@
 ---
 title: "Homozygous Recessive"
-aliases:
-  - "homozygous recessive"
+type: atomic
 tags:
   - atomic
-  - alleles-genotypes
-description: "Homozygous recessive means having two copies of the recessive allele (for example rr); it is the only genotype that shows the recessive phenotype."
+  - alleles-and-genotypes
+description: "Homozygous recessive means carrying two copies of the recessive allele (like rr); it's the only genotype that shows the recessive phenotype."
 ---
 
-> [!abstract] In one sentence
-> Homozygous recessive means having two copies of the recessive allele (for example rr); it is the only genotype that shows the recessive phenotype.
+Homozygous recessive means carrying two copies of the recessive allele (like rr); it's the only genotype that shows the recessive phenotype.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Two broken switches; this parent always passes a broken switch, so it can't hide the other parent's alleles.
+A homozygous recessive parent is the most useful partner in an experiment. It can only give recessive alleles, so it can't hide anything: every offspring's phenotype directly reveals what the **other** parent gave. That's the whole logic of the [[Test Cross|test cross]] (ears 2 and 4).
 
-## Build it from first principles
+Try it yourself. Why use rr rather than RR to test a mystery purple plant? RR would make every offspring purple no matter what, hiding the answer; rr lets the mystery parent's alleles show.
 
-A homozygous recessive individual is the most informative partner in a cross: it makes only recessive gametes, so the other parent's alleles show directly in the offspring. That is the logic of the [[Test Cross|test cross]] (Corn Ears 2 and 4).
-
-> [!question]- Test yourself: Why is rr the partner of choice in a test cross?
-> **Answer:** It only gives r, so offspring phenotypes reveal the other parent's alleles.
-
-## Connected ideas
-
-- [[Homozygous]]
-- [[Recessive Allele]]
-- [[Test Cross]]
-- [[Homozygous Dominant]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
+See also: [[Homozygous]], [[Recessive Allele]], [[Test Cross]], [[Why a test cross uses a homozygous recessive partner]].

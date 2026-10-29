@@ -1,5 +1,6 @@
 ---
 title: "Calc 05 - Frequencies from a Punnett Square"
+type: molecular
 aliases:
   - "predicted frequencies"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Turning Punnett square boxes into predicted genotypic and phenotypic frequencies."
 ---
 
-> [!example] The Feynman version
-> Every box is equally likely, so 'what fraction of kids?' is just 'what fraction of boxes?'
+Every box is equally likely, so 'what fraction of kids?' is just 'what fraction of boxes?'
 
 ## Steps
 
@@ -26,7 +26,6 @@ description: "Turning Punnett square boxes into predicted genotypic and phenotyp
 - Genotypes: DD 50%, Dd 50%, dd 0%
 - Phenotypes: purple 100%, white 0%
 
-> [!question]- Try it: Ff × Ff (freckles dominant). Phenotype frequencies?
-> **Answer:** 75% freckles, 25% none.
+Try it yourself. Ff × Ff (freckles dominant). Phenotype frequencies? 75% freckles, 25% none.
 
 Concepts: [[Genotype Frequency]] · [[Phenotype Frequency]] · Back to [[MOC - Calculations]]

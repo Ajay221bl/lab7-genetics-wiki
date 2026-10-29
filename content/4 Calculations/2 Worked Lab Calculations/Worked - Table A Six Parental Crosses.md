@@ -1,5 +1,6 @@
 ---
 title: "Worked - Table A Six Parental Crosses"
+type: molecular
 aliases:
   - "Table A"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Table A (p. 126): the six possible parental crosses for seedling color and their expected green and albino percentages."
 ---
 
-> [!example] The Feynman version
-> Each parent is GG, Gg or gg. List every pairing, run a quick Punnett square for each, and see which pairings could ever produce a white seedling.
+Each parent is GG, Gg or gg. List every pairing, run a quick Punnett square for each, and see which pairings could ever produce a white seedling.
 
 | # | Parental cross | Expected green | Expected albino |
 |---|---|---|---|

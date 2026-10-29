@@ -1,43 +1,26 @@
 ---
 title: "Heterozygous"
+type: atomic
 aliases:
   - "heterozygote"
   - "heterozygotes"
 tags:
   - atomic
-  - alleles-genotypes
-description: "Heterozygous means carrying two different alleles of a gene (for example Rr)."
+  - alleles-and-genotypes
+description: "Heterozygous means carrying two different alleles of a gene, like Rr."
 ---
 
-> [!abstract] In one sentence
-> Heterozygous means carrying two different alleles of a gene (for example Rr).
+Heterozygous means carrying two different alleles of a gene, like Rr.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Heterozygous: your two cards for this gene are different.
+"Hetero" means different. Your two cards for this gene don't match. The slides: "a diploid organism with two different alleles for a specific gene".
 
-## Build it from first principles
-
-Slide 4: 'A diploid organism with two different alleles for a specific gene.' *Hetero* = different.
-
-- A heterozygous parent makes **two kinds of gametes** in equal numbers (½ R, ½ r).
-- Under [[Complete Dominance|complete dominance]] a heterozygote looks like the dominant homozygote; under [[Incomplete Dominance|incomplete dominance]] it is intermediate; under [[Codominance|codominance]] it shows both.
+What follows:
+- A heterozygous parent makes **two kinds of gametes**, half and half (½ R, ½ r).
+- What the heterozygote *looks* like is how you tell the pattern of inheritance apart: like the dominant parent ([[Complete Dominance|complete dominance]]), in between ([[Incomplete Dominance|incomplete dominance]]) or both at once ([[Codominance|codominance]]).
 - A heterozygote for a recessive disorder is a [[Carrier|carrier]].
-- A [[Hybrid|hybrid]] is heterozygous.
 
-> [!question]- Test yourself: What fraction of an Rr parent's gametes carry r?
-> **Answer:** ½.
+Try it yourself. An Rr plant makes 100 gametes. About how many carry r? About 50.
 
-## Connected ideas
+See also: [[Homozygous]], [[Carrier]], [[Hybrid]], [[Pattern of Inheritance]].
 
-- [[Homozygous]]
-- [[Carrier]]
-- [[Hybrid]]
-- [[Heterozygote Advantage]]
-- [[Genotype]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Heterozygous](https://www.genome.gov/genetics-glossary/Heterozygous)
-- [Wikipedia: Zygosity](https://en.wikipedia.org/wiki/Zygosity)
+Learn more: [NHGRI Talking Glossary: Heterozygous](<https://www.genome.gov/genetics-glossary/Heterozygous>) · [Wikipedia: Zygosity](<https://en.wikipedia.org/wiki/Zygosity>)

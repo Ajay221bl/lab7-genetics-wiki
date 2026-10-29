@@ -1,34 +1,18 @@
 ---
 title: "Tassel"
-aliases:
-  - "tassels"
+type: atomic
 tags:
   - atomic
-  - corn-lab
-description: "The tassel is the male flower at the top of a corn plant; it releases pollen."
+  - the-corn-lab
+description: "The tassel is the male flower cluster at the top of the corn plant; it makes pollen."
 ---
 
-> [!abstract] In one sentence
-> The tassel is the male flower at the top of a corn plant; it releases pollen.
+The tassel is the male flower cluster at the top of the corn plant; it makes pollen.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The tassel is the plant's pollen sprinkler on top.
+It's the plant's pollen tower: wind shakes the pollen loose and it drifts down onto silks. Breeders bag or cut tassels to stop unwanted pollination.
 
-## Build it from first principles
+Try it yourself. Is the tassel male or female? Male.
 
-Breeders cover or remove tassels and hand-pollinate so they know exactly which father each ear had.
+See also: [[Pollen]], [[Silk]], [[Controlled Cross]].
 
-> [!question]- Test yourself: Male or female flower?
-> **Answer:** Male.
-
-## Connected ideas
-
-- [[Pollen]]
-- [[Silk]]
-- [[Corn]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Maize#Structure and physiology](https://en.wikipedia.org/wiki/Maize#Structure_and_physiology)
+Learn more: [Wikipedia: Maize#Structure and physiology](<https://en.wikipedia.org/wiki/Maize#Structure_and_physiology>)

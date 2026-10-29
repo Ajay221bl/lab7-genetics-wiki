@@ -1,5 +1,6 @@
 ---
 title: "Worked - Corn Ear 2 Test Cross"
+type: molecular
 aliases:
   - "corn ear 2"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Corn ear cross 3: test cross Rr × rr (Corn Ear 2)."
 ---
 
-> [!warning] Sample data
-> These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
+*Sample data.* These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
 
 | | R | r |
 |---|---|---|

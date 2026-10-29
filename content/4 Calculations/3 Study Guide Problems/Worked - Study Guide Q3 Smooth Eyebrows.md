@@ -1,5 +1,6 @@
 ---
 title: "Worked - Study Guide Q3 Smooth Eyebrows"
+type: molecular
 aliases:
   - "Q3 eyebrows"
 tags:

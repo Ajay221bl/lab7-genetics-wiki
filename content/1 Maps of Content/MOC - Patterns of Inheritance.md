@@ -1,5 +1,6 @@
 ---
 title: "MOC - Patterns of Inheritance"
+type: moc
 tags:
   - moc
 description: "Map of complete dominance, incomplete dominance, codominance and sex-linked inheritance."
@@ -33,4 +34,4 @@ description: "Map of complete dominance, incomplete dominance, codominance and s
 - [[X-Linked Trait]]
 - [[Y-Linked Trait]]
 
-Next map: [[MOC - Crosses and Punnett Squares]] · Main path: [[MOC - Start Here]]
+Next map: [[MOC - Crosses and Punnett Squares]] · Main path: [[Learning Path]]

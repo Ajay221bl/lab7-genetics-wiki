@@ -1,31 +1,18 @@
 ---
 title: "Proportion"
+type: atomic
 aliases:
   - "proportions"
-  - "fraction of the whole"
 tags:
   - atomic
-  - probability
-description: "A proportion is one group's share of the whole, written as a fraction, decimal or percent (e.g. ¼ = 0.25 = 25% albino)."
+  - probability-and-chance
+description: "A proportion is one part divided by the whole, a fraction between 0 and 1."
 ---
 
-> [!abstract] In one sentence
-> A proportion is one group's share of the whole, written as a fraction, decimal or percent (e.g. ¼ = 0.25 = 25% albino).
+A proportion is one part divided by the whole, a fraction between 0 and 1.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Proportion is your slice of the whole pie.
+If 18 of 23 seedlings are green, the proportion green is 18/23 ≈ 0.78. A ratio compares parts to parts (18:5); a proportion compares a part to the whole (18/23).
 
-## Build it from first principles
+Try it yourself. 5 albino out of 23. Proportion albino? 5/23 ≈ 0.22.
 
-Same information as a ratio, different framing: ratio compares parts to each other (3 : 1); proportion compares a part to the whole (¾).
-
-> [!question]- Test yourself: Proportion albino if 1 : 3 albino : green?
-> **Answer:** ¼.
-
-## Connected ideas
-
-- [[Ratio]]
-- [[Frequency]]
-- [[Percent]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
+See also: [[Ratio]], [[Frequency]], [[Percent]].

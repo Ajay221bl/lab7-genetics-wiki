@@ -1,47 +1,34 @@
 ---
 title: "Punnett Square"
+type: atomic
 aliases:
   - "Punnett squares"
   - "Punnett"
 tags:
   - atomic
-  - crosses
-description: "A Punnett square is a grid that lists one parent's possible gametes across the top and the other's down the side, so each box shows one equally likely offspring genotype."
+  - crosses-and-predictions
+description: "A Punnett square is a grid with one parent's possible gametes across the top and the other's down the side, so each box is one equally likely offspring."
 ---
 
-> [!abstract] In one sentence
-> A Punnett square is a grid that lists one parent's possible gametes across the top and the other's down the side, so each box shows one equally likely offspring genotype.
+A Punnett square is a grid with one parent's possible gametes across the top and the other's down the side, so each box is one equally likely offspring.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A multiplication table for fertilization: every egg type across the top, every sperm type down the side, every combination in the boxes.
+Slide 9: "Used to predict the traits of offspring." (It's named for Reginald Punnett; say PUN-it.) Here's why it works, from scratch:
 
-## Build it from first principles
+1. [[Meiosis]] gives each parent's gametes, half of each type. Write them outside the square.
+2. Any egg can meet any sperm with equal chance. So each box (one egg meeting one sperm) is equally likely.
+3. Copy the letter above and the letter beside into each box: that's the offspring's genotype.
+4. Count boxes for [[Genotype Frequency|genotype frequencies]]; group boxes that look alike for [[Phenotype Frequency|phenotype frequencies]].
 
-Slide 9: 'Used to predict the traits of offspring.' Invented by Reginald Punnett (say PUN-it).
+![[Monohybrid Punnett square.png|700]]
 
-From first principles it is just bookkeeping for [[Fertilization|fertilization]]:
-1. Meiosis gives each parent's gametes (one allele per gene) — write them on the outside.
-2. Any egg can meet any sperm with equal chance — each box is one pairing.
-3. Copy the top letter and side letter into each box: that's the offspring genotype.
-4. Count boxes → [[Genotype Frequency|genotype frequencies]]; group boxes that look alike → [[Phenotype Frequency|phenotype frequencies]].
+*Rr × Rr: eggs across the top, sperm down the side, offspring inside.*
 
-Manual p. 122: Punnett predictions are **probabilities**, not guarantees. Real counts wobble by [[Random Chance|chance]], which is why we need [[Chi-Square Test|chi-square]].
+It's really a multiplication table for luck. Counting boxes **is** calculating probability.
 
-> [!question]- Test yourself: What goes outside the square, and what goes inside?
-> **Answer:** Gametes (one allele each) outside; offspring genotypes (two alleles) inside.
+The manual (p. 122) adds the most important caution: these are **probabilities**, not guarantees. Real offspring wobble around them by chance, which is why we need chi-square ([[Why real counts never match the prediction exactly]]).
 
-## Connected ideas
+Try it yourself. Gg × gg: fill the square and give the phenotype ratio. Gg, Gg, gg, gg → 1 green : 1 albino.
 
-- [[Gamete]]
-- [[Fertilization]]
-- [[Genotype Frequency]]
-- [[Phenotype Frequency]]
-- [[Calc 03 - Filling a Monohybrid Punnett Square]]
-- [[Calc 04 - Filling a Dihybrid Punnett Square]]
-- [[Topic - Predicting Offspring with Punnett Squares]]
+See also: [[Gamete]], [[Fertilization]], [[Why every box in a Punnett square is equally likely]], [[Calc 03 - Filling a Monohybrid Punnett Square]].
 
-Browse more in [[MOC - Crosses and Punnett Squares]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Punnett square](https://en.wikipedia.org/wiki/Punnett_square)
+Learn more: [Wikipedia: Punnett square](<https://en.wikipedia.org/wiki/Punnett_square>)

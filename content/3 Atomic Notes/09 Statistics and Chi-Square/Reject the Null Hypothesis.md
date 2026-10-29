@@ -1,36 +1,21 @@
 ---
 title: "Reject the Null Hypothesis"
+type: atomic
 aliases:
   - "reject H0"
-  - "reject H₀"
-  - "rejected H0"
-  - "rejected"
+  - "reject"
 tags:
   - atomic
-  - statistics
-description: "Rejecting the null hypothesis means concluding the observed data differ too much from the expected to be chance (χ² ≥ critical value, p < 0.05), so the tested model probably doesn't explain the data."
+  - statistics-and-chi-square
+description: "You reject the null hypothesis when χ² is larger than the critical value: the gap is too big to blame on chance, so the predicted ratio is probably wrong."
 ---
 
-> [!abstract] In one sentence
-> Rejecting the null hypothesis means concluding the observed data differ too much from the expected to be chance (χ² ≥ critical value, p < 0.05), so the tested model probably doesn't explain the data.
+You reject the null hypothesis when χ² is larger than the critical value: the gap is too big to blame on chance, so the predicted ratio is probably wrong.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The 'just luck' story doesn't hold up; something else is going on.
+Verdict: guilty. Something besides chance (wrong parent genotypes, linkage, counting errors, a mislabeled tray) is behind the difference.
 
-## Build it from first principles
+Results statement: "χ² = 7.348 > 3.841 (df 1, 0.05), so we reject H₀; the seedlings do not fit a 1:1 ratio."
 
-Manual p. 124: 'A rejected H₀ means that the data do not fit this model and a force other than chance might influence the data.'
+Try it yourself. What does rejecting tell you? The expected ratio doesn't fit; it doesn't tell you which ratio does.
 
-Example: 18 green : 5 albino vs 1 : 1 gives χ² = 7.348 > 3.841 → reject: these parents were probably not Gg × gg.
-
-> [!question]- Test yourself: 18 : 5 vs 1 : 1 gives 7.348. Decision?
-> **Answer:** Reject (7.348 > 3.841).
-
-## Connected ideas
-
-- [[Fail to Reject the Null Hypothesis]]
-- [[Null Hypothesis]]
-- [[Critical Value]]
-- [[Type I Error]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
+See also: [[Fail to Reject the Null Hypothesis]], [[Statistically Significant]], [[Results Statement]].

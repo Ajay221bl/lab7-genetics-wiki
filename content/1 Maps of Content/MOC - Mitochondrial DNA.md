@@ -1,5 +1,6 @@
 ---
 title: "MOC - Mitochondrial DNA"
+type: moc
 tags:
   - moc
 description: "Map of mitochondrial DNA, maternal inheritance and its uses (manual p. 123)."
@@ -27,4 +28,4 @@ Start with the story: [[Topic - Mitochondrial Inheritance]], then the atomic not
 - [[rRNA]]
 - [[tRNA]]
 
-Main path: [[MOC - Start Here]]
+Main path: [[Learning Path]]

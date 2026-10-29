@@ -1,41 +1,22 @@
 ---
 title: "Null Hypothesis"
+type: atomic
 aliases:
   - "null"
 tags:
   - atomic
-  - statistics
-description: "The null hypothesis (H₀) states that there is no significant difference between the observed data and the data expected from the model being tested; any difference is due to chance."
+  - statistics-and-chi-square
+description: "The null hypothesis (H₀) is the 'nothing special is going on' claim: the observed counts differ from the expected ones only by chance."
 ---
 
-> [!abstract] In one sentence
-> The null hypothesis (H₀) states that there is no significant difference between the observed data and the data expected from the model being tested; any difference is due to chance.
+The null hypothesis (H₀) is the "nothing special is going on" claim: the observed counts differ from the expected ones only by chance.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The null hypothesis is 'nothing to see here': the data match the prediction and any gap is just luck. Like 'innocent until proven guilty'.
+Think of a courtroom. The defendant is presumed innocent until the evidence is strong enough. H₀ is the presumption; chi-square weighs the evidence. In this lab H₀ always takes the form: "There is no significant difference between the observed and expected counts; any difference is due to chance." ([[Why the null hypothesis says there is no difference]])
 
-## Build it from first principles
+The trap: H₀ is not "my hypothesis is wrong". In this lab H₀ **is** the Mendelian ratio you're testing, e.g. 3:1.
 
-Manual p. 124: H₀ is 'that the actual data fit the expected data, or that there is no significant difference between observed results and what would be expected by chance'.
+Try it yourself. Write H₀ for a test cross on ear 2. "There is no significant difference between the observed purple:yellow counts and a 1:1 ratio; any difference is due to chance."
 
-Template for Lab 7:
-> H₀: The observed numbers of purple and yellow kernels on ear 1 are not significantly different from the 3 : 1 ratio expected for an Rr × Rr cross.
+See also: [[Alternative Hypothesis]], [[Fail to Reject the Null Hypothesis]], [[Reject the Null Hypothesis]].
 
-You never prove H₀; you either [[Reject the Null Hypothesis|reject it]] or [[Fail to Reject the Null Hypothesis|fail to reject it]].
-
-> [!question]- Test yourself: Can the chi-square test prove H₀?
-> **Answer:** No; it can only reject or fail to reject it.
-
-## Connected ideas
-
-- [[Alternative Hypothesis]]
-- [[Reject the Null Hypothesis]]
-- [[Fail to Reject the Null Hypothesis]]
-- [[Hypothesis]]
-- [[Chi-Square Test]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Null hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis)
+Learn more: [Wikipedia: Null hypothesis](<https://en.wikipedia.org/wiki/Null_hypothesis>)

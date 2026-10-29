@@ -1,33 +1,19 @@
 ---
 title: "Observed Value"
+type: atomic
 aliases:
   - "observed"
-  - "observed frequencies"
-  - "actual count"
-  - "actual phenotypic count"
+  - "observed count"
 tags:
   - atomic
-  - statistics
-description: "Observed values (O) are the actual counts you recorded in each category, such as 18 green and 5 albino seedlings."
+  - statistics-and-chi-square
+description: "An observed value (O) is the count you actually got: the number of seedlings or kernels you saw in one category."
 ---
 
-> [!abstract] In one sentence
-> Observed values (O) are the actual counts you recorded in each category, such as 18 green and 5 albino seedlings.
+An observed value (O) is the count you actually got: the number of seedlings or kernels you saw in one category.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> What you actually counted with your own eyes.
+Always a whole number, because you can't count half a seedling. It goes in the O column of the grid.
 
-## Build it from first principles
+Try it yourself. In the tray, O for albino? 5.
 
-Must be whole-number **counts**, not percentages or averages (manual p. 125). Table labels vary: 'O, Observed' (p. 127) and 'Actual phenotypic count' (pp. 131-133) mean the same thing.
-
-> [!question]- Test yourself: Can O be 75%?
-> **Answer:** No; O must be a count.
-
-## Connected ideas
-
-- [[Expected Value]]
-- [[Chi-Square Statistic]]
-- [[Assumptions of Chi-Square]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
+See also: [[Expected Value]], [[Chi-Square Statistic]].

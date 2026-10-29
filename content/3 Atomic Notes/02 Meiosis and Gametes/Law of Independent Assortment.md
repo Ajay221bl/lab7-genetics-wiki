@@ -1,42 +1,27 @@
 ---
 title: "Law of Independent Assortment"
+type: atomic
 aliases:
   - "independent assortment"
   - "Mendel's second law"
 tags:
   - atomic
-  - meiosis-gametes
-description: "The law of independent assortment says alleles of genes on different chromosomes are sorted into gametes independently of each other, so every combination of one allele from each gene is equally likely."
+  - meiosis-and-gametes
+description: "The law of independent assortment says that alleles of genes on different chromosomes go into gametes independently of each other, so every combination is equally likely."
 ---
 
-> [!abstract] In one sentence
-> The law of independent assortment says alleles of genes on different chromosomes are sorted into gametes independently of each other, so every combination of one allele from each gene is equally likely.
+The law of independent assortment says that alleles of genes on different chromosomes go into gametes independently of each other, so every combination is equally likely.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Flip a coin for color and, separately, a coin for shape. The color coin doesn't care what the shape coin did.
+Picture flipping two coins to make each gamete: a color coin (R or r) and a shape coin (H or h). The color coin doesn't care what the shape coin did. So an RrHh plant makes four kinds of gametes, a quarter each: RH, Rh, rH, rh.
 
-## Build it from first principles
+Why does it work? At metaphase I of meiosis, each chromosome pair lines up on its own, facing whichever way. If the color gene and the shape gene are on different pairs, how one pair lines up has nothing to do with the other.
 
-At metaphase I, each homologous pair lines up on its own, facing either way at random. If the color gene (R/r) and the shape gene (H/h) are on different chromosome pairs, R is just as likely to end up with H as with h.
+This equal four-way split is what makes the [[9-3-3-1 Ratio|9 : 3 : 3 : 1]] and [[1-1-1-1 Ratio|1 : 1 : 1 : 1]] ratios on ears 5 and 4.
 
-So an **RrHh** plant makes four gamete types in equal numbers: **RH, Rh, rH, rh** (¼ each). That equality is what produces the [[9-3-3-1 Ratio|9 : 3 : 3 : 1]] and [[1-1-1-1 Ratio|1 : 1 : 1 : 1]] ratios of the [[Dihybrid Cross|dihybrid crosses]].
+The exception: genes close together on the **same** chromosome tend to travel together ([[Gene Linkage]]). The answer key uses that as a possible H₂ if ear 5 doesn't fit.
 
-**Exception:** genes close together on the same chromosome tend to travel together (they are *linked*), which breaks the 9 : 3 : 3 : 1. The answer key uses this as a possible H₂ for Corn Ear 5.
+Try it yourself. If R and H were always on the same chromosome and never separated, what gametes would an RrHh plant (R with H on one chromosome, r with h on the other) make? Only RH and rh.
 
-> [!question]- Test yourself: List the gametes of RrHh.
-> **Answer:** RH, Rh, rH, rh, each ¼.
+See also: [[Gene Linkage]], [[Dihybrid Cross]], [[FOIL Method]], [[Why a dihybrid cross gives 9 3 3 1]].
 
-## Connected ideas
-
-- [[Dihybrid Cross]]
-- [[Meiosis]]
-- [[Law of Segregation]]
-- [[FOIL Method]]
-- [[9-3-3-1 Ratio]]
-- [[Alternative Hypothesis]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Mendelian inheritance](https://en.wikipedia.org/wiki/Mendelian_inheritance)
+Learn more: [Wikipedia: Mendelian inheritance](<https://en.wikipedia.org/wiki/Mendelian_inheritance>)

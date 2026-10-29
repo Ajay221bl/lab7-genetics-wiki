@@ -1,36 +1,22 @@
 ---
 title: "Natural Selection"
+type: atomic
 aliases:
   - "fitness"
 tags:
   - atomic
-  - disorders
-description: "Natural selection is the process by which individuals whose alleles help them survive and reproduce in their environment leave more offspring, so those alleles become more common."
+  - human-genetic-disorders
+description: "Natural selection is the process where individuals whose alleles help them survive and reproduce in their environment leave more offspring, so those alleles become more common."
 ---
 
-> [!abstract] In one sentence
-> Natural selection is the process by which individuals whose alleles help them survive and reproduce in their environment leave more offspring, so those alleles become more common.
+Natural selection is the process where individuals whose alleles help them survive and reproduce in their environment leave more offspring, so those alleles become more common.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Nature's filter: whatever helps you leave kids in *this* environment gets passed on more.
+Think of it as nature's filter. "Fitness" just means how many surviving offspring you leave compared with others. The filter keeps whatever works **in the current environment**, with all its trade-offs. It doesn't plan ahead and it doesn't aim for perfection.
 
-## Build it from first principles
+The sickle allele is the example: it causes disease in two copies, yet stays common where malaria is, because carriers survive malaria better (study guide Q8f).
 
-**Fitness** = how many surviving offspring an individual leaves, relative to others.
+Try it yourself. Does natural selection produce perfect organisms? No. It favors what works now, costs included.
 
-Selection works with whatever variation exists and favors what works *now*, not what's perfect. The sickle allele persists because carriers survive malaria, even though it causes disease in some of their children (study guide Q8f).
+See also: [[Evolution]], [[Heterozygote Advantage]], [[Why the sickle cell allele survives]].
 
-> [!question]- Test yourself: Does selection produce perfect organisms?
-> **Answer:** No; it favors what works now, with trade-offs.
-
-## Connected ideas
-
-- [[Evolution]]
-- [[Heterozygote Advantage]]
-- [[Mutation]]
-
-Browse more in [[MOC - Human Genetics and Disease]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Natural selection](https://en.wikipedia.org/wiki/Natural_selection)
+Learn more: [Wikipedia: Natural selection](<https://en.wikipedia.org/wiki/Natural_selection>)

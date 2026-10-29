@@ -1,39 +1,20 @@
 ---
 title: "Statistical Analysis"
+type: atomic
 aliases:
   - "statistics"
-  - "statistical test"
 tags:
   - atomic
-  - statistics
-description: "Statistical analysis is the use of math to decide objectively whether a pattern in data is likely due to random chance or to an underlying cause."
+  - statistics-and-chi-square
+description: "Statistical analysis is using numbers to decide whether a pattern in data is real or could just be chance."
 ---
 
-> [!abstract] In one sentence
-> Statistical analysis is the use of math to decide objectively whether a pattern in data is likely due to random chance or to an underlying cause.
+Statistical analysis is using numbers to decide whether a pattern in data is real or could just be chance.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Statistics is a fair referee that decides 'luck or real?' using the same rule for everyone.
+You predicted 3:1. You counted 18 green and 5 albino. That isn't exactly 3:1 (it would be 17.25 : 5.75). Is the prediction wrong, or is that ordinary wobble? Your gut can't tell; a statistical test can ([[Why we need a statistical test at all]]).
 
-## Build it from first principles
+Try it yourself. What question does statistics answer in this lab? Is the gap between observed and expected small enough to blame on chance?
 
-Slide 20. Without statistics, two people can look at 18 green : 5 albino and argue forever about whether it 'looks like' 3 : 1. A statistical test turns that into a rule everyone applies the same way.
+See also: [[Chi-Square Test]], [[Random Chance]], [[Why we need a statistical test at all]].
 
-Slide 20's bell curves: whether a difference matters depends on both its **size** and how much the data **vary by chance**.
-
-> [!question]- Test yourself: What question does statistics answer in Lab 7?
-> **Answer:** Is the gap between observed and expected due to chance or a real difference?
-
-## Connected ideas
-
-- [[Hypothesis]]
-- [[Chi-Square Test]]
-- [[Random Chance]]
-- [[Sample]]
-- [[Topic - Hypothesis Testing]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Statistics](https://en.wikipedia.org/wiki/Statistics)
+Learn more: [Wikipedia: Statistics](<https://en.wikipedia.org/wiki/Statistics>)

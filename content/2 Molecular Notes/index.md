@@ -1,5 +1,5 @@
 ---
-title: "Molecular Notes (Topics)"
+title: "Molecular Notes"
 ---
 
-Topic notes, each telling the story that connects a group of atomic notes. Start with [[MOC - Start Here]] or browse the [[Vault Index|Index]].
+Notes that combine atomic notes: Topic notes tell a story, Why notes explain the reason behind a rule. Start with the [[Learning Path]] or browse [[All Notes]].

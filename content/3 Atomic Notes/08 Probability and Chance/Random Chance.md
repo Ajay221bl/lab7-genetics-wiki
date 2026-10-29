@@ -1,40 +1,23 @@
 ---
 title: "Random Chance"
+type: atomic
 aliases:
   - "chance"
   - "random"
-  - "sampling error"
 tags:
   - atomic
-  - probability
-description: "Random chance is unpredictable variation in outcomes; in genetics it decides which allele each gamete gets and which egg meets which sperm."
+  - probability-and-chance
+description: "Random chance is the unpredictable part of an outcome: you know the odds, but not which way any single event will go."
 ---
 
-> [!abstract] In one sentence
-> Random chance is unpredictable variation in outcomes; in genetics it decides which allele each gamete gets and which egg meets which sperm.
+Random chance is the unpredictable part of an outcome: you know the odds, but not which way any single event will go.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Chance is the wobble you get even when the rules are fixed, like dice that don't always roll evenly.
+Which sperm meets which egg, which pollen grain lands on which silk: nobody steers it. It's like dealing cards from a shuffled deck. You know a quarter are hearts, but not which card comes next.
 
-## Build it from first principles
+Chance is why the null hypothesis can be true and your counts still wander away from the prediction. The chi-square test is a way to ask: **is this gap small enough to blame on chance?**
 
-Slide 20: statistics is 'used to objectively determine if data observed is based on random chance or if there is an underlying cause'.
+Try it yourself. Flip a fair coin 10 times and get 6 heads. Is the coin unfair? Probably not: that's ordinary chance.
 
-Even if a tray truly comes from Gg × Gg (¼ albino), 24 seedlings might show 4, 6 or 9 albinos just by chance. The chi-square test asks: is our gap from the expected small enough to be this kind of chance?
+See also: [[Probability]], [[Null Hypothesis]], [[Why real counts never match the prediction exactly]].
 
-> [!question]- Test yourself: If a tray truly is 3 : 1, must it show exactly 18 : 6 of 24?
-> **Answer:** No; chance makes counts wobble around 18 : 6.
-
-## Connected ideas
-
-- [[Probability]]
-- [[Independent Event]]
-- [[Sample Size]]
-- [[Chi-Square Test]]
-- [[Topic - Chance Probability and Sample Size]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Randomness](https://en.wikipedia.org/wiki/Randomness)
+Learn more: [Wikipedia: Randomness](<https://en.wikipedia.org/wiki/Randomness>)

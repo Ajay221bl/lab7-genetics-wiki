@@ -1,31 +1,18 @@
 ---
 title: "Cystic Fibrosis"
+type: atomic
 tags:
   - atomic
-  - disorders
-description: "Cystic fibrosis is an autosomal recessive disorder in which a faulty chloride-channel protein makes mucus thick and sticky, clogging the lungs and digestive tract."
+  - human-genetic-disorders
+description: "Cystic fibrosis is an autosomal recessive disorder in which a faulty salt channel makes mucus thick and sticky, clogging the lungs and gut."
 ---
 
-> [!abstract] In one sentence
-> Cystic fibrosis is an autosomal recessive disorder in which a faulty chloride-channel protein makes mucus thick and sticky, clogging the lungs and digestive tract.
+Cystic fibrosis is an autosomal recessive disorder in which a faulty salt channel makes mucus thick and sticky, clogging the lungs and gut.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A broken salt-pump means mucus dries out and turns to glue.
+The CFTR gene makes a channel that moves chloride out of cells; water follows the salt, keeping mucus runny. Break both copies and the mucus dries into glue that traps bacteria. One working copy is enough, so it's recessive.
 
-## Build it from first principles
+Try it yourself. Two carriers of CF: chance their child is a carrier? ½.
 
-The CFTR gene makes a channel that moves chloride ions out of cells; water follows, keeping mucus thin. With two broken copies, mucus thickens and traps bacteria. Carriers (one working copy) are healthy, which is why it's recessive.
+See also: [[Autosomal Recessive Disorder]], [[Carrier]].
 
-> [!question]- Test yourself: Is CF dominant or recessive?
-> **Answer:** Autosomal recessive.
-
-## Connected ideas
-
-- [[Autosomal Recessive Disorder]]
-- [[Carrier]]
-
-Browse more in [[MOC - Human Genetics and Disease]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Cystic fibrosis](https://en.wikipedia.org/wiki/Cystic_fibrosis)
+Learn more: [Wikipedia: Cystic fibrosis](<https://en.wikipedia.org/wiki/Cystic_fibrosis>)

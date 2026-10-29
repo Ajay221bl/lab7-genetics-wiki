@@ -1,43 +1,24 @@
 ---
 title: "Corn"
+type: atomic
 aliases:
-  - "Zea mays"
   - "maize"
+  - "Zea mays"
   - "corn plant"
 tags:
   - atomic
-  - corn-lab
-description: "Corn (maize, Zea mays) is a grass whose ears hold hundreds of kernels, each a separate offspring, which makes it ideal for counting genetic ratios."
+  - the-corn-lab
+description: "Corn (maize, Zea mays) is the plant Lab 7 uses because each ear holds hundreds of offspring from a single cross, all visible at once."
 ---
 
-> [!abstract] In one sentence
-> Corn (maize, Zea mays) is a grass whose ears hold hundreds of kernels, each a separate offspring, which makes it ideal for counting genetic ratios.
+Corn (maize, *Zea mays*) is the plant Lab 7 uses because each ear holds hundreds of offspring from a single cross, all visible at once.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Corn is a natural genetics counting board: one ear holds hundreds of kids from the same parents.
+Mendel needed years of pea plants to count hundreds of offspring. A corn ear gives you a few hundred children of one cross on one cob, with their traits (color, shape) showing right on the kernels. It's a genetics textbook you can hold.
 
-## Build it from first principles
+Corn also keeps its male and female flowers in separate places (tassel on top, ear lower down), so breeders can control exactly who pollinates whom ([[Controlled Cross]]).
 
-Why geneticists love corn:
-- One ear = one cross = hundreds of offspring you can count in minutes.
-- Kernel color and shape show the kernel's own genotype, so you can 'read' offspring straight off the cob.
-- Corn has separate male flowers ([[Tassel|tassel]]) and female flowers ([[Corn Ear|ear]]), so breeders can control exactly which pollen fertilizes which ear.
+Try it yourself. Why use corn instead of humans to study ratios? Hundreds of offspring per cross, controlled matings, and the traits show on the kernels.
 
-Barbara McClintock won a Nobel Prize for discovering 'jumping genes' by studying corn kernel colors.
+See also: [[Corn Ear]], [[Tassel]], [[Silk]], [[Topic - Corn as a Genetic Model]].
 
-> [!question]- Test yourself: Why is each kernel an offspring?
-> **Answer:** Each kernel comes from a separately fertilized ovule.
-
-## Connected ideas
-
-- [[Corn Ear]]
-- [[Kernel]]
-- [[Tassel]]
-- [[Silk]]
-- [[Topic - Corn as a Genetic Model]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Maize](https://en.wikipedia.org/wiki/Maize)
+Learn more: [Wikipedia: Maize](<https://en.wikipedia.org/wiki/Maize>)

@@ -1,5 +1,6 @@
 ---
 title: "Calc 01 - Fraction Decimal Percent"
+type: molecular
 aliases:
   - "fraction to percent"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Converting between ratios, fractions, decimals and percents."
 ---
 
-> [!example] The Feynman version
-> A fraction is a division you haven't done yet. ¾ means 'three divided by four'. Do the division and you get a decimal (0.75). 'Percent' means 'out of 100', so multiply by 100 (75%).
+A fraction is a division you haven't done yet. ¾ means 'three divided by four'. Do the division and you get a decimal (0.75). 'Percent' means 'out of 100', so multiply by 100 (75%).
 
 ## Steps
 
@@ -28,7 +28,6 @@ description: "Converting between ratios, fractions, decimals and percents."
 | 3/16 | 0.1875 | 18.75% |
 | 9/16 | 0.5625 | 56.25% |
 
-> [!question]- Try it: 1 : 2 : 1 as percents?
-> **Answer:** 25%, 50%, 25%.
+Try it yourself. 1 : 2 : 1 as percents? 25%, 50%, 25%.
 
 Concepts: [[Ratio]] · [[Proportion]] · [[Percent]] · [[Frequency]] · Back to [[MOC - Calculations]]

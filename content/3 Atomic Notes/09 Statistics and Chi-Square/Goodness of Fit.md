@@ -1,35 +1,20 @@
 ---
 title: "Goodness of Fit"
+type: atomic
 aliases:
   - "goodness-of-fit"
-  - "fit"
 tags:
   - atomic
-  - statistics
-description: "A goodness-of-fit test checks how well observed counts match the counts predicted by a hypothesis."
+  - statistics-and-chi-square
+description: "Goodness of fit is how well observed counts match the counts a hypothesis predicts."
 ---
 
-> [!abstract] In one sentence
-> A goodness-of-fit test checks how well observed counts match the counts predicted by a hypothesis.
+Goodness of fit is how well observed counts match the counts a hypothesis predicts.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> How well does the glove (data) fit the hand (prediction)?
+Like trying on a glove: does the data "fit" the 3:1 hand? The chi-square goodness-of-fit test puts a number on how badly it fits.
 
-## Build it from first principles
+Try it yourself. Small χ²: good fit or poor fit? Good fit.
 
-Manual p. 124: the chi-square test 'allows us to test the goodness of fit'. 'Fit' means observed ≈ expected. A small χ² = good fit; a large χ² = poor fit.
+See also: [[Chi-Square Test]], [[Chi-Square Statistic]].
 
-> [!question]- Test yourself: Small χ² means good or poor fit?
-> **Answer:** Good fit.
-
-## Connected ideas
-
-- [[Chi-Square Test]]
-- [[Observed Value]]
-- [[Expected Value]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Goodness of fit](https://en.wikipedia.org/wiki/Goodness_of_fit)
+Learn more: [Wikipedia: Goodness of fit](<https://en.wikipedia.org/wiki/Goodness_of_fit>)

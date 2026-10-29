@@ -1,5 +1,6 @@
 ---
 title: "MOC - Exam Prep"
+type: moc
 aliases:
   - "study guide path"
 tags:
@@ -13,7 +14,7 @@ Slide 2 says students must be able to:
 Read [[Topic - The Four Patterns of Inheritance]]. Drill: slide 17 (speckled chickens → [[Codominance]]), slide 18 (gray → [[Incomplete Dominance]]), red × white → pink, [[Worked - Study Guide Q4 Mouse Hair]], [[Worked - Study Guide Q6 Blood Type]], [[Worked - Study Guide Q7 Color Blindness]].
 
 ## 2. Define and apply the terminology
-Slides 3-5: [[Gene]], [[Allele]], [[Homozygous]], [[Heterozygous]], [[Genotype]], [[Phenotype]]. Then everything in the [[Vault Index|Index]], using each note's **Test yourself** box.
+Slides 3-5: [[Gene]], [[Allele]], [[Homozygous]], [[Heterozygous]], [[Genotype]], [[Phenotype]]. Then everything in the [[All Notes]], using each note's **Test yourself** box.
 
 ## 3. Find genotype and phenotype frequencies with Punnett squares
 Monohybrid: slides 10-12 (Bb × Bb → ¼ BB, ½ Bb, ¼ bb; ¾ brown, ¼ green), [[Worked - Study Guide Q2 Freckles]], [[Worked - Study Guide Q3 Smooth Eyebrows]]. Dihybrid: [[Calc 04 - Filling a Dihybrid Punnett Square]], [[Worked - Corn Ear 5 Dihybrid F2]].

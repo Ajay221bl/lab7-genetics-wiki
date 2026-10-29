@@ -1,34 +1,21 @@
 ---
 title: "Prokaryote"
+type: atomic
 aliases:
   - "prokaryotes"
   - "prokaryotic"
 tags:
   - atomic
-  - mtdna
-description: "A prokaryote is a single-celled organism with no nucleus, such as a bacterium; its DNA is usually a single loop."
+  - mitochondrial-dna
+description: "A prokaryote is a single-celled organism without a nucleus, such as a bacterium; its DNA is usually one circular loop."
 ---
 
-> [!abstract] In one sentence
-> A prokaryote is a single-celled organism with no nucleus, such as a bacterium; its DNA is usually a single loop.
+A prokaryote is a single-celled organism without a nucleus, such as a bacterium; its DNA is usually one circular loop.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A one-room cell with no nucleus.
+A one-room cell. Mitochondria began as prokaryotes (manual p. 123).
 
-## Build it from first principles
+Try it yourself. Is a bacterium a prokaryote? Yes.
 
-Mitochondria began as prokaryotes (manual p. 123), which is why mtDNA is circular.
+See also: [[Eukaryote]], [[Endosymbiotic Theory]].
 
-> [!question]- Test yourself: Is a bacterium a prokaryote?
-> **Answer:** Yes.
-
-## Connected ideas
-
-- [[Eukaryote]]
-- [[Endosymbiotic Theory]]
-
-Browse more in [[MOC - Mitochondrial DNA]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Prokaryote](https://en.wikipedia.org/wiki/Prokaryote)
+Learn more: [Wikipedia: Prokaryote](<https://en.wikipedia.org/wiki/Prokaryote>)

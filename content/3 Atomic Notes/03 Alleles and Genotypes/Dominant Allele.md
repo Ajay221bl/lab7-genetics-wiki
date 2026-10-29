@@ -1,46 +1,27 @@
 ---
 title: "Dominant Allele"
+type: atomic
 aliases:
   - "dominant"
   - "dominance"
 tags:
   - atomic
-  - alleles-genotypes
-description: "A dominant allele is one whose trait shows up even when only one copy is present (in the heterozygote); it masks the recessive allele."
+  - alleles-and-genotypes
+description: "A dominant allele is one whose trait shows even when there's only one copy of it: in a heterozygote, it hides the other allele."
 ---
 
-> [!abstract] In one sentence
-> A dominant allele is one whose trait shows up even when only one copy is present (in the heterozygote); it masks the recessive allele.
+A dominant allele is one whose trait shows even when there's only one copy of it: in a heterozygote, it hides the other allele.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A dominant allele is like a light switch that's on: one 'on' switch in the room is enough to light it.
+The manual (p. 122): dominant alleles "mask or hide the phenotypic expression of recessive alleles". That's the definition by its effect. But *why* would one allele hide another? Is it stronger?
 
-## Build it from first principles
+Not really. Think of a room with two light switches wired to the same bulb. If either switch is on, the room is lit. A working allele is a switch that's on: it makes a working enzyme. One working copy usually makes enough enzyme, so Rr is just as purple as RR. The working allele looks "dominant" simply because it's the one doing something ([[Why the working allele is usually dominant]]).
 
-Manual p. 122: 'certain alleles are dominant, which means they mask or hide the phenotypic expression of recessive alleles'.
+Lab 7's dominant alleles: G (green), R (purple), H (smooth); in the pea problems D (purple flowers) and H (tall).
 
-Why would one allele 'win'? Usually the dominant allele is the one that **works**: it makes a functioning enzyme, and one working copy makes enough product (see [[Topic - Why Dominance Happens]]).
+The trap: "dominant means more common" or "dominant means better". Neither. The allele for Huntington disease is dominant and rare ([[Why dominant does not mean common]]).
 
-Common misconception: dominant does **not** mean 'more common' or 'better'. The allele for [[Huntington Disease]] is dominant and rare.
+Try it yourself. If you see a purple kernel, do you know it has two R alleles? No: it has at least one R. It could be RR or Rr.
 
-## Where it shows up in Lab 7
+See also: [[Recessive Allele]], [[Complete Dominance]], [[Why the working allele is usually dominant]], [[Why dominant does not mean common]].
 
-Dominant alleles in Lab 7: G (green), R (purple), H (smooth); in the pea practice problems D (purple flowers) and H (tall).
-
-> [!question]- Test yourself: Does dominant mean more common?
-> **Answer:** No. It means it shows in the heterozygote. Huntington's allele is dominant and rare.
-
-## Connected ideas
-
-- [[Recessive Allele]]
-- [[Complete Dominance]]
-- [[Allele Notation]]
-- [[Heterozygous]]
-- [[Topic - Why Dominance Happens]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Dominant](https://www.genome.gov/genetics-glossary/Dominant)
-- [Wikipedia: Dominance (genetics)](https://en.wikipedia.org/wiki/Dominance_(genetics))
+Learn more: [NHGRI Talking Glossary: Dominant](<https://www.genome.gov/genetics-glossary/Dominant>) · [Wikipedia: Dominance (genetics)](<https://en.wikipedia.org/wiki/Dominance_(genetics)>)

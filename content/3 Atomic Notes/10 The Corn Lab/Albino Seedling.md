@@ -1,38 +1,22 @@
 ---
 title: "Albino Seedling"
+type: atomic
 aliases:
   - "albino"
+  - "albino seedlings"
   - "white seedling"
-  - "albino corn plant"
-  - "white plant"
 tags:
   - atomic
-  - corn-lab
-description: "An albino seedling is homozygous recessive (gg): it makes no chlorophyll, so it is white and dies once the food stored in its seed runs out."
+  - the-corn-lab
+description: "An albino seedling is gg: it has no working copy of the chlorophyll gene, so it's white and can't photosynthesize."
 ---
 
-> [!abstract] In one sentence
-> An albino seedling is homozygous recessive (gg): it makes no chlorophyll, so it is white and dies once the food stored in its seed runs out.
+An albino seedling is gg: it has no working copy of the chlorophyll gene, so it's white and can't photosynthesize.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> White means both chlorophyll genes are broken.
+It lives briefly on the food stored in its seed, then dies once that runs out. The big inference: a gg seedling got one g from **each** parent, so both parents carried g ([[Why an albino seedling means both parents carry g]]).
 
-## Build it from first principles
+Try it yourself. A tray has a few albino seedlings. What do you know about both parents? Each carries at least one g.
 
-Seeing even one albino tells you something powerful: that seedling is gg, so **both parents must carry g**. That rules out every cross with a GG parent (Table A crosses 1-3).
+See also: [[Green Seedling]], [[Photosynthesis]], [[Recessive Allele]], [[Topic - Who Were the Parents]].
 
-> [!question]- Test yourself: Genotype?
-> **Answer:** gg.
-
-## Connected ideas
-
-- [[Green Seedling]]
-- [[Chlorophyll]]
-- [[Recessive Allele]]
-- [[Worked - Table A Six Parental Crosses]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Albinism in plants](https://en.wikipedia.org/wiki/Albinism_in_plants)
+Learn more: [Wikipedia: Albinism in plants](<https://en.wikipedia.org/wiki/Albinism_in_plants>)

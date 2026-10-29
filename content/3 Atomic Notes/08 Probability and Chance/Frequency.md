@@ -1,37 +1,18 @@
 ---
 title: "Frequency"
+type: atomic
 aliases:
-  - "frequencies"
   - "relative frequency"
 tags:
   - atomic
-  - probability
-description: "In this lab, frequency means how often a category occurs relative to the total, usually written as a fraction or percent; it can also mean a raw count."
+  - probability-and-chance
+description: "Frequency in this lab means how often something shows up, as a fraction of the total: the same idea as a proportion."
 ---
 
-> [!abstract] In one sentence
-> In this lab, frequency means how often a category occurs relative to the total, usually written as a fraction or percent; it can also mean a raw count.
+Frequency in this lab means how often something shows up, as a fraction of the total: the same idea as a proportion.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Frequency is 'how often', either as a share (¾) or a raw tally (18).
+Lab language: "genotype frequency of Gg is ½" just means half the offspring are expected to be Gg. Sometimes "frequency" means a raw count ("we saw albino 5 times"); check which one a question wants.
 
-## Build it from first principles
+Try it yourself. In 200 kernels, 50 are yellow. Frequency of yellow? 50/200 = 0.25.
 
-Careful: the manual uses 'frequency' two ways.
-- **Expected frequency** / **predicted frequency** = a fraction or percent (¾, 75%).
-- 'Observed frequencies' on p. 124 = the actual **counts** (O).
-
-The chi-square table needs **counts** in the O and E columns, never percents (see [[Assumptions of Chi-Square]]).
-
-> [!question]- Test yourself: Which version goes in the chi-square O column?
-> **Answer:** Raw counts.
-
-## Connected ideas
-
-- [[Proportion]]
-- [[Genotype Frequency]]
-- [[Phenotype Frequency]]
-- [[Observed Value]]
-- [[Expected Value]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
+See also: [[Genotype Frequency]], [[Phenotype Frequency]], [[Proportion]].

@@ -1,5 +1,6 @@
 ---
 title: "Worked - Corn Ear 5 Dihybrid F2"
+type: molecular
 aliases:
   - "corn ear 5"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Dihybrid cross 2: RrHh × RrHh (Corn Ear 5), expected 9:3:3:1."
 ---
 
-> [!warning] Sample data
-> These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
+*Sample data.* These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
 
 Square: see [[Calc 04 - Filling a Dihybrid Punnett Square]].
 

@@ -1,41 +1,30 @@
 ---
 title: "Test Cross"
+type: atomic
 aliases:
   - "testcross"
   - "back cross"
 tags:
   - atomic
-  - crosses
-description: "A test cross crosses an individual showing the dominant phenotype with a homozygous recessive individual to reveal whether it is homozygous or heterozygous."
+  - crosses-and-predictions
+description: "A test cross mates an individual that shows the dominant phenotype with a homozygous recessive, to reveal whether it's homozygous or heterozygous."
 ---
 
-> [!abstract] In one sentence
-> A test cross crosses an individual showing the dominant phenotype with a homozygous recessive individual to reveal whether it is homozygous or heterozygous.
+A test cross mates an individual that shows the dominant phenotype with a homozygous recessive, to reveal whether it's homozygous or heterozygous.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A test cross is a lie detector: cross the mystery dominant with rr, and any recessive offspring expose a hidden r.
+The problem: a purple kernel could be RR or Rr, and you can't tell by looking. The trick: cross it with rr. The rr partner can only give r, so it can't hide anything.
 
-## Build it from first principles
+- If the mystery parent is RR: every child is Rr, all purple.
+- If it's Rr: half Rr, half rr, so 1 purple : 1 yellow.
 
-Problem: a purple kernel could be RR or Rr; you can't tell by looking. Solution: cross it with **rr**.
-- If it's **RR**: all offspring Rr → all purple.
-- If it's **Rr**: ½ Rr, ½ rr → **1 purple : 1 yellow**.
+![[Test cross outcomes.png|700]]
 
-Any yellow offspring prove the parent was Rr. Corn Ear 2 (Rr × rr) and Corn Ear 4 (RrHh × rrhh) are test crosses.
+*Even one yellow offspring proves the purple parent was Rr.*
 
-> [!question]- Test yourself: Rr × rr: expected ratio?
-> **Answer:** 1 : 1.
+Ear 2 (Rr × rr) and ear 4 (RrHh × rrhh) are test crosses.
 
-## Connected ideas
+Try it yourself. A test cross gives 48 purple and 52 yellow. What was the purple parent? Rr.
 
-- [[Homozygous Recessive]]
-- [[1-1 Ratio]]
-- [[1-1-1-1 Ratio]]
-- [[Worked - Corn Ear 2 Test Cross]]
-- [[Worked - Corn Ear 4 Dihybrid Test Cross]]
+See also: [[Homozygous Recessive]], [[1-1 Ratio]], [[Why a test cross uses a homozygous recessive partner]].
 
-Browse more in [[MOC - Crosses and Punnett Squares]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Test cross](https://en.wikipedia.org/wiki/Test_cross)
+Learn more: [Wikipedia: Test cross](<https://en.wikipedia.org/wiki/Test_cross>)

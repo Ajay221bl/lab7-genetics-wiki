@@ -1,41 +1,23 @@
 ---
 title: "Egg"
+type: atomic
 aliases:
   - "ovum"
   - "egg cell"
-  - "eggs"
 tags:
   - atomic
-  - meiosis-gametes
-description: "An egg (ovum) is the female gamete: a large haploid cell that carries one set of chromosomes plus most of the cytoplasm and organelles, including mitochondria, for the future embryo."
+  - meiosis-and-gametes
+description: "The egg (ovum) is the female gamete: a large haploid cell carrying one set of chromosomes plus nearly all the cytoplasm, nutrients and mitochondria for the new embryo."
 ---
 
-> [!abstract] In one sentence
-> An egg (ovum) is the female gamete: a large haploid cell that carries one set of chromosomes plus most of the cytoplasm and organelles, including mitochondria, for the future embryo.
+The egg (ovum) is the female gamete: a large haploid cell carrying one set of chromosomes plus nearly all the cytoplasm, nutrients and mitochondria for the new embryo.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The egg is the big suitcase: it brings the chromosomes and all the furniture (cytoplasm, mitochondria) for the new home.
+If the sperm is a courier carrying one envelope, the egg is a moving truck: it brings a set of chromosomes **and** all the furniture for the new home. That's why your mitochondria come from your mother ([[Maternal Inheritance]]).
 
-## Build it from first principles
+In corn, each egg sits in an [[Ovule|ovule]] on the ear; a fertilized ovule becomes one [[Kernel|kernel]].
 
-The egg is huge compared with a sperm because it supplies the starting materials of the embryo. That includes the [[Mitochondrion|mitochondria]], which is why [[Mitochondrial DNA|mtDNA]] is inherited from the mother (see [[Maternal Inheritance]]).
+Try it yourself. Why is the egg so much bigger than the sperm? It has to supply the cytoplasm and organelles the embryo starts with.
 
-In corn, the egg sits inside an [[Ovule|ovule]] on the [[Corn Ear|ear]]; each fertilized ovule becomes one [[Kernel|kernel]].
+See also: [[Sperm]], [[Oogenesis]], [[Maternal Inheritance]], [[Ovule]].
 
-> [!question]- Test yourself: Why do your mitochondria come from your mother?
-> **Answer:** The egg supplies the cytoplasm and mitochondria; the sperm delivers almost only chromosomes.
-
-## Connected ideas
-
-- [[Gamete]]
-- [[Sperm]]
-- [[Oogenesis]]
-- [[Fertilization]]
-- [[Maternal Inheritance]]
-- [[Ovule]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Egg cell](https://en.wikipedia.org/wiki/Egg_cell)
+Learn more: [Wikipedia: Egg cell](<https://en.wikipedia.org/wiki/Egg_cell>)

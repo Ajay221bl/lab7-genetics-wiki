@@ -1,34 +1,20 @@
 ---
 title: "Chlorophyll"
+type: atomic
 tags:
   - atomic
   - building-blocks
-description: "Chlorophyll is the green pigment in plants that captures light energy for photosynthesis."
+description: "Chlorophyll is the green pigment that lets plants capture light energy for photosynthesis."
 ---
 
-> [!abstract] In one sentence
-> Chlorophyll is the green pigment in plants that captures light energy for photosynthesis.
+Chlorophyll is the green pigment that lets plants capture light energy for photosynthesis.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Chlorophyll is a plant's solar panel, and it happens to be green. No solar panel, no food once the packed lunch in the seed runs out.
+Think of chlorophyll as a plant's solar panel. It absorbs red and blue light to power [[Photosynthesis|photosynthesis]] and reflects green, which is why leaves look green.
 
-## Build it from first principles
+An [[Albino Seedling|albino]] seedling (gg) can't make chlorophyll. It sprouts using the packed lunch of food stored in the seed, but it has no solar panels to make more. When the lunch runs out, it dies. That's why the albino seedlings at the end of the week don't need special care.
 
-A plant makes its food by photosynthesis, and chlorophyll is the molecule that absorbs the light to power it. It absorbs red and blue light and reflects green, which is why leaves look green.
+Try it yourself. Could a gg seedling survive if you fed it sugar? Possibly for a while, in a lab dish, because the only thing it lacks is the ability to make its own food.
 
-A seedling that can't make chlorophyll is white ([[Albino Seedling|albino]]). It can grow for a short while using the food stored in the seed, but it cannot photosynthesize, so it dies when that store runs out. That's why the instructors don't need to keep the albino seedlings alive at the end of the week.
+See also: [[Photosynthesis]], [[Albino Seedling]], [[Green Seedling]], [[Pigment]].
 
-> [!question]- Test yourself: Why do albino seedlings die?
-> **Answer:** No chlorophyll → no photosynthesis → they starve when the seed's stored food is used up.
-
-## Connected ideas
-
-- [[Pigment]]
-- [[Albino Seedling]]
-- [[Green Seedling]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Chlorophyll](https://en.wikipedia.org/wiki/Chlorophyll)
+Learn more: [Wikipedia: Chlorophyll](<https://en.wikipedia.org/wiki/Chlorophyll>)

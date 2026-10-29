@@ -1,5 +1,6 @@
 ---
 title: "Calc 10 - Comparing and Deciding"
+type: molecular
 aliases:
   - "decision rule"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Comparing chi-square with the critical value and deciding to reject or fail to reject."
 ---
 
-> [!example] The Feynman version
-> The critical value is a fence. If your χ² stays inside the fence, the gap is the kind luck makes all the time. If it jumps the fence, luck rarely does that, so you suspect something real.
+The critical value is a fence. If your χ² stays inside the fence, the gap is the kind luck makes all the time. If it jumps the fence, luck rarely does that, so you suspect something real.
 
 ## Write it like this (TA tip)
 

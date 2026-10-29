@@ -1,5 +1,6 @@
 ---
 title: "X-Linked Trait"
+type: atomic
 aliases:
   - "X-linked"
   - "X-linked recessive"
@@ -9,38 +10,22 @@ tags:
 description: "An X-linked trait is controlled by a gene on the X chromosome; X-linked recessive traits show far more often in males because males have only one X."
 ---
 
-> [!abstract] In one sentence
-> An X-linked trait is controlled by a gene on the X chromosome; X-linked recessive traits show far more often in males because males have only one X.
+An X-linked trait is controlled by a gene on the X chromosome; X-linked recessive traits show far more often in males because males have only one X.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Daughters get a backup X; sons don't, so a son shows whatever is on his one X.
+Write the allele as a superscript on the X: Xᴮ (normal), Xᵇ (color-blind).
 
-## Build it from first principles
-
-Notation: write the allele as a superscript on the X: **X^B** (normal), **X^b** (color-blind).
-
-| | Genotypes | Phenotype |
+| | Genotype | Phenotype |
 |---|---|---|
-| Female | X^B X^B, X^B X^b | normal (X^B X^b is a [[Carrier|carrier]]) |
-| Female | X^b X^b | affected |
-| Male | X^B Y | normal |
-| Male | X^b Y | affected |
+| Female | XᴮXᴮ | normal |
+| Female | XᴮXᵇ | normal, carrier |
+| Female | XᵇXᵇ | affected |
+| Male | XᴮY | normal |
+| Male | XᵇY | affected |
 
-A male needs one copy to be affected; a female needs two. A son gets his X from his mother, so X-linked traits go mother → son, never father → son.
+Two consequences you can reason out: a son gets his X from his mother (his father gave the Y), so X-linked traits go mother → son, never father → son. And an affected woman passes Xᵇ to every son, so all her sons are affected ([[Worked - Study Guide Q7 Color Blindness]]).
 
-> [!question]- Test yourself: Can a father pass an X-linked trait to his son?
-> **Answer:** No; he gives his son a Y.
+Try it yourself. Normal man × carrier woman. What fraction of their sons are color-blind? Half.
 
-## Connected ideas
+See also: [[Sex-Linked Inheritance]], [[Color Blindness]], [[Hemophilia]], [[Carrier]], [[Why X-linked traits show up more in males]].
 
-- [[Sex-Linked Inheritance]]
-- [[Color Blindness]]
-- [[Hemophilia]]
-- [[Carrier]]
-- [[Worked - Study Guide Q7 Color Blindness]]
-
-Browse more in [[MOC - Patterns of Inheritance]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: X-linked recessive inheritance](https://en.wikipedia.org/wiki/X-linked_recessive_inheritance)
+Learn more: [Wikipedia: X-linked recessive inheritance](<https://en.wikipedia.org/wiki/X-linked_recessive_inheritance>)

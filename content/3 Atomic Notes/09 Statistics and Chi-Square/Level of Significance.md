@@ -1,39 +1,22 @@
 ---
 title: "Level of Significance"
+type: atomic
 aliases:
-  - "alpha"
   - "significance level"
-  - "α level"
+  - "alpha"
+  - "0.05 level"
 tags:
   - atomic
-  - statistics
-description: "The level of significance (α) is the risk of a false alarm you agree to accept before testing; α = 0.05 means a 5% chance of rejecting H₀ when it is actually true."
+  - statistics-and-chi-square
+description: "The level of significance (α) is how much risk of a false alarm you're willing to take; biology usually uses 0.05, which is 5%."
 ---
 
-> [!abstract] In one sentence
-> The level of significance (α) is the risk of a false alarm you agree to accept before testing; α = 0.05 means a 5% chance of rejecting H₀ when it is actually true.
+The level of significance (α) is how much risk of a false alarm you're willing to take; biology usually uses 0.05, which is 5%.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> α is how often you're willing to cry wolf when there's no wolf.
+It's where you set the bar before testing. At 0.05 you're saying: "I'll call the difference real only if a gap this big would happen by chance less than 1 time in 20." The price: if H₀ is true, you'll still wrongly reject it about 5% of the time ([[Type I Error]]).
 
-## Build it from first principles
+Try it yourself. Why not use 0.0001 to be extra safe? You'd almost never detect a real difference ([[Type II Error]]).
 
-Manual p. 125: scientists often choose 0.05. Using 0.01 is more conservative: you need stronger evidence (chance alone would cause the result less than 1% of the time). Lab 7 always uses **0.05**.
+See also: [[P-Value]], [[Critical Value]], [[Type I Error]], [[Why about 1 in 20 honest tables will still reject]].
 
-α picks the **column** of the critical-value table. You never compare χ² with 0.05 directly.
-
-> [!question]- Test yourself: Do you compare χ² to 0.05?
-> **Answer:** No; α picks the table column, you compare χ² to the critical value.
-
-## Connected ideas
-
-- [[P-Value]]
-- [[Critical Value]]
-- [[Type I Error]]
-- [[Statistically Significant]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Statistical significance](https://en.wikipedia.org/wiki/Statistical_significance)
+Learn more: [Wikipedia: Statistical significance](<https://en.wikipedia.org/wiki/Statistical_significance>)

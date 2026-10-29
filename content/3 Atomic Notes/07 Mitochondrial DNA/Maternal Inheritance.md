@@ -1,38 +1,23 @@
 ---
 title: "Maternal Inheritance"
+type: atomic
 aliases:
   - "mitochondrial inheritance"
   - "inherited from the mother"
 tags:
   - atomic
-  - mtdna
-description: "Maternal inheritance means a trait or DNA is passed only from mother to offspring, as mitochondria and mtDNA are."
+  - mitochondrial-dna
+description: "Maternal inheritance means something is passed only from mother to offspring, as mitochondria and their DNA are."
 ---
 
-> [!abstract] In one sentence
-> Maternal inheritance means a trait or DNA is passed only from mother to offspring, as mitochondria and mtDNA are.
+Maternal inheritance means something is passed only from mother to offspring, as mitochondria and their DNA are.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Your mitochondria are a hand-me-down from your mom, her mom, and so on.
+The egg brings chromosomes **and** cytoplasm full of mitochondria; the sperm brings chromosomes and little else, and the egg destroys any sperm mitochondria that get in (manual p. 123). So your mitochondria are copies of your mother's, which are copies of hers.
 
-## Build it from first principles
+Chromosomes: half from Mom, half from Dad. Mitochondria: all from Mom.
 
-The egg contributes cytoplasm and organelles; the sperm contributes chromosomes, and any sperm mitochondria are usually destroyed by enzymes in the egg (manual p. 123). So your mitochondria are copies of your mother's, which are copies of hers, and so on.
+Try it yourself. Who in your family shares your mtDNA? Your mother, your siblings, your maternal grandmother and everyone else in that female line.
 
-Chromosomes: half from mom, half from dad. Mitochondria: all from mom.
+See also: [[Mitochondrial DNA]], [[Egg]], [[Why mitochondria come only from the mother]].
 
-> [!question]- Test yourself: Why don't fathers pass mitochondria?
-> **Answer:** Sperm add few and the egg destroys them.
-
-## Connected ideas
-
-- [[Mitochondrial DNA]]
-- [[Egg]]
-- [[Oogenesis]]
-- [[Spermatogenesis]]
-
-Browse more in [[MOC - Mitochondrial DNA]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Mitochondrial DNA#Inheritance](https://en.wikipedia.org/wiki/Mitochondrial_DNA#Inheritance)
+Learn more: [Wikipedia: Mitochondrial DNA#Inheritance](<https://en.wikipedia.org/wiki/Mitochondrial_DNA#Inheritance>)

@@ -1,30 +1,18 @@
 ---
 title: "Purple Kernel"
+type: atomic
 aliases:
-  - "purple"
+  - "purple kernels"
 tags:
   - atomic
-  - corn-lab
-description: "A purple kernel has at least one R allele (RR or Rr), which makes purple anthocyanin pigment."
+  - the-corn-lab
+description: "A purple kernel has at least one R allele (RR or Rr), so it makes the purple pigment anthocyanin."
 ---
 
-> [!abstract] In one sentence
-> A purple kernel has at least one R allele (RR or Rr), which makes purple anthocyanin pigment.
+A purple kernel has at least one R allele (RR or Rr), so it makes the purple pigment anthocyanin.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Purple means at least one working pigment gene.
+Like green seedlings, you can't tell RR from Rr by looking; that's what a [[Test Cross|test cross]] is for.
 
-## Build it from first principles
+Try it yourself. Can two purple-kernel parents produce yellow kernels? Yes, if both are Rr.
 
-R is dominant, so RR and Rr look the same. Only test crosses or ratios tell them apart.
-
-> [!question]- Test yourself: Possible genotypes?
-> **Answer:** RR or Rr.
-
-## Connected ideas
-
-- [[Yellow Kernel]]
-- [[Pigment]]
-- [[Lab 7 Letter Key]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
+See also: [[Yellow Kernel]], [[Anthocyanin]], [[Lab 7 Letter Key]].

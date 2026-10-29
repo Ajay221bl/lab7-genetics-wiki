@@ -1,36 +1,24 @@
 ---
 title: "Statistically Significant"
+type: atomic
 aliases:
   - "significant"
   - "significant difference"
-  - "not significant"
+  - "significance"
 tags:
   - atomic
-  - statistics
-description: "Statistically significant means a difference is too large to be explained by chance at the chosen α level; it does not mean large or important."
+  - statistics-and-chi-square
+description: "Statistically significant means the gap between observed and expected is too large to be explained by chance alone (χ²  critical value)."
 ---
 
-> [!abstract] In one sentence
-> Statistically significant means a difference is too large to be explained by chance at the chosen α level; it does not mean large or important.
+Statistically significant means the gap between observed and expected is too large to be explained by chance alone (χ² > critical value).
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Significant means 'probably not luck', not 'big' or 'important'.
+"Significant" here does **not** mean big or important. It just means "unlikely to be a fluke".
 
-## Build it from first principles
+The trap: in this lab a significant result is bad news for your genetic hypothesis. Significant means the data **doesn't** fit the predicted ratio.
 
-'Significant difference' → reject H₀. 'No significant difference' → fail to reject H₀. A significant result says 'probably not chance', nothing more.
+Try it yourself. The tray against 1:1 gives χ² = 7.348. Significant? Yes: the data doesn't fit 1:1.
 
-> [!question]- Test yourself: χ² ≥ critical value: significant?
-> **Answer:** Yes.
+See also: [[Reject the Null Hypothesis]], [[Critical Value]].
 
-## Connected ideas
-
-- [[Level of Significance]]
-- [[Reject the Null Hypothesis]]
-- [[P-Value]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Statistical significance](https://en.wikipedia.org/wiki/Statistical_significance)
+Learn more: [Wikipedia: Statistical significance](<https://en.wikipedia.org/wiki/Statistical_significance>)

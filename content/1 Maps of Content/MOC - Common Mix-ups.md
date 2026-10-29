@@ -1,5 +1,6 @@
 ---
 title: "MOC - Common Mix-ups"
+type: moc
 aliases:
   - "misconceptions"
 tags:
@@ -26,4 +27,4 @@ description: "The mistakes students (and instructors) most often make in Lab 7, 
 | H/h means tall/short on the corn | On corn pages H/h is smooth/wrinkled. | [[Lab 7 Letter Key]] |
 | Counting the whole cob | Count five rows (a sample). | [[Counting Five Rows]] |
 
-Main path: [[MOC - Start Here]]
+Main path: [[Learning Path]]

@@ -1,33 +1,18 @@
 ---
 title: "Homozygous Dominant"
-aliases:
-  - "homozygous dominant"
+type: atomic
 tags:
   - atomic
-  - alleles-genotypes
-description: "Homozygous dominant means having two copies of the dominant allele (for example RR); the individual shows the dominant phenotype."
+  - alleles-and-genotypes
+description: "Homozygous dominant means carrying two copies of the dominant allele (like RR), so the individual shows the dominant phenotype and can only pass on the dominant allele."
 ---
 
-> [!abstract] In one sentence
-> Homozygous dominant means having two copies of the dominant allele (for example RR); the individual shows the dominant phenotype.
+Homozygous dominant means carrying two copies of the dominant allele (like RR), so the individual shows the dominant phenotype and can only pass on the dominant allele.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Two 'on' switches. Every child gets at least one 'on' switch from this parent.
+The manual's example (p. 122): if tall is dominant, HH is homozygous dominant, a tall plant.
 
-## Build it from first principles
+An RR parent gives every child an R, so every child shows the dominant phenotype, whatever the other parent is. That's why crosses 1-3 in [[Worked - Table A Six Parental Crosses|Table A]] (all with a GG parent) can't produce a single albino.
 
-Example from the manual (p. 122): if tall is dominant to short, **HH** is homozygous dominant (tall).
+Try it yourself. Can an RR parent ever have a yellow kernel among its offspring? No: every kernel gets an R from it.
 
-RR purple corn makes only R gametes, so every offspring gets at least one R and is purple, no matter the other parent. That's why crosses 1-3 in [[Worked - Table A Six Parental Crosses|Table A]] give 100% green.
-
-> [!question]- Test yourself: Can an RR parent ever have a yellow child?
-> **Answer:** No; it always passes R.
-
-## Connected ideas
-
-- [[Homozygous]]
-- [[Homozygous Recessive]]
-- [[Heterozygous]]
-- [[Purebred]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
+See also: [[Homozygous]], [[Homozygous Recessive]], [[Worked - Table A Six Parental Crosses]].

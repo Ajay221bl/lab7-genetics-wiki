@@ -1,34 +1,20 @@
 ---
 title: "Phenylketonuria"
+type: atomic
 aliases:
   - "PKU"
 tags:
   - atomic
-  - disorders
-description: "Phenylketonuria (PKU) is an autosomal recessive disorder in which the body cannot break down the amino acid phenylalanine; it is managed with a special diet from birth."
+  - human-genetic-disorders
+description: "Phenylketonuria (PKU) is an autosomal recessive disorder in which the body can't break down phenylalanine, an amino acid in food; a special diet from birth prevents the damage."
 ---
 
-> [!abstract] In one sentence
-> Phenylketonuria (PKU) is an autosomal recessive disorder in which the body cannot break down the amino acid phenylalanine; it is managed with a special diet from birth.
+Phenylketonuria (PKU) is an autosomal recessive disorder in which the body can't break down phenylalanine, an amino acid in food; a special diet from birth prevents the damage.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The body can't process one ingredient, so you take that ingredient out of the diet.
+It's a perfect example of environment shaping phenotype: the genotype never changes, but removing phenylalanine from the diet prevents the symptoms. That's why newborns are screened for it.
 
-## Build it from first principles
+Try it yourself. How does PKU show that phenotype = genotype + environment? Same genotype, different diet, different outcome.
 
-A good example of environment shaping phenotype: the genotype is unchanged, but a low-phenylalanine diet prevents the brain damage. Newborns are screened for it.
+See also: [[Autosomal Recessive Disorder]], [[Phenotype]].
 
-> [!question]- Test yourself: How does PKU show environment affects phenotype?
-> **Answer:** Diet prevents the symptoms without changing the genotype.
-
-## Connected ideas
-
-- [[Autosomal Recessive Disorder]]
-- [[Phenotype]]
-- [[Enzyme]]
-
-Browse more in [[MOC - Human Genetics and Disease]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Phenylketonuria](https://en.wikipedia.org/wiki/Phenylketonuria)
+Learn more: [Wikipedia: Phenylketonuria](<https://en.wikipedia.org/wiki/Phenylketonuria>)

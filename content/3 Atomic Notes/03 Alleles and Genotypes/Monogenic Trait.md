@@ -1,5 +1,6 @@
 ---
 title: "Monogenic Trait"
+type: atomic
 aliases:
   - "monogenetic trait"
   - "single-gene trait"
@@ -7,34 +8,18 @@ aliases:
   - "Mendelian trait"
 tags:
   - atomic
-  - alleles-genotypes
-description: "A monogenic (single-gene, 'monogenetic') trait is controlled by one gene, so its phenotypes fall into a few clear categories."
+  - alleles-and-genotypes
+description: "A monogenic ('monogenetic', single-gene) trait is controlled by one gene, so its phenotypes fall into a few clear categories."
 ---
 
-> [!abstract] In one sentence
-> A monogenic (single-gene, 'monogenetic') trait is controlled by one gene, so its phenotypes fall into a few clear categories.
+A monogenic ("monogenetic", single-gene) trait is controlled by one gene, so its phenotypes fall into a few clear categories.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> One gene, one dial: the trait has a few clear settings (green or albino).
+The manual (p. 126): seedling color is "a simple monogenetic trait in which green pigmentation (G) is dominant over albino (g)". One gene, one dial with a few settings: green or albino. That's what makes the ratios clean (3 : 1, 1 : 1) and countable, which is exactly what chi-square needs.
 
-## Build it from first principles
+Most real traits aren't like that ([[Polygenic Trait]]).
 
-Manual p. 126: seedling color is 'a simple monogenetic trait in which green pigmentation (G) is dominant over albino (g)'.
+Try it yourself. Why does the lab use single-gene traits? They give clear categories and simple predicted ratios to test.
 
-Labs use monogenic traits because they give clean either/or categories and clean ratios (3 : 1, 1 : 1) that chi-square can test. Most real traits are [[Polygenic Trait|polygenic]].
+See also: [[Polygenic Trait]], [[Trait]], [[Monohybrid Cross]].
 
-> [!question]- Test yourself: Why does the lab use monogenic traits?
-> **Answer:** They give clean categories and simple ratios to test.
-
-## Connected ideas
-
-- [[Polygenic Trait]]
-- [[Trait]]
-- [[Gene]]
-- [[Monohybrid Cross]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Monogenic trait](https://en.wikipedia.org/wiki/Monogenic_trait)
+Learn more: [Wikipedia: Monogenic trait](<https://en.wikipedia.org/wiki/Monogenic_trait>)

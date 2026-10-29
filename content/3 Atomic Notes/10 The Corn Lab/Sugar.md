@@ -1,30 +1,20 @@
 ---
 title: "Sugar"
+type: atomic
 aliases:
   - "sugars"
+  - "glucose"
+  - "sucrose"
 tags:
   - atomic
-  - corn-lab
-description: "Sugars are small sweet carbohydrate molecules; in hh kernels sugar is not converted to starch, so it builds up."
+  - the-corn-lab
+description: "Sugar is a small, sweet molecule plants make by photosynthesis; it's the building block of starch."
 ---
 
-> [!abstract] In one sentence
-> Sugars are small sweet carbohydrate molecules; in hh kernels sugar is not converted to starch, so it builds up.
+Sugar is a small, sweet molecule plants make by photosynthesis; it's the building block of starch.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Unstrung beads: small, sweet, water-loving.
+Loose sugar attracts water. That's why hh kernels, stuck with sugar instead of starch, swell with water and then wrinkle as they dry.
 
-## Build it from first principles
+Try it yourself. Which kernel tastes sweeter, smooth or wrinkled? Wrinkled.
 
-A recessive allele breaks the enzyme step from sugar to starch: more sugar, sweeter taste, more water lost on drying, wrinkled kernel.
-
-> [!question]- Test yourself: Why are hh kernels sweet?
-> **Answer:** Sugar isn't converted to starch.
-
-## Connected ideas
-
-- [[Starch]]
-- [[Wrinkled Kernel]]
-- [[Enzyme]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
+See also: [[Starch]], [[Wrinkled Kernel]], [[Photosynthesis]].

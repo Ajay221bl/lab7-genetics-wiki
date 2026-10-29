@@ -1,5 +1,6 @@
 ---
 title: "Worked - Pea Monohybrid Practice"
+type: molecular
 aliases:
   - "pea monohybrid"
 tags:

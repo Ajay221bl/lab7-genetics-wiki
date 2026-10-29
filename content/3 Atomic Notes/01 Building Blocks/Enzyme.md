@@ -1,42 +1,28 @@
 ---
 title: "Enzyme"
+type: atomic
 aliases:
   - "enzymes"
 tags:
   - atomic
   - building-blocks
-description: "An enzyme is a protein that speeds up one specific chemical reaction, such as turning a colorless chemical into a pigment."
+description: "An enzyme is a protein that speeds up one particular chemical reaction, such as one step in making a pigment."
 ---
 
-> [!abstract] In one sentence
-> An enzyme is a protein that speeds up one specific chemical reaction, such as turning a colorless chemical into a pigment.
+An enzyme is a protein that speeds up one particular chemical reaction, such as one step in making a pigment.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> An enzyme is a tiny machine on an assembly line that does one step. If the machine is broken, the product downstream never gets made.
+Picture a factory assembly line making purple paint. Each station has a machine that does one step: colorless starting chemical → intermediate → purple pigment. Each machine is an enzyme, and each is built from its own gene.
 
-## Build it from first principles
+Now break one machine. The line stops at that station and no paint comes out the end. That's what a broken allele does.
 
-Many visible traits are the product of an enzyme doing (or failing to do) its job.
+Here's the crucial question for genetics: what if you have one working machine and one broken one? Usually the line still runs, because one machine can handle the load. The product looks just as purple. **That's what dominance usually is**: one working copy is enough ([[Why the working allele is usually dominant]]).
 
-- A working allele makes a working enzyme → the product (pigment, chlorophyll) gets made.
-- A broken allele makes a broken enzyme → no product.
-- One working copy usually makes *enough* enzyme, which is why the working allele usually looks [[Dominant Allele|dominant]].
+![[Dominance as enzyme dose.png|700]]
 
-This is the most useful first-principles idea in the whole lab: see [[Topic - Why Dominance Happens]].
+*Left: if half the enzyme is still enough for full color, the heterozygote looks like RR (complete dominance). Right: if color depends on dose, it's in between (incomplete dominance).*
 
-> [!question]- Test yourself: Why does one working copy of an enzyme gene often look 'dominant'?
-> **Answer:** One working copy usually makes enough enzyme to produce the full product.
+Try it yourself. If one working copy of an enzyme gene makes only half the pigment, and half isn't enough for full color, what would Rr look like? In between: that's incomplete dominance.
 
-## Connected ideas
+See also: [[Protein]], [[Pigment]], [[Dominant Allele]], [[Why the working allele is usually dominant]].
 
-- [[Protein]]
-- [[Pigment]]
-- [[Dominant Allele]]
-- [[Recessive Allele]]
-- [[Topic - Why Dominance Happens]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Enzyme](https://en.wikipedia.org/wiki/Enzyme)
+Learn more: [Wikipedia: Enzyme](<https://en.wikipedia.org/wiki/Enzyme>)

@@ -1,39 +1,25 @@
 ---
 title: "Probability"
+type: atomic
 aliases:
-  - "chance of an event"
+  - "chance of"
+  - "likelihood"
 tags:
   - atomic
-  - probability
-description: "Probability is a number from 0 (never) to 1 (always) that says how likely an event is; a ¼ probability means it happens about 1 time in 4 over many tries."
+  - probability-and-chance
+description: "Probability is a number from 0 to 1 that says how likely something is: 0 means never, 1 means always, ½ means half the time."
 ---
 
-> [!abstract] In one sentence
-> Probability is a number from 0 (never) to 1 (always) that says how likely an event is; a ¼ probability means it happens about 1 time in 4 over many tries.
+Probability is a number from 0 to 1 that says how likely something is: 0 means never, 1 means always, ½ means half the time.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Probability is the long-run share: flip a coin many times and about half are heads, even though any one flip is unpredictable.
+Picture a bag with 4 marbles: 3 green, 1 white. Reach in blindly. The chance of green is 3 out of 4, so ¾, or 0.75, or 75%. That's the whole idea: **the outcomes you want, divided by all the equally likely outcomes.**
 
-## Build it from first principles
+A Punnett square is a bag of marbles. Gg × Gg makes four equally likely boxes: GG, Gg, gG, gg. Three of them are green, so P(green) = ¾ and P(albino) = ¼ ([[Why every box in a Punnett square is equally likely]]).
 
-Manual p. 122: Punnett-square predictions 'are probabilities'. A probability describes the **long run**, not a single case. A couple told there is a 25% risk can still have four unaffected children; across thousands of such families about 25% of children are affected.
+The trap: probability predicts the **long run**, not the next one. A ¼ chance of albino doesn't mean exactly 1 of every 4 seedlings in your tray is albino ([[Why real counts never match the prediction exactly]]).
 
-Probability can be written as a fraction (¼), decimal (0.25) or percent (25%).
+Try it yourself. Aa × aa. Chance a child is aa? 2 of 4 boxes, so ½.
 
-> [!question]- Test yourself: A couple has a ¼ risk per child. Can they have four affected children?
-> **Answer:** Yes; ¼ is a long-run chance, not a guarantee.
+See also: [[Product Rule]], [[Random Chance]], [[Fractions and Ratios]], [[Punnett Square]].
 
-## Connected ideas
-
-- [[Ratio]]
-- [[Proportion]]
-- [[Random Chance]]
-- [[Independent Event]]
-- [[Product Rule]]
-- [[Law of Large Numbers]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Probability](https://en.wikipedia.org/wiki/Probability)
+Learn more: [Wikipedia: Probability](<https://en.wikipedia.org/wiki/Probability>)

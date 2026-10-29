@@ -1,5 +1,6 @@
 ---
 title: "MOC - Genetics Foundations"
+type: moc
 tags:
   - moc
 description: "Map of the building blocks: DNA, genes, alleles, meiosis and genotype vocabulary."
@@ -18,23 +19,31 @@ The foundations everything else stands on. Read top to bottom.
 ### Building Blocks
 
 - [[Allele]]
+- [[Amino Acid]]
 - [[Autosome]]
 - [[Chlorophyll]]
 - [[Chromosome]]
+- [[Cytoplasm]]
 - [[DNA]]
 - [[Diploid]]
 - [[Enzyme]]
 - [[Gene]]
+- [[Gene Expression]]
 - [[Genotype]]
 - [[Haploid]]
+- [[Heredity]]
 - [[Homologous Chromosomes]]
 - [[Locus]]
 - [[Mutation]]
+- [[Nucleus]]
+- [[Organelle]]
 - [[Phenotype]]
+- [[Photosynthesis]]
 - [[Pigment]]
 - [[Protein]]
 - [[Sex Chromosomes]]
 - [[Trait]]
+- [[Variation]]
 
 ### Meiosis and Gametes
 
@@ -42,6 +51,7 @@ The foundations everything else stands on. Read top to bottom.
 - [[Egg]]
 - [[Fertilization]]
 - [[Gamete]]
+- [[Gene Linkage]]
 - [[Genetic Recombination]]
 - [[Law of Independent Assortment]]
 - [[Law of Segregation]]
@@ -68,4 +78,4 @@ The foundations everything else stands on. Read top to bottom.
 - [[Purebred]]
 - [[Recessive Allele]]
 
-Next map: [[MOC - Patterns of Inheritance]] · Main path: [[MOC - Start Here]]
+Next map: [[MOC - Patterns of Inheritance]] · Main path: [[Learning Path]]

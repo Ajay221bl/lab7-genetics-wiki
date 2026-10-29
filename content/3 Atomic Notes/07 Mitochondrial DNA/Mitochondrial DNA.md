@@ -1,43 +1,30 @@
 ---
 title: "Mitochondrial DNA"
+type: atomic
 aliases:
   - "mtDNA"
 tags:
   - atomic
-  - mtdna
-description: "Mitochondrial DNA (mtDNA) is the small circular DNA inside mitochondria; in humans it has 37 genes and is inherited only from the mother."
+  - mitochondrial-dna
+description: "Mitochondrial DNA (mtDNA) is the small circular DNA inside mitochondria; in humans it holds 37 genes and comes only from the mother."
 ---
 
-> [!abstract] In one sentence
-> Mitochondrial DNA (mtDNA) is the small circular DNA inside mitochondria; in humans it has 37 genes and is inherited only from the mother.
+Mitochondrial DNA (mtDNA) is the small circular DNA inside mitochondria; in humans it holds 37 genes and comes only from the mother.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A tiny separate instruction booklet kept inside the power plant, handed down only from mothers.
+The manual (p. 123): 13 of the genes are for aerobic breakdown of food, 24 for making [[tRNA]] and [[rRNA]]. Three things make it special:
 
-## Build it from first principles
+- It's inherited from the mother only ([[Why mitochondria come only from the mother]]).
+- It doesn't [[Genetic Recombination|recombine]], so it changes only by slow mutation.
+- Every cell has hundreds of copies, versus two copies of each nuclear chromosome.
 
-Manual p. 123: 37 genes — 13 for aerobic breakdown of food molecules, 24 for making [[tRNA]] and [[rRNA]].
+Those properties make it useful for tracing the female line ([[Genealogy]]), for identifying remains ([[Forensic Identification]]), and for comparing species. Its mutations can cause disease in energy-hungry tissues: [[Leber Hereditary Optic Neuropathy]], [[Nonsyndromic Deafness]].
 
-Why it's special:
-- Inherited from the mother ([[Maternal Inheritance]]).
-- No [[Genetic Recombination|recombination]]: it changes only by [[Mutation|mutation]], slowly.
-- Hundreds of copies per cell (vs two of each nuclear chromosome).
+![[Mitochondrial DNA follows the mother.png|700]]
 
-Uses: [[Genealogy|genealogy]] along the female line, [[Forensic Identification|forensics]], comparing species ([[Evolution]]). Mutations cause disease such as [[Leber Hereditary Optic Neuropathy]] and [[Nonsyndromic Deafness]].
+*Grandmother's mtDNA (pink) passes through her daughters to all their children. Her son has it but can't pass it on.*
 
-> [!question]- Test yourself: How many genes in human mtDNA?
-> **Answer:** 37.
+Try it yourself. Do you carry your father's mtDNA? No: yours is your mother's.
 
-## Connected ideas
+See also: [[Mitochondrion]], [[Maternal Inheritance]], [[Why mitochondria come only from the mother]].
 
-- [[Mitochondrion]]
-- [[Maternal Inheritance]]
-- [[Endosymbiotic Theory]]
-- [[Topic - Mitochondrial Inheritance]]
-
-Browse more in [[MOC - Mitochondrial DNA]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Mitochondrial DNA](https://www.genome.gov/genetics-glossary/Mitochondrial-DNA)
-- [Wikipedia: Mitochondrial DNA](https://en.wikipedia.org/wiki/Mitochondrial_DNA)
+Learn more: [NHGRI Talking Glossary: Mitochondrial DNA](<https://www.genome.gov/genetics-glossary/Mitochondrial-DNA>) · [Wikipedia: Mitochondrial DNA](<https://en.wikipedia.org/wiki/Mitochondrial_DNA>)

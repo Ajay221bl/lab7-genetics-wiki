@@ -1,41 +1,26 @@
 ---
 title: "Monohybrid Cross"
+type: atomic
 aliases:
   - "monohybrid"
 tags:
   - atomic
-  - crosses
-description: "A monohybrid cross follows a single gene, classically crossing two individuals heterozygous for that gene (Rr × Rr)."
+  - crosses-and-predictions
+description: "A monohybrid cross follows one gene, classically two heterozygotes (Rr × Rr)."
 ---
 
-> [!abstract] In one sentence
-> A monohybrid cross follows a single gene, classically crossing two individuals heterozygous for that gene (Rr × Rr).
+A monohybrid cross follows one gene, classically two heterozygotes (Rr × Rr).
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Tracking one gene: a 2 × 2 table, four equally likely outcomes.
+Each parent makes 2 kinds of gametes, so the Punnett square is 2 × 2 = 4 boxes. Three outcomes to know by reasoning, not by heart:
 
-## Build it from first principles
-
-Uses a 2 × 2 Punnett square (2 gametes from each parent → 4 boxes). Typical outcomes:
-- Rr × Rr → 3 : 1 phenotypes (complete dominance)
+- Rr × Rr → 3 : 1 phenotypes
 - Rr × rr → 1 : 1 (a [[Test Cross|test cross]])
 - RR × anything → all dominant phenotype
 
-More broadly, any cross that tracks one gene is called monohybrid in the manual (e.g. the green/albino seedlings and Corn Ears 1-3).
+The seedlings and ears 1-3 are all monohybrid problems.
 
-> [!question]- Test yourself: How many boxes in a monohybrid Punnett square?
-> **Answer:** Four.
+Try it yourself. How many boxes in a monohybrid Punnett square, and why? Four: 2 gametes from one parent times 2 from the other.
 
-## Connected ideas
+See also: [[Dihybrid Cross]], [[Punnett Square]], [[Calc 03 - Filling a Monohybrid Punnett Square]].
 
-- [[Dihybrid Cross]]
-- [[Punnett Square]]
-- [[3-1 Ratio]]
-- [[1-1 Ratio]]
-- [[Calc 03 - Filling a Monohybrid Punnett Square]]
-
-Browse more in [[MOC - Crosses and Punnett Squares]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Monohybrid cross](https://en.wikipedia.org/wiki/Monohybrid_cross)
+Learn more: [Wikipedia: Monohybrid cross](<https://en.wikipedia.org/wiki/Monohybrid_cross>)

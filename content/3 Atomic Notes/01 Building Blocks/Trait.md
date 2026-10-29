@@ -1,5 +1,6 @@
 ---
 title: "Trait"
+type: atomic
 aliases:
   - "traits"
   - "character"
@@ -7,33 +8,17 @@ aliases:
 tags:
   - atomic
   - building-blocks
-description: "A trait is any observable or measurable feature of an organism, such as kernel color, flower color, blood type or height."
+description: "A trait is a feature you can observe or measure, like kernel color, plant height or blood type."
 ---
 
-> [!abstract] In one sentence
-> A trait is any observable or measurable feature of an organism, such as kernel color, flower color, blood type or height.
+A trait is a feature you can observe or measure, like kernel color, plant height or blood type.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A trait is the question ('what color is the kernel?'); the phenotype is the answer for one individual ('purple').
+Think of a trait as a question and the [[Phenotype|phenotype]] as one individual's answer. "What color is the kernel?" is the trait. "Purple" is this kernel's phenotype.
 
-## Build it from first principles
+Some traits are controlled by a single gene and come in a few clear categories ([[Monogenic Trait|monogenic]]): the corn traits in Lab 7. Others are shaped by many genes and the environment and vary smoothly, like human height ([[Polygenic Trait|polygenic]]).
 
-A trait is a *kind* of feature (kernel color); the specific form it takes in one individual (purple) is that individual's [[Phenotype|phenotype]] for that trait.
+Try it yourself. Is "albino" a trait or a phenotype? A phenotype. Seedling color is the trait.
 
-Some traits are controlled by one gene ([[Monogenic Trait|monogenic]]): these are the ones Lab 7 uses because the math is clean. Many real traits, like human height or skin color, are [[Polygenic Trait|polygenic]].
+See also: [[Phenotype]], [[Monogenic Trait]], [[Polygenic Trait]].
 
-> [!question]- Test yourself: Is 'purple' a trait or a phenotype?
-> **Answer:** A phenotype; kernel color is the trait.
-
-## Connected ideas
-
-- [[Phenotype]]
-- [[Gene]]
-- [[Monogenic Trait]]
-- [[Polygenic Trait]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Phenotypic trait](https://en.wikipedia.org/wiki/Phenotypic_trait)
+Learn more: [Wikipedia: Phenotypic trait](<https://en.wikipedia.org/wiki/Phenotypic_trait>)

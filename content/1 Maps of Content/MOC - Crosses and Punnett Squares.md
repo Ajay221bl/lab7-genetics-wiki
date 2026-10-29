@@ -1,5 +1,6 @@
 ---
 title: "MOC - Crosses and Punnett Squares"
+type: moc
 tags:
   - moc
 description: "Map of crosses, generations, Punnett squares and the ratios they produce."
@@ -22,6 +23,7 @@ description: "Map of crosses, generations, Punnett squares and the ratios they p
 - [[1-2-1 Ratio]]
 - [[3-1 Ratio]]
 - [[9-3-3-1 Ratio]]
+- [[Controlled Cross]]
 - [[Cross]]
 - [[Dihybrid Cross]]
 - [[F1 Generation]]
@@ -35,6 +37,7 @@ description: "Map of crosses, generations, Punnett squares and the ratios they p
 - [[Phenotype Frequency]]
 - [[Phenotypic Ratio]]
 - [[Punnett Square]]
+- [[Self-Pollination]]
 - [[Test Cross]]
 
-Next map: [[MOC - Statistics and Chi-Square]] · Main path: [[MOC - Start Here]]
+Next map: [[MOC - Statistics and Chi-Square]] · Main path: [[Learning Path]]

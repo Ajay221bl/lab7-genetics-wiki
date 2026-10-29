@@ -1,41 +1,24 @@
 ---
 title: "Assumptions of Chi-Square"
+type: atomic
 aliases:
   - "chi-square assumptions"
-  - "assumptions"
 tags:
   - atomic
-  - statistics
-description: "The chi-square test assumes observed values are counts, each observation is independent, and expected values come from a hypothesis (they need not be whole numbers)."
+  - statistics-and-chi-square
+description: "The chi-square test only works properly when its assumptions hold:"
 ---
 
-> [!abstract] In one sentence
-> The chi-square test assumes observed values are counts, each observation is independent, and expected values come from a hypothesis (they need not be whole numbers).
+The chi-square test only works properly when its assumptions hold:
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The rules of the game the referee assumes you followed.
+- **Counts, not percentages or measurements** ([[Why chi-square needs counts not percentages]]).
+- **Independent observations**: each kernel or seedling counted once, and one doesn't affect another.
+- **Categories that don't overlap**, and every individual fits in exactly one.
+- **Expected counts not too small**: a common rule is every E at least 5. With tiny E, dividing by E blows small gaps up into huge numbers.
+- **Hypothesis chosen beforehand** ([[A Priori Hypothesis]]).
 
-## Build it from first principles
+Try it yourself. A student converts counts to percentages before the test. What goes wrong? χ² changes with the scale, so the result is meaningless.
 
-Manual p. 125:
-1. **Observed values must be counts** of independent events, not percentages or proportions. '75% green' gives a wrong χ²; '18 green' is right.
-2. **Each observation is independent**: one result doesn't influence another (each kernel = one fertilization).
-3. **Expected values need not be whole numbers** (17.25 green is fine).
+See also: [[Chi-Square Test]], [[Why chi-square needs counts not percentages]].
 
-Added from statistics texts: the test gets unreliable if any expected count is very small (a common rule is E ≥ 5).
-
-> [!question]- Test yourself: Can you put percentages in the O column?
-> **Answer:** No; counts only.
-
-## Connected ideas
-
-- [[Observed Value]]
-- [[Expected Value]]
-- [[Independent Event]]
-- [[Chi-Square Test]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Chi-squared test#Assumptions](https://en.wikipedia.org/wiki/Chi-squared_test#Assumptions)
+Learn more: [Wikipedia: Chi-squared test#Assumptions](<https://en.wikipedia.org/wiki/Chi-squared_test#Assumptions>)

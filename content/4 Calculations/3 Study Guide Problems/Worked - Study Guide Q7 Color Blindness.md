@@ -1,5 +1,6 @@
 ---
 title: "Worked - Study Guide Q7 Color Blindness"
+type: molecular
 aliases:
   - "Q7 color blindness"
 tags:

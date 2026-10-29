@@ -1,34 +1,18 @@
 ---
 title: "Population"
-aliases:
-  - "statistical population"
+type: atomic
 tags:
   - atomic
-  - probability
-description: "A population, in statistics, is the entire set of things you want to know about, such as every kernel a particular cross could ever produce."
+  - probability-and-chance
+description: "A population is the whole group you want to know about."
 ---
 
-> [!abstract] In one sentence
-> A population, in statistics, is the entire set of things you want to know about, such as every kernel a particular cross could ever produce.
+A population is the whole group you want to know about.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The whole pot of soup.
+All the seedlings that **could** come from this kind of cross, all the kernels on every ear like yours. You never get to count it all; it's the idea the prediction is about.
 
-## Build it from first principles
+Try it yourself. In the seedling experiment, is your tray the population? No, it's a sample from it.
 
-You can almost never count a whole population, so you count a [[Sample|sample]] and use statistics to judge the population. Slide 20.
+See also: [[Sample]], [[Sample Size]].
 
-> [!question]- Test yourself: What is the population for ear 1?
-> **Answer:** All kernels that cross could produce (the whole ear and beyond).
-
-## Connected ideas
-
-- [[Sample]]
-- [[Sample Size]]
-- [[Statistical Analysis]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Statistical population](https://en.wikipedia.org/wiki/Statistical_population)
+Learn more: [Wikipedia: Statistical population](<https://en.wikipedia.org/wiki/Statistical_population>)

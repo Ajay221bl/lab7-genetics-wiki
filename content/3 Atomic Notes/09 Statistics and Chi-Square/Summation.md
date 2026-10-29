@@ -1,33 +1,21 @@
 ---
 title: "Summation"
+type: atomic
 aliases:
   - "sigma"
-  - "sum of"
+  - "sum"
 tags:
   - atomic
-  - statistics
-description: "The Σ (capital sigma) symbol means 'add up all of these'; in χ² = Σ (O − E)² / E it means add the last column across all categories."
+  - statistics-and-chi-square
+description: "Summation means adding up a list of numbers; the symbol Σ (capital Greek sigma) means 'add up all of these'."
 ---
 
-> [!abstract] In one sentence
-> The Σ (capital sigma) symbol means 'add up all of these'; in χ² = Σ (O − E)² / E it means add the last column across all categories.
+Summation means adding up a list of numbers; the symbol Σ (capital Greek sigma) means "add up all of these".
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Σ is the 'add them all up' button.
+In χ² = Σ (O − E)²/E, the Σ says: work out (O − E)²/E for **every** category, then add them. The "Sum =" line at the bottom of the grid is that total.
 
-## Build it from first principles
+Try it yourself. Three categories give 0.2, 0.5, 0.1. χ²? 0.8.
 
-Manual p. 124: 'Σ = the sum of'. In the table, it's the 'Sum =' box at the bottom of the (O − E)²/E column.
+See also: [[Summation Notation]], [[Chi-Square Statistic]].
 
-> [!question]- Test yourself: What do you sum to get χ²?
-> **Answer:** The (O − E)²/E column.
-
-## Connected ideas
-
-- [[Chi-Square Statistic]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Summation](https://en.wikipedia.org/wiki/Summation)
+Learn more: [Wikipedia: Summation](<https://en.wikipedia.org/wiki/Summation>)

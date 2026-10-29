@@ -1,5 +1,6 @@
 ---
 title: "MOC - Calculations"
+type: moc
 aliases:
   - "calculations map"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Every calculation students perform in Lab 7, as reusable skills and fully worked examples."
 ---
 
-> [!tip] How to use
-> Learn each **skill** once (they build on each other in number order), then redo every **worked** calculation on paper before peeking.
+**How to use.** Learn each **skill** once (they build on each other in number order), then redo every **worked** calculation on paper before peeking.
 
 ## The chi-square pipeline (memorize this chain)
 Counts → [[Calc 06 - Expected Counts|E = N × fraction]] → [[Calc 07 - The Chi-Square Grid|grid → χ²]] → [[Calc 08 - Degrees of Freedom|df = k − 1]] → [[Calc 09 - Looking Up the Critical Value|critical value]] → [[Calc 10 - Comparing and Deciding|compare]] → [[Calc 11 - Writing the Results Statement|results statement]]
@@ -66,4 +66,4 @@ Counts → [[Calc 06 - Expected Counts|E = N × fraction]] → [[Calc 07 - The C
 - [[Worked - Study Guide Q8 Sickle Cell]]
 - [[Worked - Study Guide Q9 Five Girls]]
 
-Main path: [[MOC - Start Here]]
+Main path: [[Learning Path]]

@@ -1,5 +1,6 @@
 ---
 title: "Mutation"
+type: atomic
 aliases:
   - "mutations"
 tags:
@@ -8,34 +9,18 @@ tags:
 description: "A mutation is a change in the DNA sequence; mutations are the original source of every new allele."
 ---
 
-> [!abstract] In one sentence
-> A mutation is a change in the DNA sequence; mutations are the original source of every new allele.
+A mutation is a change in the DNA sequence; mutations are the original source of every new allele.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A mutation is a typo that gets photocopied forever after. Most typos do nothing or break the recipe; once in a while one happens to help.
+DNA copying is astonishingly accurate, but not perfect, and DNA can also be damaged by things like UV light. When a change slips through and isn't repaired, it gets copied ever after, like a typo in a document that's photocopied a thousand times.
 
-## Build it from first principles
+What happens if the typo lands in a gene? The recipe now builds a slightly different protein. Most often that protein works worse or not at all. Sometimes nothing changes. Very rarely it works better or does something new.
 
-DNA copying is extremely accurate but not perfect, and DNA can also be damaged (by UV light, chemicals, and so on). When a change is not repaired, it is passed on. If the change happens in a gene, the gene now spells a slightly different recipe, so the protein it codes for may work differently or not at all.
+Here's why that matters for Lab 7. A mutation that **breaks** an enzyme usually creates a [[Recessive Allele|recessive]] allele, because one working copy is still enough ([[Why the working allele is usually dominant]]). The yellow allele r and the albino allele g are broken versions of pigment-making genes.
 
-- A mutation that breaks an enzyme often creates a [[Recessive Allele|recessive]] allele: one working copy is still enough (see [[Topic - Why Dominance Happens]]).
-- Mutations can be **helpful, harmful or neutral** depending on the environment. The sickle-cell allele is the classic example (see [[Heterozygote Advantage]]).
-- In [[Mitochondrial DNA|mtDNA]], mutation is the *only* source of change, because mtDNA does not recombine.
+And mutations can be helpful, harmful or neutral depending on circumstances: the sickle-cell allele harms in two copies, protects against malaria in one ([[Why the sickle cell allele survives]]).
 
-> [!question]- Test yourself: Where did the yellow (r) allele come from originally?
-> **Answer:** A mutation in the kernel-color gene that broke the pigment-making enzyme.
+Try it yourself. Where did the r allele originally come from? A mutation in the kernel-color gene that broke the pigment enzyme.
 
-## Connected ideas
+See also: [[Allele]], [[Recessive Allele]], [[Why the working allele is usually dominant]].
 
-- [[Allele]]
-- [[DNA]]
-- [[Recessive Allele]]
-- [[Heterozygote Advantage]]
-- [[Mitochondrial DNA]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Mutation](https://www.genome.gov/genetics-glossary/Mutation)
-- [Wikipedia: Mutation](https://en.wikipedia.org/wiki/Mutation)
+Learn more: [NHGRI Talking Glossary: Mutation](<https://www.genome.gov/genetics-glossary/Mutation>) · [Wikipedia: Mutation](<https://en.wikipedia.org/wiki/Mutation>)

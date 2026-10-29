@@ -1,42 +1,27 @@
 ---
 title: "Incomplete Dominance"
+type: atomic
 aliases:
   - "blending"
   - "partial dominance"
 tags:
   - atomic
   - patterns-of-inheritance
-description: "Incomplete dominance is the pattern in which neither allele fully dominates, so the heterozygote has an intermediate phenotype between the two homozygotes."
+description: "Incomplete dominance is the pattern where neither allele fully wins, so the heterozygote is in between the two homozygotes."
 ---
 
-> [!abstract] In one sentence
-> Incomplete dominance is the pattern in which neither allele fully dominates, so the heterozygote has an intermediate phenotype between the two homozygotes.
+Incomplete dominance is the pattern where neither allele fully wins, so the heterozygote is in between the two homozygotes.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Mixing red paint with white gives pink: you get a blend because one dose of red isn't enough to make it fully red.
+Slide 8: red flowers (RR) × white (rr) → pink (Rr). Slide 15: straight × curly hair → wavy. Slides 18-19: if chicken feather color were incomplete, black × white → gray.
 
-## Build it from first principles
+Why would that happen? Suppose the red pigment depends on how much enzyme there is. RR has two working copies: full red. rr has none: white. Rr has one: half the pigment, and half isn't enough for full red, so it looks pink. Dose matters.
 
-Slide 8: red (RR) × white (rr) flowers → pink (Rr). Slide 15: straight × curly hair → wavy. Slide 18-19: black × white chickens (if incomplete) → gray.
+How to recognize it: **three** phenotypes, with the heterozygote a blend. Rr × Rr gives 1 red : 2 pink : 1 white, the same as the genotype ratio, because every genotype looks different.
 
-First-principles reason: one working copy makes only half as much pigment, and half isn't enough for full color.
+The trap: thinking the alleles themselves blend away. They don't. Cross two pinks and red and white come straight back ([[Why incomplete dominance is not blending]]).
 
-Fingerprint: **three** phenotypes; Rr × Rr gives **1 : 2 : 1** for both genotypes and phenotypes.
+Try it yourself. In mice, curly × straight gives wavy. What do you get from wavy × wavy? ¼ curly, ½ wavy, ¼ straight.
 
-Misconception: the alleles do not blend away. Cross two pinks and red and white come back. Only the *phenotype* is intermediate.
+See also: [[Codominance]], [[Complete Dominance]], [[1-2-1 Ratio]], [[Why incomplete dominance is not blending]], [[Why codominance and incomplete dominance are different]].
 
-> [!question]- Test yourself: Black × white chickens give gray chicks. Which pattern?
-> **Answer:** Incomplete dominance.
-
-## Connected ideas
-
-- [[Codominance]]
-- [[Complete Dominance]]
-- [[1-2-1 Ratio]]
-- [[Worked - Study Guide Q4 Mouse Hair]]
-
-Browse more in [[MOC - Patterns of Inheritance]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Dominance (genetics)#Incomplete dominance](https://en.wikipedia.org/wiki/Dominance_(genetics)#Incomplete_dominance)
+Learn more: [Wikipedia: Dominance (genetics)#Incomplete dominance](<https://en.wikipedia.org/wiki/Dominance_(genetics)>)

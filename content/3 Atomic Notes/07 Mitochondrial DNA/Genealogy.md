@@ -1,34 +1,20 @@
 ---
 title: "Genealogy"
+type: atomic
 aliases:
   - "ancestry"
 tags:
   - atomic
-  - mtdna
-description: "Genealogy is the tracing of family history and ancestry; mtDNA lets it follow the direct female line far back in time."
+  - mitochondrial-dna
+description: "Genealogy is tracing family history, and mtDNA lets it follow the direct female line far back in time."
 ---
 
-> [!abstract] In one sentence
-> Genealogy is the tracing of family history and ancestry; mtDNA lets it follow the direct female line far back in time.
+Genealogy is tracing family history, and mtDNA lets it follow the direct female line far back in time.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> mtDNA is a surname passed down the female line instead of the male line.
+mtDNA is passed mother → child almost unchanged, so everyone in a maternal line shares nearly the same mtDNA, like a surname passed down the female line. The few differences pile up slowly by mutation, so they also work as a rough clock (manual p. 123).
 
-## Build it from first principles
+Try it yourself. Why does mtDNA stay nearly the same across generations? It doesn't recombine; only rare mutations change it.
 
-Because mtDNA is passed mother → child essentially unchanged, everyone in a maternal line shares nearly the same mtDNA (manual p. 123). Differences that do exist accumulate slowly by mutation, acting as a clock.
+See also: [[Mitochondrial DNA]], [[Forensic Identification]].
 
-> [!question]- Test yourself: Why is mtDNA good for tracing ancestry?
-> **Answer:** It's inherited unchanged from mothers, changing only slowly by mutation.
-
-## Connected ideas
-
-- [[Mitochondrial DNA]]
-- [[Maternal Inheritance]]
-- [[Forensic Identification]]
-
-Browse more in [[MOC - Mitochondrial DNA]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Genealogy](https://en.wikipedia.org/wiki/Genealogy)
+Learn more: [Wikipedia: Genealogy](<https://en.wikipedia.org/wiki/Genealogy>)

@@ -1,50 +1,37 @@
 ---
 title: "Gene"
+type: atomic
 aliases:
   - "genes"
 tags:
   - atomic
   - building-blocks
-description: "A gene is a segment of DNA at a specific place on a chromosome that carries the instructions for one product (usually a protein), which in turn produces a trait or a biochemical reaction."
+description: "A gene is a stretch of DNA at a fixed place on a chromosome that holds the instructions for one product, usually a protein, which then produces a trait."
 ---
 
-> [!abstract] In one sentence
-> A gene is a segment of DNA at a specific place on a chromosome that carries the instructions for one product (usually a protein), which in turn produces a trait or a biochemical reaction.
+A gene is a stretch of DNA at a fixed place on a chromosome that holds the instructions for one product, usually a protein, which then produces a trait.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A gene is one recipe in the cookbook. The recipe isn't the cake; the cell has to cook it (make a protein), and the protein is what makes the trait you see.
+The slides define a gene as a "segment of DNA, passed down from parent to offspring, resulting in physical traits or biochemical reactions". Let's unpack how a stretch of chemical letters can make a kernel purple.
 
-## Build it from first principles
+1. The gene's DNA is a recipe.
+2. The cell reads the recipe and builds a [[Protein|protein]], often an [[Enzyme|enzyme]], a tiny machine that does one chemical job.
+3. The enzyme does its job, for example turning a colorless chemical into purple [[Pigment|pigment]].
+4. The pigment is what you see: a purple kernel.
 
-Slide 3 defines a gene as a 'segment of DNA, passed down from parent to offspring, resulting in physical traits or biochemical reactions'. Here is why that works:
+![[Gene to trait.png|700]]
 
-1. A gene's DNA sequence is a recipe.
-2. The cell reads the recipe and builds a [[Protein|protein]] (often an [[Enzyme|enzyme]]).
-3. The protein does a job, such as making purple [[Pigment|pigment]] in a corn kernel or green [[Chlorophyll|chlorophyll]] in a seedling.
-4. The result of that job is what you can see: the [[Trait|trait]].
+*Top: a working recipe gives a working enzyme, pigment and a purple kernel. Bottom: a misprinted recipe gives none.*
 
-Because you have two copies of each chromosome, you have **two copies of every gene** (on autosomes). The copies can be different versions, called [[Allele|alleles]].
+So when we say "the gene for kernel color", we really mean "the recipe for an enzyme in the purple-pigment pathway".
 
-## Where it shows up in Lab 7
+Because chromosomes come in pairs, you have **two copies of every gene** (on the autosomes). The copies don't have to be identical. Different versions of a gene are called [[Allele|alleles]].
 
-Lab 7 follows three genes: seedling color (G/g), kernel color (R/r) and kernel shape (H/h). See [[Lab 7 Letter Key]].
+Lab 7 follows three genes: seedling color (G/g), kernel color (R/r) and kernel shape (H/h).
 
-> [!question]- Test yourself: Why do you have two copies of each gene?
-> **Answer:** Genes sit on chromosomes and chromosomes come in pairs, one from each parent.
+The trap: mixing up "gene" and "allele". The gene is the recipe slot ("kernel color"); the allele is which version of the recipe fills it (R or r).
 
-## Connected ideas
+Try it yourself. Is "R" a gene or an allele? An allele: one version of the kernel-color gene.
 
-- [[DNA]]
-- [[Allele]]
-- [[Locus]]
-- [[Protein]]
-- [[Trait]]
-- [[Genotype]]
-- [[Topic - From DNA to Trait]]
+See also: [[DNA]], [[Allele]], [[Gene Expression]], [[Locus]], [[Lab 7 Letter Key]].
 
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Gene](https://www.genome.gov/genetics-glossary/Gene)
-- [Wikipedia: Gene](https://en.wikipedia.org/wiki/Gene)
+Learn more: [NHGRI Talking Glossary: Gene](<https://www.genome.gov/genetics-glossary/Gene>) · [Wikipedia: Gene](<https://en.wikipedia.org/wiki/Gene>)

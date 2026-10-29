@@ -1,40 +1,24 @@
 ---
 title: "Carrier"
+type: atomic
 aliases:
   - "carriers"
 tags:
   - atomic
-  - alleles-genotypes
-description: "A carrier is a heterozygous individual who has one copy of a recessive allele (often a disorder allele) but does not show the trait."
+  - alleles-and-genotypes
+description: "A carrier is a heterozygous individual who has one copy of a recessive allele (often a disease allele) but doesn't show the trait."
 ---
 
-> [!abstract] In one sentence
-> A carrier is a heterozygous individual who has one copy of a recessive allele (often a disorder allele) but does not show the trait.
+A carrier is a heterozygous individual who has one copy of a recessive allele (often a disease allele) but doesn't show the trait.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A carrier holds a hidden broken switch next to a working one: no symptoms, but can pass the broken one on.
+A carrier has one broken switch and one working one: the room stays lit, but the broken switch can be handed down. Two carriers (Aa × Aa) have a ¼ chance with each child of an affected child (aa), ½ of a carrier, ¼ of a non-carrier.
 
-## Build it from first principles
+For X-linked traits, women can be carriers (Xᴮ Xᵇ) but men can't: a man with Xᵇ is affected, because there's no second X to cover it.
 
-Carriers are how recessive disorders hide in families. Two carriers (Aa × Aa) have a ¼ chance per child of an affected child (aa), a ½ chance of another carrier, and ¼ of a non-carrier.
+Sickle-cell carriers (Hbᴬ Hbˢ) are a famous case: usually healthy and protected against malaria ([[Sickle Cell Trait]]).
 
-For X-linked traits, women can be carriers (X^B X^b) but men can't: a man with X^b is affected because there is no second X to mask it (see [[X-Linked Trait]]).
+Try it yourself. Two carriers have three unaffected children. Chance the fourth is affected? Still ¼. Each child is independent.
 
-Sickle cell carriers (Hb^A Hb^S) have [[Sickle Cell Trait|sickle cell trait]] and are protected against malaria.
+See also: [[Heterozygous]], [[Autosomal Recessive Disorder]], [[X-Linked Trait]], [[Sickle Cell Trait]].
 
-> [!question]- Test yourself: Two carriers have a child. Chance it's affected?
-> **Answer:** ¼.
-
-## Connected ideas
-
-- [[Heterozygous]]
-- [[Recessive Allele]]
-- [[Autosomal Recessive Disorder]]
-- [[X-Linked Trait]]
-- [[Sickle Cell Trait]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Carrier](https://www.genome.gov/genetics-glossary/Carrier)
+Learn more: [NHGRI Talking Glossary: Carrier](<https://www.genome.gov/genetics-glossary/Carrier>)

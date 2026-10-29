@@ -1,5 +1,6 @@
 ---
 title: "MOC - Human Genetics and Disease"
+type: moc
 tags:
   - moc
 description: "Map of human disorders, sex-linked traits and the sickle cell story from the study guide."
@@ -37,4 +38,4 @@ description: "Map of human disorders, sex-linked traits and the sickle cell stor
 - [[Sickle Cell Trait]]
 - [[Tay-Sachs Disease]]
 
-Main path: [[MOC - Start Here]]
+Main path: [[Learning Path]]

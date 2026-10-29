@@ -1,34 +1,20 @@
 ---
 title: "Hemophilia"
+type: atomic
 aliases:
   - "haemophilia"
 tags:
   - atomic
-  - disorders
+  - human-genetic-disorders
 description: "Hemophilia is an X-linked recessive disorder in which a blood-clotting factor is missing, so bleeding is hard to stop."
 ---
 
-> [!abstract] In one sentence
-> Hemophilia is an X-linked recessive disorder in which a blood-clotting factor is missing, so bleeding is hard to stop.
+Hemophilia is an X-linked recessive disorder in which a blood-clotting factor is missing, so bleeding is hard to stop.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A missing part of the blood's patch kit, coded on the X.
+The manual (p. 122): genes for clotting factors are on the X chromosome. A man with one faulty allele is affected; a woman with one is usually a carrier.
 
-## Build it from first principles
+Try it yourself. Why is hemophilia much rarer in women? They'd need the faulty allele on both X chromosomes.
 
-Manual p. 122: genes 'involved in the production of clotting factors in the blood are found on the X chromosome'. A male with one faulty allele is affected; a female is usually a carrier.
+See also: [[X-Linked Trait]], [[Color Blindness]], [[Carrier]].
 
-> [!question]- Test yourself: Why mostly males?
-> **Answer:** One X; no second copy to cover.
-
-## Connected ideas
-
-- [[X-Linked Trait]]
-- [[Color Blindness]]
-- [[Carrier]]
-
-Browse more in [[MOC - Human Genetics and Disease]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Haemophilia](https://en.wikipedia.org/wiki/Haemophilia)
+Learn more: [Wikipedia: Haemophilia](<https://en.wikipedia.org/wiki/Haemophilia>)

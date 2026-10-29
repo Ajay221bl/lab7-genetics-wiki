@@ -1,31 +1,19 @@
 ---
 title: "Green Seedling"
+type: atomic
 aliases:
+  - "green seedlings"
   - "green plant"
-  - "green corn plant"
 tags:
   - atomic
-  - corn-lab
-description: "A green seedling has at least one G allele (GG or Gg), so it makes chlorophyll and can photosynthesize."
+  - the-corn-lab
+description: "A green seedling has at least one working G allele (GG or Gg), so it makes chlorophyll."
 ---
 
-> [!abstract] In one sentence
-> A green seedling has at least one G allele (GG or Gg), so it makes chlorophyll and can photosynthesize.
+A green seedling has at least one working G allele (GG or Gg), so it makes chlorophyll.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Green means at least one working chlorophyll gene.
+One working copy makes enough of the chlorophyll-building enzyme, which is why green is dominant ([[Why the working allele is usually dominant]]). Looking at a green seedling, you can't tell GG from Gg.
 
-## Build it from first principles
+Try it yourself. Genotypes of a green seedling? GG or Gg.
 
-Because G is dominant, you can't tell GG from Gg by looking: both are green. That ambiguity is why you need ratios and chi-square to infer the parents.
-
-> [!question]- Test yourself: Possible genotypes?
-> **Answer:** GG or Gg.
-
-## Connected ideas
-
-- [[Albino Seedling]]
-- [[Chlorophyll]]
-- [[Seedling Tray]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
+See also: [[Albino Seedling]], [[Chlorophyll]], [[Dominant Allele]].

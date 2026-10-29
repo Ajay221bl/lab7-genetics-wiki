@@ -1,30 +1,18 @@
 ---
 title: "Yellow Kernel"
+type: atomic
 aliases:
-  - "yellow"
+  - "yellow kernels"
 tags:
   - atomic
-  - corn-lab
-description: "A yellow kernel is homozygous recessive (rr): no purple pigment is made, so the underlying yellow shows."
+  - the-corn-lab
+description: "A yellow kernel is rr: no purple pigment, so the yellow underneath shows through."
 ---
 
-> [!abstract] In one sentence
-> A yellow kernel is homozygous recessive (rr): no purple pigment is made, so the underlying yellow shows.
+A yellow kernel is rr: no purple pigment, so the yellow underneath shows through.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Yellow means no working purple-pigment gene.
+Yellow tells you the genotype for sure, because only rr is yellow. That makes yellow kernels the key to reading an ear: their share tells you the cross.
 
-## Build it from first principles
+Try it yourself. About ¼ of an ear's kernels are yellow. Likely cross? Rr × Rr.
 
-Every yellow kernel you count is certainly rr.
-
-> [!question]- Test yourself: Genotype?
-> **Answer:** rr.
-
-## Connected ideas
-
-- [[Purple Kernel]]
-- [[Recessive Allele]]
-- [[Lab 7 Letter Key]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
+See also: [[Purple Kernel]], [[Recessive Allele]].

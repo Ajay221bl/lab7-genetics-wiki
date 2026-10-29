@@ -1,5 +1,6 @@
 ---
 title: "Calc 08 - Degrees of Freedom"
+type: molecular
 aliases:
   - "df calculation"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Calculating degrees of freedom as number of phenotype categories minus one."
 ---
 
-> [!example] The Feynman version
-> Imagine filling in your counts one category at a time, knowing the total. You get to choose freely until the last category, which is forced to make the total come out right. df counts the free choices.
+Imagine filling in your counts one category at a time, knowing the total. You get to choose freely until the last category, which is forced to make the total come out right. df counts the free choices.
 
 ## Formula
 

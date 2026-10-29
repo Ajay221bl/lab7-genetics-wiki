@@ -1,37 +1,22 @@
 ---
 title: "F2 Generation"
+type: atomic
 aliases:
   - "second filial generation"
 tags:
   - atomic
-  - crosses
-description: "The F₂ (second filial) generation is the offspring of crossing two F₁ individuals together; the recessive trait reappears in about a quarter of them."
+  - crosses-and-predictions
+description: "The F₂ (second filial) generation is the offspring of two F₁ individuals crossed together; the hidden recessive trait reappears in about a quarter of them."
 ---
 
-> [!abstract] In one sentence
-> The F₂ (second filial) generation is the offspring of crossing two F₁ individuals together; the recessive trait reappears in about a quarter of them.
+The F₂ (second filial) generation is the offspring of two F₁ individuals crossed together; the hidden recessive trait reappears in about a quarter of them.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The grandkids: the hidden recessive trait pops back up in about 1 of 4.
+Rr × Rr: each parent gives R or r, half and half. Four equally likely pairings: RR, Rr, rR, rr. Three are purple, one yellow: 3 : 1. The yellow comes back, which proves r was never destroyed ([[Why the recessive trait comes back in the F2]]).
 
-## Build it from first principles
+Ears 1 (Rr × Rr) and 3 (Hh × Hh) are F₂ ears. Ear 5 (RrHh × RrHh) is a dihybrid F₂.
 
-Rr × Rr → ¼ RR, ½ Rr, ¼ rr → **3 purple : 1 yellow**. The reappearance of yellow proves the r allele was hidden, not destroyed ([[Law of Segregation]]).
+Try it yourself. Among the purple F₂ kernels, what fraction are Rr? Two of the three purple boxes, so ⅔.
 
-Corn Ear 1 (Rr × Rr) and Corn Ear 3 (Hh × Hh) are F₂ ears; Corn Ear 5 (RrHh × RrHh) is a dihybrid F₂.
+See also: [[F1 Generation]], [[3-1 Ratio]], [[Why the recessive trait comes back in the F2]].
 
-> [!question]- Test yourself: Which ears are F₂ ears?
-> **Answer:** Ears 1, 3 and 5.
-
-## Connected ideas
-
-- [[F1 Generation]]
-- [[3-1 Ratio]]
-- [[Worked - Corn Ear 1 F2 Cross]]
-- [[Worked - Corn Ear 3 Kernel Shape]]
-
-Browse more in [[MOC - Crosses and Punnett Squares]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Filial generation](https://en.wikipedia.org/wiki/Filial_generation)
+Learn more: [Wikipedia: Filial generation](<https://en.wikipedia.org/wiki/Filial_generation>)

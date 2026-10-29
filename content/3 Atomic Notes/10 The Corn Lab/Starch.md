@@ -1,32 +1,18 @@
 ---
 title: "Starch"
+type: atomic
 tags:
   - atomic
-  - corn-lab
-description: "Starch is a large storage molecule made of many sugar units linked together; plants store energy as starch."
+  - the-corn-lab
+description: "Starch is a long chain of sugar molecules joined together; plants use it to store energy compactly."
 ---
 
-> [!abstract] In one sentence
-> Starch is a large storage molecule made of many sugar units linked together; plants store energy as starch.
+Starch is a long chain of sugar molecules joined together; plants use it to store energy compactly.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Starch is sugar beads strung into a long necklace for storage.
+Think of sugar as loose beads and starch as the beads strung into a necklace. The H allele's enzyme does the stringing. Strung beads pack tight and don't pull in water, so smooth kernels stay plump.
 
-## Build it from first principles
+Try it yourself. What's starch made of? Many sugar units linked in a chain.
 
-A working H allele makes an enzyme that converts sugar into starch. Starch doesn't attract water the way free sugar does, so starchy kernels dry smoothly.
+See also: [[Sugar]], [[Smooth Kernel]], [[Enzyme]].
 
-> [!question]- Test yourself: Which allele makes the sugar → starch enzyme work?
-> **Answer:** H.
-
-## Connected ideas
-
-- [[Sugar]]
-- [[Smooth Kernel]]
-- [[Enzyme]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Starch](https://en.wikipedia.org/wiki/Starch)
+Learn more: [Wikipedia: Starch](<https://en.wikipedia.org/wiki/Starch>)

@@ -1,38 +1,29 @@
 ---
 title: "Product Rule"
+type: atomic
 aliases:
   - "multiplication rule"
-  - "AND rule"
+  - "and rule"
 tags:
   - atomic
-  - probability
-description: "The product rule says the probability that two independent events both happen equals the product of their probabilities."
+  - probability-and-chance
+description: "The product rule says: the chance of two independent things both happening is their chances multiplied."
 ---
 
-> [!abstract] In one sentence
-> The product rule says the probability that two independent events both happen equals the product of their probabilities.
+The product rule says: the chance of two independent things **both** happening is their chances multiplied.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> For 'this AND that' with independent events, multiply.
+Why multiply? Take half of something, then take half of that: you're left with a quarter. "And" shrinks the odds, because both things have to go right.
 
-## Build it from first principles
+Work it out on a dihybrid cross. GgRr × GgRr. P(green) = ¾ and P(purple) = ¾, so P(green **and** purple) = ¾ × ¾ = 9/16. Do all four combinations and the 9:3:3:1 ratio falls out without drawing 16 boxes.
 
-Probability a kernel from RrHh × RrHh is purple **and** smooth = ¾ × ¾ = **9/16**. Yellow and wrinkled = ¼ × ¼ = 1/16.
+![[Product rule gives 9-3-3-1.png|700]]
 
-This is the fast way to check a dihybrid square without drawing all 16 boxes.
+*Each gene gives a 3:1 split. Multiply the two splits and you get 9:3:3:1.*
 
-> [!question]- Test yourself: P(purple AND smooth) from RrHh × RrHh?
-> **Answer:** ¾ × ¾ = 9/16.
+Study guide Q9: chance of 5 girls in a row = (½)⁵ = 1/32.
 
-## Connected ideas
+Try it yourself. Chance an AaBb × AaBb child is aabb? ¼ × ¼ = 1/16.
 
-- [[Independent Event]]
-- [[Probability]]
-- [[9-3-3-1 Ratio]]
-- [[Dihybrid Cross]]
+See also: [[Independent Event]], [[Multiplying Fractions]], [[9-3-3-1 Ratio]], [[Why a dihybrid cross gives 9 3 3 1]], [[Worked - Study Guide Q9 Five Girls]].
 
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Probability#Independent events](https://en.wikipedia.org/wiki/Probability#Independent_events)
+Learn more: [Wikipedia: Probability#Independent events](<https://en.wikipedia.org/wiki/Probability#Independent_events>)

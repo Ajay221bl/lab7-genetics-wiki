@@ -1,43 +1,23 @@
 ---
 title: "Locus"
+type: atomic
 aliases:
   - "loci"
   - "gene locus"
 tags:
   - atomic
   - building-blocks
-description: "A locus (plural loci) is the fixed position on a chromosome where a particular gene is found."
+description: "A locus (plural loci, said LOH-kus and LOH-sigh) is the fixed address on a chromosome where a particular gene sits."
 ---
 
-> [!abstract] In one sentence
-> A locus (plural loci) is the fixed position on a chromosome where a particular gene is found.
+A locus (plural loci, said LOH-kus and LOH-sigh) is the fixed address on a chromosome where a particular gene sits.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A locus is the page number of a recipe. Both volumes of a pair have the same recipe on the same page, though the wording may differ.
+If a chromosome is a street, the locus is a house number. Both chromosomes in a [[Homologous Chromosomes|homologous pair]] have the same genes at the same house numbers. So the kernel-color gene is at the same locus on the chromosome from Mom and the one from Dad. The two [[Allele|alleles]] you carry are simply whatever versions sit at that address on each chromosome.
 
-## Build it from first principles
+The manual (p. 122) defines genes as "specific locations on chromosomes": that's the locus idea.
 
-Because both chromosomes of a [[Homologous Chromosomes|homologous pair]] carry the same genes in the same order, the gene for kernel color sits at the same locus on both. That is what lets us talk about 'the two alleles of a gene': they are the two versions sitting at matching loci on the two chromosomes of a pair.
+Try it yourself. You carry R at the kernel-color locus on one chromosome. Where is your other kernel-color allele? At the same locus on the other chromosome of the pair.
 
-Pronounced LOH-kus (plural LOH-sigh).
+See also: [[Gene]], [[Allele]], [[Homologous Chromosomes]].
 
-## Where it shows up in Lab 7
-
-The manual (p. 122) defines genes as 'specific locations on chromosomes'; that location is the locus.
-
-> [!question]- Test yourself: If R is at a locus on one chromosome, where is the other kernel-color allele?
-> **Answer:** At the same locus on the homologous chromosome.
-
-## Connected ideas
-
-- [[Gene]]
-- [[Chromosome]]
-- [[Allele]]
-- [[Homologous Chromosomes]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Locus](https://www.genome.gov/genetics-glossary/Locus)
-- [Wikipedia: Locus (genetics)](https://en.wikipedia.org/wiki/Locus_(genetics))
+Learn more: [NHGRI Talking Glossary: Locus](<https://www.genome.gov/genetics-glossary/Locus>) · [Wikipedia: Locus (genetics)](<https://en.wikipedia.org/wiki/Locus_(genetics)>)

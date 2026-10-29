@@ -1,5 +1,6 @@
 ---
 title: "Worked - Study Guide Q5 Autosomal Dominant Cross"
+type: molecular
 aliases:
   - "Q5 autosomal dominant"
 tags:

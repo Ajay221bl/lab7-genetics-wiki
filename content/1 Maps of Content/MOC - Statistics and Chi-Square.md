@@ -1,5 +1,6 @@
 ---
 title: "MOC - Statistics and Chi-Square"
+type: moc
 tags:
   - moc
 description: "Map of probability, sampling, hypothesis testing and the chi-square test."
@@ -56,5 +57,6 @@ description: "Map of probability, sampling, hypothesis testing and the chi-squar
 - [[Summation]]
 - [[Test Statistic]]
 - [[Type I Error]]
+- [[Type II Error]]
 
-Next map: [[MOC - The Corn Lab]] · Main path: [[MOC - Start Here]]
+Next map: [[MOC - The Corn Lab]] · Main path: [[Learning Path]]

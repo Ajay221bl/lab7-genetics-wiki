@@ -1,35 +1,20 @@
 ---
 title: "Pollen"
+type: atomic
 aliases:
   - "pollen grain"
 tags:
   - atomic
-  - corn-lab
-description: "Pollen grains carry the male gametes (sperm cells) of a plant."
+  - the-corn-lab
+description: "Pollen is the dust-like powder from the tassel; each grain carries the plant's male gametes (sperm)."
 ---
 
-> [!abstract] In one sentence
-> Pollen grains carry the male gametes (sperm cells) of a plant.
+Pollen is the dust-like powder from the tassel; each grain carries the plant's male gametes (sperm).
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Pollen is the plant's sperm-delivery pod.
+A pollen grain is the plant's way of mailing sperm. It lands on a silk, grows a tube down to an ovule, and delivers the sperm. One grain, one kernel.
 
-## Build it from first principles
+Try it yourself. In an Rr plant, what fraction of pollen grains carry r? Half.
 
-In corn, a pollen grain lands on a [[Silk|silk]], grows a tube down it, and delivers sperm to one ovule. Pollen is the plant's equivalent of sperm delivery.
+See also: [[Tassel]], [[Silk]], [[Sperm]], [[Gamete]].
 
-> [!question]- Test yourself: Where must pollen land to fertilize a corn ovule?
-> **Answer:** On that ovule's silk.
-
-## Connected ideas
-
-- [[Tassel]]
-- [[Silk]]
-- [[Sperm]]
-- [[Fertilization]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Pollen](https://en.wikipedia.org/wiki/Pollen)
+Learn more: [Wikipedia: Pollen](<https://en.wikipedia.org/wiki/Pollen>)

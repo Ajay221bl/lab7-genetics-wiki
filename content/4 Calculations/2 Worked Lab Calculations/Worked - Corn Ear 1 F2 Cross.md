@@ -1,5 +1,6 @@
 ---
 title: "Worked - Corn Ear 1 F2 Cross"
+type: molecular
 aliases:
   - "corn ear 1"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Corn ear crosses 1 and 2: RR × rr to get the F1, then Rr × Rr for the F2 (Corn Ear 1)."
 ---
 
-> [!warning] Sample data
-> These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
+*Sample data.* These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
 
 ## Step 1: P generation RR × rr → F₁
 

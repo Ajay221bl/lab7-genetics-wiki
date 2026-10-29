@@ -1,30 +1,18 @@
 ---
 title: "Marfan Syndrome"
+type: atomic
 tags:
   - atomic
-  - disorders
-description: "Marfan syndrome is an autosomal dominant disorder of connective tissue causing tall stature, long limbs and heart and blood vessel problems."
+  - human-genetic-disorders
+description: "Marfan syndrome is an autosomal dominant disorder of connective tissue, causing tall stature, long limbs and heart and blood-vessel problems."
 ---
 
-> [!abstract] In one sentence
-> Marfan syndrome is an autosomal dominant disorder of connective tissue causing tall stature, long limbs and heart and blood vessel problems.
+Marfan syndrome is an autosomal dominant disorder of connective tissue, causing tall stature, long limbs and heart and blood-vessel problems.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Weak connective-tissue 'rope', so tissues stretch.
+The faulty protein (fibrillin) is part of the "rope" that gives tissues strength; one faulty copy is enough to weaken the rope.
 
-## Build it from first principles
+Try it yourself. Inheritance pattern? Autosomal dominant.
 
-The allele affects fibrillin, a protein that gives connective tissue its strength. One faulty copy is enough to weaken it.
+See also: [[Autosomal Dominant Disorder]].
 
-> [!question]- Test yourself: Inheritance pattern?
-> **Answer:** Autosomal dominant.
-
-## Connected ideas
-
-- [[Autosomal Dominant Disorder]]
-
-Browse more in [[MOC - Human Genetics and Disease]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Marfan syndrome](https://en.wikipedia.org/wiki/Marfan_syndrome)
+Learn more: [Wikipedia: Marfan syndrome](<https://en.wikipedia.org/wiki/Marfan_syndrome>)

@@ -1,38 +1,24 @@
 ---
 title: "Pea Plant"
+type: atomic
 aliases:
   - "garden pea"
   - "Pisum sativum"
   - "pea plants"
 tags:
   - atomic
-  - alleles-genotypes
-description: "The garden pea (Pisum sativum) is the plant Mendel used; the manual's practice problems use pea flower color (D/d) and height (H/h) in his honor."
+  - alleles-and-genotypes
+description: "The garden pea is the plant Mendel used, and the manual's practice problems use pea flower color (D/d) and height (H/h) in his honor."
 ---
 
-> [!abstract] In one sentence
-> The garden pea (Pisum sativum) is the plant Mendel used; the manual's practice problems use pea flower color (D/d) and height (H/h) in his honor.
+The garden pea is the plant Mendel used, and the manual's practice problems use pea flower color (D/d) and height (H/h) in his honor.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Peas were Mendel's lab rats: quick, many offspring, clear either/or traits.
+Why peas worked: clear either/or traits (purple or white flowers, tall or short), easy self-pollination to make purebreds, and lots of offspring.
 
-## Build it from first principles
+In the practice problems (pp. 129-130): **D** purple flowers, **d** white; **H** tall, **h** short. Watch out: on the corn pages, H/h means smooth/wrinkled. Same letters, different gene.
 
-Why peas work: clear either/or traits (purple vs white flowers, tall vs short), easy self-pollination to make [[Purebred|purebreds]], and many offspring.
+Try it yourself. What's the phenotype of a DdHh pea? Purple flowers, tall.
 
-In the manual's practice problems (pp. 129-130): **D** purple flowers, **d** white; **H** tall, **h** short. Careful: on the corn pages H/h means smooth/wrinkled kernels.
+See also: [[Gregor Mendel]], [[Worked - Pea Monohybrid Practice]], [[Worked - Pea Dihybrid Practice]].
 
-> [!question]- Test yourself: In the pea problems, what does H mean?
-> **Answer:** Tall (dominant); h is short.
-
-## Connected ideas
-
-- [[Gregor Mendel]]
-- [[Worked - Pea Monohybrid Practice]]
-- [[Worked - Pea Dihybrid Practice]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Pea](https://en.wikipedia.org/wiki/Pea)
+Learn more: [Wikipedia: Pea](<https://en.wikipedia.org/wiki/Pea>)

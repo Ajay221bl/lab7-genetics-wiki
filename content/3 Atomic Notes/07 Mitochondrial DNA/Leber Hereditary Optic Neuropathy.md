@@ -1,34 +1,20 @@
 ---
 title: "Leber Hereditary Optic Neuropathy"
+type: atomic
 aliases:
   - "LHON"
 tags:
   - atomic
-  - mtdna
-description: "Leber hereditary optic neuropathy (LHON) is a maternally inherited mtDNA disease in which optic-nerve cells die, causing sudden loss of central vision, usually in young adults."
+  - mitochondrial-dna
+description: "Leber hereditary optic neuropathy (LHON, said LAY-ber) is an mtDNA disease, inherited from the mother, in which optic-nerve cells die and central vision is suddenly lost, usually in young adults."
 ---
 
-> [!abstract] In one sentence
-> Leber hereditary optic neuropathy (LHON) is a maternally inherited mtDNA disease in which optic-nerve cells die, causing sudden loss of central vision, usually in young adults.
+Leber hereditary optic neuropathy (LHON, said LAY-ber) is an mtDNA disease, inherited from the mother, in which optic-nerve cells die and central vision is suddenly lost, usually in young adults.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The optic nerve is an energy-hungry cable; weak power plants make it fail first.
+The optic nerve is an energy-hungry cable; when its power plants falter, it fails first. Named on manual p. 123.
 
-## Build it from first principles
+Try it yourself. Can a father with LHON pass it to his children? No: mtDNA comes from the mother.
 
-The optic nerve needs lots of energy, so it fails first when mitochondria work poorly. Named in manual p. 123. (Leber is said LAY-ber.)
+See also: [[Mitochondrial DNA]], [[Maternal Inheritance]].
 
-> [!question]- Test yourself: From which parent is LHON inherited?
-> **Answer:** The mother.
-
-## Connected ideas
-
-- [[Mitochondrial DNA]]
-- [[Maternal Inheritance]]
-- [[Nonsyndromic Deafness]]
-
-Browse more in [[MOC - Mitochondrial DNA]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Leber's hereditary optic neuropathy](https://en.wikipedia.org/wiki/Leber's_hereditary_optic_neuropathy)
+Learn more: [Wikipedia: Leber's hereditary optic neuropathy](<https://en.wikipedia.org/wiki/Leber's_hereditary_optic_neuropathy>)

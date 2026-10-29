@@ -1,42 +1,31 @@
 ---
 title: "Dihybrid Cross"
+type: atomic
 aliases:
   - "dihybrid"
 tags:
   - atomic
-  - crosses
-description: "A dihybrid cross follows two genes at once, classically crossing two individuals heterozygous for both (RrHh × RrHh), which gives a 9 : 3 : 3 : 1 phenotype ratio."
+  - crosses-and-predictions
+description: "A dihybrid cross follows two genes at once, classically two double heterozygotes (RrHh × RrHh), and gives a 9 : 3 : 3 : 1 phenotype ratio."
 ---
 
-> [!abstract] In one sentence
-> A dihybrid cross follows two genes at once, classically crossing two individuals heterozygous for both (RrHh × RrHh), which gives a 9 : 3 : 3 : 1 phenotype ratio.
+A dihybrid cross follows two genes at once, classically two double heterozygotes (RrHh × RrHh), and gives a 9 : 3 : 3 : 1 phenotype ratio.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Tracking two genes at once: like flipping two coins per offspring, a color coin and a shape coin.
+Think of every gamete as flipping two coins, a color coin and a shape coin. Each RrHh parent therefore makes four gametes (RH, Rh, rH, rh), and the square is 4 × 4 = 16 boxes.
 
-## Build it from first principles
+- RrHh × RrHh → 9 : 3 : 3 : 1 (ear 5)
+- RrHh × rrhh → 1 : 1 : 1 : 1 (ear 4)
 
-Each RrHh parent makes four gamete types (RH, Rh, rH, rh) by [[Law of Independent Assortment|independent assortment]], so the square is 4 × 4 = 16 boxes.
+Shortcut: treat each gene as its own little cross and multiply: ¾ purple × ¾ smooth = 9/16 purple smooth ([[Product Rule]]).
 
-- RrHh × RrHh → **9 : 3 : 3 : 1** (Corn Ear 5)
-- RrHh × rrhh → **1 : 1 : 1 : 1** (Corn Ear 4, a dihybrid test cross)
+![[Dihybrid Punnett square.png|700]]
 
-Shortcut: treat each gene as its own monohybrid cross and multiply (¾ purple × ¾ smooth = 9/16 purple smooth). See [[Product Rule]].
+*RrHh × RrHh: sixteen equally likely boxes, grouped by what the kernel looks like.*
 
-> [!question]- Test yourself: How many boxes in a dihybrid square?
-> **Answer:** Sixteen.
+The trap: wrong gametes. See [[Calc 02 - Writing Gametes]].
 
-## Connected ideas
+Try it yourself. How many of the 16 boxes are yellow wrinkled? One (rrhh).
 
-- [[Monohybrid Cross]]
-- [[Law of Independent Assortment]]
-- [[9-3-3-1 Ratio]]
-- [[1-1-1-1 Ratio]]
-- [[FOIL Method]]
-- [[Calc 04 - Filling a Dihybrid Punnett Square]]
+See also: [[Law of Independent Assortment]], [[9-3-3-1 Ratio]], [[FOIL Method]], [[Why a dihybrid cross gives 9 3 3 1]].
 
-Browse more in [[MOC - Crosses and Punnett Squares]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Dihybrid cross](https://en.wikipedia.org/wiki/Dihybrid_cross)
+Learn more: [Wikipedia: Dihybrid cross](<https://en.wikipedia.org/wiki/Dihybrid_cross>)

@@ -1,5 +1,6 @@
 ---
 title: "Worked - Corn Ear 4 Dihybrid Test Cross"
+type: molecular
 aliases:
   - "corn ear 4"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Dihybrid cross 1: RrHh × rrhh (Corn Ear 4), expected 1:1:1:1."
 ---
 
-> [!warning] Sample data
-> These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
+*Sample data.* These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
 
 Gametes: RrHh → RH, Rh, rH, rh. rrhh → rh only.
 

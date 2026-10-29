@@ -1,38 +1,25 @@
 ---
 title: "Expected Value"
+type: atomic
 aliases:
   - "expected"
-  - "expected number"
-  - "expected #"
   - "expected count"
 tags:
   - atomic
-  - statistics
-description: "Expected values (E) are the counts the hypothesis predicts for each category, given the same total: E = total counted × expected fraction."
+  - statistics-and-chi-square
+description: "An expected value (E) is the count you'd get if H₀ were exactly true: expected fraction × total counted."
 ---
 
-> [!abstract] In one sentence
-> Expected values (E) are the counts the hypothesis predicts for each category, given the same total: E = total counted × expected fraction.
+An expected value (E) is the count you'd get if H₀ were exactly true: expected fraction × total counted.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> What you'd count if the prediction were perfectly obeyed for your sample size.
+![[Observed vs expected seedlings.png|700]]
 
-## Build it from first principles
+*Observed counts (solid) next to the counts a 3:1 ratio predicts (outlined) for the 23-seedling tray.*
 
-For 3 : 1 with 23 seedlings: E(green) = 23 × ¾ = **17.25**, E(albino) = 23 × ¼ = **5.75**.
+Work it out. 23 seedlings, H₀ = 3:1. E(green) = ¾ × 23 = 17.25; E(albino) = ¼ × 23 = 5.75. Check: 17.25 + 5.75 = 23. The expected counts must add to the same total as the observed.
 
-- E can be a decimal (manual p. 125: a fair coin tossed 15 times 'expects' 7.5 heads).
-- The E column must add up to the same total as the O column — a quick check.
-- E comes from the [[A Priori Hypothesis|a priori hypothesis]], never from the data.
+The trap: E can be a decimal, even though O can't. Don't round 17.25 to 17; keep 2 decimals ([[Calc 06 - Expected Counts]]).
 
-> [!question]- Test yourself: E for albino, 3 : 1, 23 plants?
-> **Answer:** 23 × ¼ = 5.75.
+Try it yourself. 200 kernels, H₀ = 1:1. E for each? 100.
 
-## Connected ideas
-
-- [[Observed Value]]
-- [[Phenotype Frequency]]
-- [[A Priori Hypothesis]]
-- [[Calc 06 - Expected Counts]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
+See also: [[Observed Value]], [[Calc 06 - Expected Counts]].

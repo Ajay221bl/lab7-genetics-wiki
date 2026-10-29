@@ -8,8 +8,9 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Start here": "https://ajay221bl.github.io/lab7-genetics-wiki/",
-      Index: "https://ajay221bl.github.io/lab7-genetics-wiki/Index",
+      "Learning path": "https://ajay221bl.github.io/lab7-genetics-wiki/0-Start-Here/Learning-Path",
+      "All notes": "https://ajay221bl.github.io/lab7-genetics-wiki/0-Start-Here/All-Notes",
+      "Class questions": "https://ajay221bl.github.io/lab7-genetics-wiki/0-Start-Here/Class-Questions",
     },
   }),
 }

@@ -1,40 +1,23 @@
 ---
 title: "Autosome"
+type: atomic
 aliases:
   - "autosomes"
   - "autosomal"
-  - "autosomal chromosomes"
 tags:
   - atomic
   - building-blocks
-description: "An autosome is any chromosome that is not a sex chromosome; humans have 22 pairs of autosomes."
+description: "An autosome is any chromosome that isn't a sex chromosome; humans have 22 pairs of them."
 ---
 
-> [!abstract] In one sentence
-> An autosome is any chromosome that is not a sex chromosome; humans have 22 pairs of autosomes.
+An autosome is any chromosome that isn't a sex chromosome; humans have 22 pairs of them.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Autosomes are all the 'ordinary' volumes, the ones everyone has two of, regardless of sex.
+The manual (p. 122): 23 pairs in humans, 22 pairs of autosomes plus one pair of [[Sex Chromosomes|sex chromosomes]]. Both males and females have two copies of every autosome. So a gene on an autosome ("autosomal") works the same way in sons and daughters and shows up about equally in both sexes.
 
-## Build it from first principles
+Contrast [[Sex-Linked Inheritance|sex-linked]] genes on the X, which males carry only one copy of.
 
-Manual p. 122: humans have 23 pairs of chromosomes, of which 22 pairs are autosomes and one pair is the [[Sex Chromosomes|sex chromosomes]].
+Try it yourself. Cystic fibrosis affects boys and girls about equally. Is the gene more likely autosomal or X-linked? Autosomal.
 
-A gene on an autosome is **autosomal**. Males and females both carry two copies, so autosomal traits show up about equally often in both sexes. Compare [[Sex-Linked Inheritance|sex-linked]] traits, which don't.
+See also: [[Sex Chromosomes]], [[Autosomal Recessive Disorder]], [[Autosomal Dominant Disorder]].
 
-> [!question]- Test yourself: Why do autosomal traits appear equally in males and females?
-> **Answer:** Both sexes have two copies of every autosome.
-
-## Connected ideas
-
-- [[Sex Chromosomes]]
-- [[Autosomal Recessive Disorder]]
-- [[Autosomal Dominant Disorder]]
-- [[Chromosome]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Autosome](https://www.genome.gov/genetics-glossary/Autosome)
-- [Wikipedia: Autosome](https://en.wikipedia.org/wiki/Autosome)
+Learn more: [NHGRI Talking Glossary: Autosome](<https://www.genome.gov/genetics-glossary/Autosome>) · [Wikipedia: Autosome](<https://en.wikipedia.org/wiki/Autosome>)

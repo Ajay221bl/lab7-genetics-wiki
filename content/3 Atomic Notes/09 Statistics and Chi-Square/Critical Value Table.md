@@ -1,44 +1,26 @@
 ---
 title: "Critical Value Table"
+type: atomic
 aliases:
-  - "table of critical values"
   - "chi-square table"
+  - "Table C"
 tags:
   - atomic
-  - statistics
-description: "The critical value table lists χ² cut-offs by degrees of freedom (rows) and significance level (columns); the manual prints it on p. 125."
+  - statistics-and-chi-square
+description: "The critical value table lists cut-off χ² values by degrees of freedom (rows) and significance level (columns)."
 ---
 
-> [!abstract] In one sentence
-> The critical value table lists χ² cut-offs by degrees of freedom (rows) and significance level (columns); the manual prints it on p. 125.
+The critical value table lists cut-off χ² values by degrees of freedom (rows) and significance level (columns).
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A lookup chart: row = df, column = α.
+To use it: find your df row, slide across to the 0.05 column, read the number. That's the bar.
 
-## Build it from first principles
+| df | 0.05 |
+|---|---|
+| 1 | 3.841 |
+| 2 | 5.991 |
+| 3 | 7.815 |
+| 4 | 9.488 |
 
-| df | α = 0.05 | α = 0.01 |
-|---|---|---|
-| 1 | 3.841 | 6.635 |
-| 2 | 5.991 | 9.210 |
-| 3 | 7.815 | 11.345 |
-| 4 | 9.488 | 13.277 |
-| 5 | 11.070 | 15.086 |
-| 6 | 12.592 | 16.812 |
-| 7 | 14.067 | 18.475 |
-| 8 | 15.507 | 20.090 |
-| 9 | 16.919 | 21.666 |
-| 10 | 18.307 | 23.209 |
+Try it yourself. df = 2 at 0.05? 5.991.
 
-Find your df row, go across to the 0.05 column.
-
-> [!question]- Test yourself: Critical value for df 3, α 0.05?
-> **Answer:** 7.815.
-
-## Connected ideas
-
-- [[Critical Value]]
-- [[Degrees of Freedom]]
-- [[Level of Significance]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
+See also: [[Critical Value]], [[Degrees of Freedom]].

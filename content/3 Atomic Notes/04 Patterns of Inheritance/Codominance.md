@@ -1,41 +1,24 @@
 ---
 title: "Codominance"
+type: atomic
 aliases:
   - "codominant"
 tags:
   - atomic
   - patterns-of-inheritance
-description: "Codominance is the pattern in which both alleles are fully and separately expressed in the heterozygote, so both traits appear at once."
+description: "Codominance is the pattern where both alleles show fully and separately in the heterozygote, so both traits appear at once."
 ---
 
-> [!abstract] In one sentence
-> Codominance is the pattern in which both alleles are fully and separately expressed in the heterozygote, so both traits appear at once.
+Codominance is the pattern where both alleles show fully and separately in the heterozygote, so both traits appear at once.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A checkerboard: black squares and white squares side by side, neither blended. Both alleles 'speak' at full volume.
+Slide 7: blood type. A person with Iᴬ and Iᴮ has type AB: their red cells carry **both** the A marker and the B marker. Slide 17: black chicken × white chicken → speckled chicks. Look closely: each feather is black or white. Nothing is gray.
 
-## Build it from first principles
+Why would both show? Because both alleles make a working protein, but the two proteins do different jobs (one adds an A sugar to red cells, the other a B sugar). Both products end up present, side by side.
 
-Slide 7: blood type. A person with I^A and I^B has type AB: their red cells carry *both* A and B surface markers.
+Quick test that settles most exam questions: **in between (gray, pink) is incomplete; both at once (speckled, AB) is codominance** ([[Why codominance and incomplete dominance are different]]).
 
-Slide 17: black chicken × white chicken → black-and-white **speckled** offspring. Each feather is black or white; nothing is gray. That's the difference from incomplete dominance.
+Try it yourself. Roan cattle have red hairs and white hairs mixed together. Which pattern? Codominance.
 
-First-principles reason: both alleles make a working protein, but the proteins do different things (add the A sugar vs the B sugar), so both products are present.
+See also: [[Incomplete Dominance]], [[ABO Blood Type]], [[Multiple Alleles]].
 
-Quick test: blend (gray, pink) = incomplete; both side by side (speckled, AB) = codominance.
-
-> [!question]- Test yourself: Black × white chickens give speckled chicks. Which pattern?
-> **Answer:** Codominance.
-
-## Connected ideas
-
-- [[Incomplete Dominance]]
-- [[ABO Blood Type]]
-- [[Multiple Alleles]]
-- [[Worked - Study Guide Q6 Blood Type]]
-
-Browse more in [[MOC - Patterns of Inheritance]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Dominance (genetics)#Co-dominance](https://en.wikipedia.org/wiki/Dominance_(genetics)#Co-dominance)
+Learn more: [Wikipedia: Dominance (genetics)#Co-dominance](<https://en.wikipedia.org/wiki/Dominance_(genetics)>)

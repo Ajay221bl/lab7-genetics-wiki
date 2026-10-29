@@ -1,31 +1,19 @@
 ---
 title: "1-2-1 Ratio"
+type: atomic
 aliases:
   - "1:2:1"
   - "1 : 2 : 1"
 tags:
   - atomic
-  - crosses
-description: "The 1 : 2 : 1 ratio is the genotype ratio of a cross between two heterozygotes (1 RR : 2 Rr : 1 rr); under incomplete dominance it is also the phenotype ratio."
+  - crosses-and-predictions
+description: "The 1 : 2 : 1 ratio is the genotype ratio of two heterozygotes (1 RR : 2 Rr : 1 rr), and also the phenotype ratio under incomplete dominance."
 ---
 
-> [!abstract] In one sentence
-> The 1 : 2 : 1 ratio is the genotype ratio of a cross between two heterozygotes (1 RR : 2 Rr : 1 rr); under incomplete dominance it is also the phenotype ratio.
+The 1 : 2 : 1 ratio is the genotype ratio of two heterozygotes (1 RR : 2 Rr : 1 rr), and also the phenotype ratio under incomplete dominance.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> One pure dominant, two mixes, one pure recessive: the genotypes of Rr × Rr.
+Under complete dominance it collapses to 3 : 1 phenotypes. Under incomplete dominance (red : pink : white) each genotype looks different, so you see 1 : 2 : 1 directly.
 
-## Build it from first principles
+Try it yourself. Why is there a "2" in the middle? Rr can form two ways: R from Mom and r from Dad, or r from Mom and R from Dad.
 
-With complete dominance it collapses to a 3 : 1 phenotype ratio; with incomplete dominance (red : pink : white) the three genotypes look different, so you see 1 : 2 : 1 directly.
-
-> [!question]- Test yourself: When is 1 : 2 : 1 also the phenotype ratio?
-> **Answer:** Incomplete dominance.
-
-## Connected ideas
-
-- [[3-1 Ratio]]
-- [[Genotypic Ratio]]
-- [[Incomplete Dominance]]
-
-Browse more in [[MOC - Crosses and Punnett Squares]] · [[Vault Index|Index]]
+See also: [[3-1 Ratio]], [[Incomplete Dominance]].

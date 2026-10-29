@@ -1,5 +1,6 @@
 ---
 title: "Worked - Study Guide Q4 Mouse Hair"
+type: molecular
 aliases:
   - "Q4 mouse hair"
 tags:

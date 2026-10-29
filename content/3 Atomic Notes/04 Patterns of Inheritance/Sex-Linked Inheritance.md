@@ -1,44 +1,26 @@
 ---
 title: "Sex-Linked Inheritance"
+type: atomic
 aliases:
   - "sex-linked"
-  - "sex linked inheritance"
   - "sex-linked trait"
 tags:
   - atomic
   - patterns-of-inheritance
-description: "Sex-linked inheritance is the pattern of genes carried on a sex chromosome (X or Y), which are inherited differently by males and females."
+description: "Sex-linked inheritance is the pattern of genes on a sex chromosome (usually the X), which are inherited differently by males and females."
 ---
 
-> [!abstract] In one sentence
-> Sex-linked inheritance is the pattern of genes carried on a sex chromosome (X or Y), which are inherited differently by males and females.
+Sex-linked inheritance is the pattern of genes on a sex chromosome (usually the X), which are inherited differently by males and females.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Genes on the X are like recipes in a volume that men only get one copy of, so there's no spare to cover a mistake.
+The manual (p. 122) calls it "a special pattern". The reason it's special is simple arithmetic: females have two X's, males have one X and a Y that carries almost none of the same genes. So for any X gene, a woman has a backup copy and a man doesn't.
 
-## Build it from first principles
+- [[X-Linked Trait|X-linked]] traits (color blindness, hemophilia) show up far more in males.
+- [[Y-Linked Trait|Y-linked]] traits occur only in males, father to son.
 
-Manual p. 122 calls it 'a special pattern'. Because males have one X and one Y, while females have two X's, the same allele can have different effects in sons and daughters.
+How to spot it in a question: the trait is much more common in one sex, or the alleles are written on the X (Xᵇ).
 
-- [[X-Linked Trait|X-linked]]: on the X (color blindness, hemophilia). Far more common in males.
-- [[Y-Linked Trait|Y-linked]]: on the Y. Only males, father to son.
+Try it yourself. Why does a man with one Xᵇ have the trait while a woman with one Xᵇ doesn't? He has no second X to cover it; she does.
 
-Clue in a question: the trait is much more common in one sex, or the letters are written on X (X^b).
+See also: [[X-Linked Trait]], [[Sex Chromosomes]], [[Why X-linked traits show up more in males]].
 
-> [!question]- Test yourself: Why are X-linked recessive traits more common in men?
-> **Answer:** Men have one X; one recessive allele is enough.
-
-## Connected ideas
-
-- [[X-Linked Trait]]
-- [[Y-Linked Trait]]
-- [[Sex Chromosomes]]
-- [[Color Blindness]]
-- [[Hemophilia]]
-- [[Topic - Sex-Linked Inheritance]]
-
-Browse more in [[MOC - Patterns of Inheritance]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Sex linkage](https://en.wikipedia.org/wiki/Sex_linkage)
+Learn more: [Wikipedia: Sex linkage](<https://en.wikipedia.org/wiki/Sex_linkage>)

@@ -1,5 +1,6 @@
 ---
 title: "Worked - Chi-Square on Corn Ear 1"
+type: molecular
 aliases:
   - "chi-square ear 1"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Chi-square test of Corn Ear 1 against 3:1, with hypotheses and results statement (p. 134)."
 ---
 
-> [!warning] Sample data
-> These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
+*Sample data.* These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
 
 ## a. Hypotheses
 

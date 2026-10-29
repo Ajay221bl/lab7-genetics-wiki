@@ -1,34 +1,18 @@
 ---
 title: "Evolution"
+type: atomic
 tags:
   - atomic
-  - disorders
-description: "Evolution is change in the allele frequencies of a population over generations."
+  - human-genetic-disorders
+description: "Evolution is the change in how common alleles are in a population over generations."
 ---
 
-> [!abstract] In one sentence
-> Evolution is change in the allele frequencies of a population over generations.
+Evolution is the change in how common alleles are in a population over generations.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Evolution is the slow change in how common each allele is.
+Mutation creates new alleles; recombination shuffles them; natural selection and chance change how common they become. The study guide (Q8f) uses sickle cell to show evolution is "a flexible process, not a process of perfection". And mtDNA comparisons let scientists trace how species, and human populations, are related (manual p. 123).
 
-## Build it from first principles
+Try it yourself. In the sickle cell story, what is actually evolving? The frequency of the Hbˢ allele in a population.
 
-Mutation creates new alleles; recombination shuffles them; natural selection and chance change how common they are. Study guide Q8f: the sickle-cell story shows evolution is 'a flexible process, not a process of perfection'.
+See also: [[Natural Selection]], [[Mutation]], [[Mitochondrial DNA]].
 
-mtDNA comparisons are used to trace human evolution and migration (manual p. 123).
-
-> [!question]- Test yourself: What is evolving in the sickle story?
-> **Answer:** The frequency of Hb^S in populations.
-
-## Connected ideas
-
-- [[Natural Selection]]
-- [[Mutation]]
-- [[Mitochondrial DNA]]
-
-Browse more in [[MOC - Human Genetics and Disease]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Evolution](https://en.wikipedia.org/wiki/Evolution)
+Learn more: [Wikipedia: Evolution](<https://en.wikipedia.org/wiki/Evolution>)

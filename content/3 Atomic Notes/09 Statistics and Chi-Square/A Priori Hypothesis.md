@@ -1,35 +1,20 @@
 ---
 title: "A Priori Hypothesis"
+type: atomic
 aliases:
   - "a priori"
-  - "prior expectation"
 tags:
   - atomic
-  - statistics
-description: "An a priori hypothesis is a prediction made before collecting data, from theory (here, the Punnett square); expected values must come from it."
+  - statistics-and-chi-square
+description: "An a priori hypothesis is one you fix before you see the data."
 ---
 
-> [!abstract] In one sentence
-> An a priori hypothesis is a prediction made before collecting data, from theory (here, the Punnett square); expected values must come from it.
+An a priori hypothesis is one you fix **before** you see the data. "A priori" is Latin for "from what comes before".
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Call your shot before you take it: decide the expected ratio from theory before you look at the counts.
+Like calling your shot in pool before you hit the ball. If you look at the counts first and then pick whichever ratio fits, the test proves nothing ([[Why the expected ratio must be chosen before counting]]).
 
-## Build it from first principles
+Try it yourself. Why decide "3:1" before counting the tray? Otherwise you could always pick a ratio that fits, and the test means nothing.
 
-Latin 'from before'. Manual p. 124: 'Expected frequencies (E) are calculated based on an a priori hypothesis.' You may not count first and then pick whichever ratio fits; the ratio comes from genetics theory. (Say 'ah pree-OR-ee'.)
+See also: [[Hypothesis]], [[Why the expected ratio must be chosen before counting]].
 
-> [!question]- Test yourself: Where does the expected ratio come from in Lab 7?
-> **Answer:** The Punnett square.
-
-## Connected ideas
-
-- [[Expected Value]]
-- [[Hypothesis]]
-- [[Punnett Square]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: A priori and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori)
+Learn more: [Wikipedia: A priori and a posteriori](<https://en.wikipedia.org/wiki/A_priori_and_a_posteriori>)

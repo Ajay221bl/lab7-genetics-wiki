@@ -1,31 +1,18 @@
 ---
 title: "Test Statistic"
+type: atomic
 tags:
   - atomic
-  - statistics
-description: "A test statistic is a single number calculated from the data that a statistical test compares with a critical value to make a decision."
+  - statistics-and-chi-square
+description: "A test statistic is one number calculated from your data that sums up how far it is from what H₀ predicts."
 ---
 
-> [!abstract] In one sentence
-> A test statistic is a single number calculated from the data that a statistical test compares with a critical value to make a decision.
+A test statistic is one number calculated from your data that sums up how far it is from what H₀ predicts.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> One number that summarizes all your data for the referee.
+Every statistical test has one; chi-square's is χ². You compare it with a critical value to decide.
 
-## Build it from first principles
+Try it yourself. In this lab, what's the test statistic? χ².
 
-Manual p. 124: 'χ² = the test statistic'. Every test (t-test, chi-square…) boils the data down to one number, then asks how unusual that number would be if H₀ were true.
+See also: [[Chi-Square Statistic]], [[Critical Value]].
 
-> [!question]- Test yourself: What is the test statistic in Lab 7?
-> **Answer:** χ².
-
-## Connected ideas
-
-- [[Chi-Square Statistic]]
-- [[Critical Value]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Test statistic](https://en.wikipedia.org/wiki/Test_statistic)
+Learn more: [Wikipedia: Test statistic](<https://en.wikipedia.org/wiki/Test_statistic>)

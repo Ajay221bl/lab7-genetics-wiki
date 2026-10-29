@@ -1,37 +1,23 @@
 ---
 title: "Polygenic Trait"
+type: atomic
 aliases:
   - "polygenic"
   - "quantitative trait"
 tags:
   - atomic
-  - alleles-genotypes
-description: "A polygenic trait is controlled by many genes at once (often plus the environment), so it varies continuously rather than falling into a few categories."
+  - alleles-and-genotypes
+description: "A polygenic trait is shaped by many genes at once (often plus the environment), so it varies smoothly instead of falling into a few categories."
 ---
 
-> [!abstract] In one sentence
-> A polygenic trait is controlled by many genes at once (often plus the environment), so it varies continuously rather than falling into a few categories.
+A polygenic trait is shaped by many genes at once (often plus the environment), so it varies smoothly instead of falling into a few categories.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Many dials turned together, so the result is a smooth range (like height) instead of a few settings.
+Human height, skin color and real human eye color are polygenic: many dials turned together give a continuous range. The slides use eye color (B/b) as a one-gene example; that's a teaching simplification, not how eye color really works. If a student asks, that's the honest answer.
 
-## Build it from first principles
+You can't predict a polygenic trait with a single Punnett square, which is why Lab 7 uses single-gene corn traits.
 
-Human height, skin color and real human eye color are polygenic. The slides use eye color (B/b) as a simplified single-gene example; that's a teaching shortcut, not how eye color really works.
+Try it yourself. Two brown-eyed parents have a green-eyed child. Does that break the B/b model on the slides? It goes beyond it: real eye color involves several genes.
 
-You can't use a simple Punnett square ratio for a polygenic trait, which is why Lab 7 uses monogenic corn traits.
+See also: [[Monogenic Trait]], [[Trait]].
 
-> [!question]- Test yourself: Is human height monogenic?
-> **Answer:** No, it's polygenic plus environment.
-
-## Connected ideas
-
-- [[Monogenic Trait]]
-- [[Trait]]
-- [[Phenotype]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Polygene](https://en.wikipedia.org/wiki/Polygene)
+Learn more: [Wikipedia: Polygene](<https://en.wikipedia.org/wiki/Polygene>)

@@ -1,38 +1,27 @@
 ---
 title: "Pedigree"
+type: atomic
 aliases:
   - "pedigree chart"
   - "family tree"
 tags:
   - atomic
-  - crosses
-description: "A pedigree is a family-tree diagram that tracks a trait through generations, using squares for males and circles for females, filled in when affected."
+  - crosses-and-predictions
+description: "A pedigree is a family-tree diagram that follows a trait through generations: squares are males, circles are females, and filled symbols are affected."
 ---
 
-> [!abstract] In one sentence
-> A pedigree is a family-tree diagram that tracks a trait through generations, using squares for males and circles for females, filled in when affected.
+A pedigree is a family-tree diagram that follows a trait through generations: squares are males, circles are females, and filled symbols are affected.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A family tree with symbols, used to play detective on traits in families.
+![[Pedigree symbols.png|700]]
 
-## Build it from first principles
+*Standard pedigree symbols.*
 
-Conventions: horizontal line between a male and female = mating; a vertical line down to their children; generations go down the page; half-filled = known carrier.
+A horizontal line between a male and a female is a mating; a vertical line drops to their children; generations run down the page. Half-filled means a known carrier.
 
-Pedigrees let geneticists infer patterns of inheritance in humans, where you can't do controlled crosses.
+Why use pedigrees? With people, you can't do controlled crosses. So geneticists read the pattern from real families instead: a trait that skips generations suggests recessive; one that shows mostly in males suggests X-linked.
 
-> [!question]- Test yourself: What does a filled circle mean?
-> **Answer:** An affected female.
+Try it yourself. A trait appears in two unaffected parents' child. Dominant or recessive? Recessive: both parents must be carriers.
 
-## Connected ideas
+See also: [[Pattern of Inheritance]], [[Carrier]].
 
-- [[Pattern of Inheritance]]
-- [[Carrier]]
-- [[Genetic Disorder]]
-
-Browse more in [[MOC - Crosses and Punnett Squares]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Pedigree](https://www.genome.gov/genetics-glossary/Pedigree)
-- [Wikipedia: Pedigree chart](https://en.wikipedia.org/wiki/Pedigree_chart)
+Learn more: [NHGRI Talking Glossary: Pedigree](<https://www.genome.gov/genetics-glossary/Pedigree>) · [Wikipedia: Pedigree chart](<https://en.wikipedia.org/wiki/Pedigree_chart>)

@@ -1,45 +1,28 @@
 ---
 title: "DNA"
+type: atomic
 aliases:
   - "deoxyribonucleic acid"
 tags:
   - atomic
   - building-blocks
-description: "DNA is the long molecule that stores the instructions for building and running an organism, written in a four-letter chemical code (A, T, C, G)."
+description: "DNA is the molecule that stores an organism's instructions, written as a long sequence of four chemical 'letters': A, T, C and G."
 ---
 
-> [!abstract] In one sentence
-> DNA is the long molecule that stores the instructions for building and running an organism, written in a four-letter chemical code (A, T, C, G).
+DNA is the molecule that stores an organism's instructions, written as a long sequence of four chemical "letters": A, T, C and G.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Think of DNA as a cookbook written with only four letters. The letters mean nothing alone, but their order spells out recipes, and the cookbook can be photocopied letter by letter because each letter has one fixed partner (A with T, C with G).
+Picture a cookbook written with an alphabet of only four letters. Each letter alone means nothing, but long strings of them spell out recipes. That's DNA. The order of the letters is the information, the way the order of letters in "dog" and "god" makes different words.
 
-## Build it from first principles
+Here's the clever part. DNA is two strands twisted together (the double helix), and the letters pair up by a strict rule: A always sits opposite T, and C opposite G. So if you know one strand, you know the other. When a cell divides, it unzips the two strands and builds a new partner for each, following the pairing rule. That's how DNA gets copied so accurately, cell after cell, generation after generation.
 
-Start from the problem life has to solve: a cell must build the same parts again and again, and pass the instructions for those parts to its offspring. It needs a stable, copyable message. DNA is that message.
+Where is it? In plant and animal cells, almost all DNA is in the [[Nucleus|nucleus]], cut into separate pieces called [[Chromosome|chromosomes]]. A small extra loop lives in each [[Mitochondrion|mitochondrion]].
 
-- DNA is a chain of four building blocks (bases), abbreviated **A, T, C and G**. The order of the bases is the information, the way the order of letters in a sentence is the meaning.
-- Two chains wind together into a **double helix**. A always pairs with T and C with G, so each strand is a template for the other. That pairing rule is why DNA can be copied accurately before a cell divides.
-- In plants and animals, DNA is packaged into [[Chromosome|chromosomes]] inside the nucleus. A small extra loop of DNA also lives in each [[Mitochondrion|mitochondrion]] (see [[Mitochondrial DNA]]).
+In Lab 7, every letter you write (R, r, G, g) stands for a slightly different stretch of DNA at the same place on a chromosome.
 
-## Where it shows up in Lab 7
+The trap: thinking DNA *is* the trait. DNA is only the recipe. The trait comes from what the cell builds from it ([[Gene Expression]]).
 
-The manual opens with genes being 'specific locations on chromosomes' (p. 122). Every allele you write as a letter (R, r, G, g) is really a slightly different DNA sequence at the same place.
+Try it yourself. One strand reads ATTG. What does the partner strand read? TAAC.
 
-> [!question]- Test yourself: Why can a cell copy DNA so accurately?
-> **Answer:** Each base pairs with only one partner (A–T, C–G), so each strand is a template that dictates the other.
+See also: [[Chromosome]], [[Gene]], [[Gene Expression]], [[Mutation]].
 
-## Connected ideas
-
-- [[Chromosome]]
-- [[Gene]]
-- [[Mutation]]
-- [[Protein]]
-- [[Topic - From DNA to Trait]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: DNA](https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid)
-- [Wikipedia: DNA](https://en.wikipedia.org/wiki/DNA)
+Learn more: [NHGRI Talking Glossary: DNA](<https://www.genome.gov/genetics-glossary/Deoxyribonucleic-Acid>) · [Wikipedia: DNA](<https://en.wikipedia.org/wiki/DNA>)

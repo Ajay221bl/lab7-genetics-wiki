@@ -1,37 +1,20 @@
 ---
 title: "Kernel"
+type: atomic
 aliases:
   - "kernels"
   - "corn kernel"
   - "seed"
 tags:
   - atomic
-  - corn-lab
-description: "A kernel is one corn seed; it grows from one fertilized ovule, so each kernel is a separate offspring with its own genotype."
+  - the-corn-lab
+description: "A kernel is one corn seed: a single offspring, made when one pollen grain fertilized one ovule."
 ---
 
-> [!abstract] In one sentence
-> A kernel is one corn seed; it grows from one fertilized ovule, so each kernel is a separate offspring with its own genotype.
+A kernel is one corn seed: a single offspring, made when one pollen grain fertilized one ovule.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> One kernel = one child.
+So each kernel has its own genotype, and its color and shape show its phenotype right on the surface. Counting kernels **is** counting offspring. Each one is an independent draw from the parents' gametes.
 
-## Build it from first principles
+Try it yourself. Two neighboring kernels on an ear: same genotype? Not necessarily. Each is a separate fertilization.
 
-400 kernels on an ear = 400 independent fertilizations = 400 offspring. That's why kernels satisfy chi-square's [[Independent Event|independence]] assumption.
-
-Each kernel also contains an embryo: plant it and it grows into a seedling (that's where the green/albino seedlings came from).
-
-> [!question]- Test yourself: Are kernels independent events?
-> **Answer:** Yes; each is a separate fertilization.
-
-## Connected ideas
-
-- [[Corn Ear]]
-- [[Ovule]]
-- [[Purple Kernel]]
-- [[Yellow Kernel]]
-- [[Smooth Kernel]]
-- [[Wrinkled Kernel]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
+See also: [[Corn Ear]], [[Ovule]], [[Fertilization]], [[Independent Event]].

@@ -1,40 +1,23 @@
 ---
 title: "Sickle Cell Anemia"
+type: atomic
 aliases:
   - "sickle cell disease"
   - "sickle-cell anemia"
-  - "HbS HbS"
 tags:
   - atomic
-  - disorders
-description: "Sickle cell anemia is an autosomal recessive disorder (Hb^S Hb^S) in which abnormal hemoglobin makes red cells sickle-shaped, blocking small blood vessels and breaking down early."
+  - human-genetic-disorders
+description: "Sickle cell anemia is an autosomal recessive disorder (Hbˢ Hbˢ) in which abnormal hemoglobin bends red cells into stiff crescents that block small blood vessels and break down early."
 ---
 
-> [!abstract] In one sentence
-> Sickle cell anemia is an autosomal recessive disorder (Hb^S Hb^S) in which abnormal hemoglobin makes red cells sickle-shaped, blocking small blood vessels and breaking down early.
+Sickle cell anemia is an autosomal recessive disorder (Hbˢ Hbˢ) in which abnormal hemoglobin bends red cells into stiff crescents that block small blood vessels and break down early.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Sickle hemoglobin stacks like bricks into rods when oxygen is low, bending the cell into a stiff crescent that jams blood vessels.
+Follow the chain. Two Hbˢ alleles → only sickle hemoglobin → at low oxygen the hemoglobin molecules stack into long rods → the rods bend the cell into a sickle → sickled cells jam in small vessels (pain, organ damage) and are destroyed early ([[Anemia|anemia]]).
 
-## Build it from first principles
+Study guide Q8 uses sickle cell to show something deep: **the same gene can be called recessive, codominant or incompletely dominant depending on what level you look at**, and it's the textbook example of [[Heterozygote Advantage|heterozygote advantage]]. See [[Topic - Sickle Cell One Gene Many Patterns]].
 
-Two Hb^S alleles → only sickle [[Hemoglobin|hemoglobin]] → cells sickle at low oxygen → pain crises, organ damage and [[Anemia|anemia]].
+Try it yourself. A normal parent (HbᴬHbᴬ) and a carrier (HbᴬHbˢ): chance of a child with sickle cell anemia? 0%. Every child gets Hbᴬ from the normal parent.
 
-The study guide (Q8) uses it to show that **one gene can fit several patterns depending on the level you look at**: recessive (disease), codominant (both proteins made), incomplete dominance (carriers intermediate), plus [[Heterozygote Advantage|heterozygote advantage]]. See [[Topic - Sickle Cell One Gene Many Patterns]].
+See also: [[Sickle Cell Trait]], [[Hemoglobin]], [[Heterozygote Advantage]], [[Why the sickle cell allele survives]].
 
-> [!question]- Test yourself: Genotype for sickle cell anemia?
-> **Answer:** Hb^S Hb^S.
-
-## Connected ideas
-
-- [[Sickle Cell Trait]]
-- [[Hemoglobin]]
-- [[Heterozygote Advantage]]
-- [[Malaria]]
-- [[Worked - Study Guide Q8 Sickle Cell]]
-
-Browse more in [[MOC - Human Genetics and Disease]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Sickle cell disease](https://en.wikipedia.org/wiki/Sickle_cell_disease)
+Learn more: [Wikipedia: Sickle cell disease](<https://en.wikipedia.org/wiki/Sickle_cell_disease>)

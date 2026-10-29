@@ -1,5 +1,6 @@
 ---
 title: "Calc 07 - The Chi-Square Grid"
+type: molecular
 aliases:
   - "chi-square table steps"
   - "grid method"
@@ -8,8 +9,7 @@ tags:
 description: "Filling the chi-square table column by column: O, E, O−E, squared, divided by E, then sum."
 ---
 
-> [!example] The Feynman version
-> One row per category, one column per step of the formula. You never have to hold the whole formula in your head; each column is one small, easy operation on the column before.
+One row per category, one column per step of the formula. You never have to hold the whole formula in your head; each column is one small, easy operation on the column before.
 
 ## The columns (manual pp. 127, 134)
 
@@ -37,7 +37,6 @@ description: "Filling the chi-square table column by column: O, E, O−E, square
 - **Don't take a square root** of the sum. The 'Sum =' box *is* χ².
 - Round only at the end (keep 3-4 decimals in the last column).
 
-> [!question]- Try it: 12 green, 12 albino vs 3 : 1. χ²?
-> **Answer:** E = 18 and 6. (12−18)²/18 = 2.0; (12−6)²/6 = 6.0; χ² = 8.0.
+Try it yourself. 12 green, 12 albino vs 3 : 1. χ²? E = 18 and 6. (12−18)²/18 = 2.0; (12−6)²/6 = 6.0; χ² = 8.0.
 
 Concepts: [[Chi-Square Statistic]] · [[Observed Value]] · [[Expected Value]] · [[Summation]] · Back to [[MOC - Calculations]]

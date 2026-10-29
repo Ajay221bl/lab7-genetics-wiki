@@ -1,5 +1,6 @@
 ---
 title: "Calc 09 - Looking Up the Critical Value"
+type: molecular
 aliases:
   - "critical value lookup"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Reading the critical value from the table using df and alpha."
 ---
 
-> [!example] The Feynman version
-> The table is a pre-computed answer to: 'How big does χ² get by luck alone, 95% of the time?' Row = how many free categories (df); column = how strict you are (α).
+The table is a pre-computed answer to: 'How big does χ² get by luck alone, 95% of the time?' Row = how many free categories (df); column = how strict you are (α).
 
 ## Steps
 

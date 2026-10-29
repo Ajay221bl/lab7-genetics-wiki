@@ -1,36 +1,22 @@
 ---
 title: "Endosymbiotic Theory"
+type: atomic
 aliases:
   - "endosymbiosis"
 tags:
   - atomic
-  - mtdna
-description: "Endosymbiotic theory says mitochondria descend from oxygen-using bacteria that were engulfed by an ancestral cell and kept alive inside it."
+  - mitochondrial-dna
+description: "Endosymbiotic theory says mitochondria are descended from oxygen-using bacteria that were swallowed by an ancient cell and kept alive inside it."
 ---
 
-> [!abstract] In one sentence
-> Endosymbiotic theory says mitochondria descend from oxygen-using bacteria that were engulfed by an ancestral cell and kept alive inside it.
+Endosymbiotic theory says mitochondria are descended from oxygen-using bacteria that were swallowed by an ancient cell and kept alive inside it.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A big cell swallowed a bacterium and, instead of digesting it, hired it as a live-in power supplier.
+"Endo" means inside; "symbiosis" means living together. Imagine a big cell engulfing a bacterium but not digesting it. The bacterium keeps making energy; the host gives it shelter and food. Over a very long time they become dependent on each other, and the bacterium becomes the mitochondrion (manual p. 123).
 
-## Build it from first principles
+The evidence: mitochondria have their own circular DNA like bacteria, a double membrane (the inner one from the bacterium, the outer from the swallowing), bacteria-like ribosomes, and they divide on their own.
 
-*Endo* = inside, *symbiosis* = living together. Manual p. 123: the bacteria provided energy by aerobic breakdown of food; the host provided shelter. Over time they became dependent on each other.
+Try it yourself. Why is mtDNA circular? Because bacterial DNA is circular, and mitochondria began as bacteria.
 
-Evidence: mitochondria have their own circular DNA like bacteria, a double membrane, bacteria-like ribosomes, and divide by themselves.
+See also: [[Mitochondrion]], [[Prokaryote]], [[Eukaryote]].
 
-> [!question]- Test yourself: Give one piece of evidence.
-> **Answer:** Mitochondria have their own circular DNA like bacteria.
-
-## Connected ideas
-
-- [[Mitochondrion]]
-- [[Prokaryote]]
-- [[Eukaryote]]
-
-Browse more in [[MOC - Mitochondrial DNA]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Symbiogenesis](https://en.wikipedia.org/wiki/Symbiogenesis)
+Learn more: [Wikipedia: Symbiogenesis](<https://en.wikipedia.org/wiki/Symbiogenesis>)

@@ -1,31 +1,20 @@
 ---
 title: "Categories"
+type: atomic
 aliases:
-  - "number of categories"
   - "classes"
-  - "outcomes"
+  - "phenotype classes"
+  - "outcome categories"
 tags:
   - atomic
-  - statistics
-description: "Categories (k) are the distinct outcome groups you count in a chi-square test, such as green and albino (k = 2) or the four kernel types on ear 5 (k = 4)."
+  - statistics-and-chi-square
+description: "Categories are the separate bins you sort your counts into: one row of the chi-square grid each."
 ---
 
-> [!abstract] In one sentence
-> Categories (k) are the distinct outcome groups you count in a chi-square test, such as green and albino (k = 2) or the four kernel types on ear 5 (k = 4).
+Categories are the separate bins you sort your counts into: one row of the chi-square grid each.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The bins you sort your counts into.
+Green and albino: 2 categories. Ear 5's purple-smooth, purple-wrinkled, yellow-smooth, yellow-wrinkled: 4 categories. The number of categories sets the [[Degrees of Freedom|degrees of freedom]].
 
-## Build it from first principles
+Try it yourself. A dihybrid test cross has how many categories? 4.
 
-Manual p. 124: 'Separate pairs of observed and expected values are obtained for each type of observation (k).' k is the number of **phenotype** categories you counted — not genotypes, not plants.
-
-> [!question]- Test yourself: k for ear 5?
-> **Answer:** 4.
-
-## Connected ideas
-
-- [[Degrees of Freedom]]
-- [[Chi-Square Test]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
+See also: [[Degrees of Freedom]], [[Chi-Square Statistic]].

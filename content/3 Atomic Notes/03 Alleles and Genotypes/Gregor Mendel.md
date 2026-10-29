@@ -1,37 +1,22 @@
 ---
 title: "Gregor Mendel"
+type: atomic
 aliases:
   - "Mendel"
 tags:
   - atomic
-  - alleles-genotypes
-description: "Gregor Mendel was a 19th-century monk who worked out the basic rules of inheritance by counting the offspring of thousands of pea-plant crosses."
+  - alleles-and-genotypes
+description: "Gregor Mendel was a monk in the 1860s who discovered the basic rules of inheritance by crossing pea plants and counting their offspring."
 ---
 
-> [!abstract] In one sentence
-> Gregor Mendel was a 19th-century monk who worked out the basic rules of inheritance by counting the offspring of thousands of pea-plant crosses.
+Gregor Mendel was a monk in the 1860s who discovered the basic rules of inheritance by crossing pea plants and counting their offspring.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Mendel was the first person to treat heredity as a counting problem, and the counts revealed hidden rules.
+Before Mendel, people thought heredity blended like paint. Mendel's new idea was to *count*. He crossed purebred [[Pea Plant|peas]] and tallied thousands of offspring. He kept seeing the same ratios, 3 : 1 and 9 : 3 : 3 : 1, and reasoned backwards: each parent must pass one particle ("factor", our allele) for each trait, chosen at random. That gave the [[Law of Segregation]] and the [[Law of Independent Assortment]], decades before chromosomes were seen.
 
-## Build it from first principles
+Lab 7 repeats Mendel's method exactly: cross, count, compare with a predicted ratio. The only thing added since is the [[Chi-Square Test|chi-square test]] to judge "close enough".
 
-In the 1860s, before DNA or chromosomes were known, Mendel crossed [[Pea Plant|garden peas]] and *counted* offspring types. He noticed ratios like 3 : 1 and 9 : 3 : 3 : 1 and reasoned that each parent passes one 'factor' (allele) per trait, chosen at random: the [[Law of Segregation]] and the [[Law of Independent Assortment]].
+Try it yourself. What made Mendel's approach new? He counted offspring and looked for numerical ratios.
 
-Lab 7 repeats his method exactly: count offspring phenotypes, compare with predicted ratios, and decide (now with [[Chi-Square Test|chi-square]]) whether the data fit.
+See also: [[Pea Plant]], [[Law of Segregation]], [[Law of Independent Assortment]], [[Heredity]].
 
-> [!question]- Test yourself: What ratio in pea F₂ led Mendel to the law of segregation?
-> **Answer:** 3 : 1.
-
-## Connected ideas
-
-- [[Pea Plant]]
-- [[Law of Segregation]]
-- [[Law of Independent Assortment]]
-- [[3-1 Ratio]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Gregor Mendel](https://en.wikipedia.org/wiki/Gregor_Mendel)
+Learn more: [Wikipedia: Gregor Mendel](<https://en.wikipedia.org/wiki/Gregor_Mendel>)

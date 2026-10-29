@@ -1,35 +1,20 @@
 ---
 title: "Oogenesis"
+type: atomic
 tags:
   - atomic
-  - meiosis-gametes
-description: "Oogenesis is the making of eggs by meiosis; it puts nearly all the cytoplasm and organelles into one large egg."
+  - meiosis-and-gametes
+description: "Oogenesis is the making of eggs by meiosis, which puts almost all the cytoplasm into one big egg."
 ---
 
-> [!abstract] In one sentence
-> Oogenesis is the making of eggs by meiosis; it puts nearly all the cytoplasm and organelles into one large egg.
+Oogenesis is the making of eggs by meiosis, which puts almost all the cytoplasm into one big egg.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Making an egg is like splitting a cake unevenly: one person gets almost all the cake (the egg) and the others get crumbs (polar bodies).
+The divisions are lopsided on purpose: one cell keeps nearly everything and becomes the egg; the others are tiny "polar bodies" that wither away. It's like cutting a cake so that one person gets almost all of it. The egg ends up loaded with cytoplasm and mitochondria.
 
-## Build it from first principles
+The manual (p. 123) asks students to recall this to explain why mitochondria come from the mother.
 
-In oogenesis, the divisions are unequal: one cell keeps almost all the cytoplasm (becoming the egg) and the others are tiny 'polar bodies' that break down. So the egg is loaded with mitochondria.
+Try it yourself. Why make one big egg instead of four small ones? The embryo needs a large starting supply of cytoplasm and organelles.
 
-Manual p. 123 asks you to recall this from earlier labs to explain why mitochondria come from the mother.
+See also: [[Spermatogenesis]], [[Egg]], [[Maternal Inheritance]].
 
-> [!question]- Test yourself: Why is the egg so large?
-> **Answer:** Unequal division gives it nearly all the cytoplasm and organelles.
-
-## Connected ideas
-
-- [[Spermatogenesis]]
-- [[Egg]]
-- [[Meiosis]]
-- [[Maternal Inheritance]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Oogenesis](https://en.wikipedia.org/wiki/Oogenesis)
+Learn more: [Wikipedia: Oogenesis](<https://en.wikipedia.org/wiki/Oogenesis>)

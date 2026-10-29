@@ -1,5 +1,6 @@
 ---
 title: "Worked - Corn Ear 3 Kernel Shape"
+type: molecular
 aliases:
   - "corn ear 3"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Corn ear crosses 4 and 5: HH × hh to get the F1, then Hh × Hh (Corn Ear 3)."
 ---
 
-> [!warning] Sample data
-> These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
+*Sample data.* These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
 
 H = smooth (starchy, dominant), h = wrinkled (sugary).
 

@@ -1,5 +1,6 @@
 ---
 title: "Calc 04 - Filling a Dihybrid Punnett Square"
+type: molecular
 aliases:
   - "dihybrid square"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Step-by-step filling and grouping of a 4 by 4 Punnett square."
 ---
 
-> [!example] The Feynman version
-> Same idea as the small square, just with four gametes per parent. Then sort the 16 boxes into piles by what the kernel looks like.
+Same idea as the small square, just with four gametes per parent. Then sort the 16 boxes into piles by what the kernel looks like.
 
 ## Steps (RrHh × RrHh)
 
@@ -35,7 +35,6 @@ Genotype counts (out of 16): 1 RRHH, 2 RRHh, 1 RRhh, 2 RrHH, 4 RrHh, 2 Rrhh, 1 r
 
 rrhh makes only rh, so every row is identical: one row is the whole answer (RrHh, Rrhh, rrHh, rrhh → 1 : 1 : 1 : 1).
 
-> [!question]- Try it: How many of the 16 boxes are RrHh?
-> **Answer:** 4.
+Try it yourself. How many of the 16 boxes are RrHh? 4.
 
 Concepts: [[Dihybrid Cross]] · [[9-3-3-1 Ratio]] · [[FOIL Method]] · Back to [[MOC - Calculations]]

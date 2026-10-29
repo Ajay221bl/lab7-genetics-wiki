@@ -1,5 +1,6 @@
 ---
 title: "Corn Ear"
+type: atomic
 aliases:
   - "ear of corn"
   - "cob"
@@ -7,39 +8,30 @@ aliases:
   - "ears"
 tags:
   - atomic
-  - corn-lab
-description: "A corn ear is the female flower cluster of the corn plant; after pollination each of its ovules becomes a kernel, so a mature ear is a whole family of offspring from one cross."
+  - the-corn-lab
+description: "A corn ear is the female flower cluster of the corn plant; after pollination each ovule on it becomes a kernel, so a mature ear is a whole family of offspring from one cross."
 ---
 
-> [!abstract] In one sentence
-> A corn ear is the female flower cluster of the corn plant; after pollination each of its ovules becomes a kernel, so a mature ear is a whole family of offspring from one cross.
+A corn ear is the female flower cluster of the corn plant; after pollination each ovule on it becomes a kernel, so a mature ear is a whole family of offspring from one cross.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> An ear is a photo album of one family: every kernel is a child.
+Think of an ear as a family photo album: every kernel is one child, and all the children share the same two parents.
 
-## Build it from first principles
+![[Corn ear anatomy.png|700]]
 
-Each bin has 5 ears labeled 1-5, each from a controlled cross (manual p. 129):
+*Pollen from the tassel lands on a silk; each silk leads to one ovule; each fertilized ovule becomes one kernel.*
 
-| Ear | Cross | Expected ratio |
-|---|---|---|
-| 1 | Rr × Rr (color) | 3 purple : 1 yellow |
-| 2 | Rr × rr (color) | 1 : 1 |
-| 3 | Hh × Hh (shape) | 3 smooth : 1 wrinkled |
-| 4 | RrHh × rrhh | 1 : 1 : 1 : 1 |
-| 5 | RrHh × RrHh | 9 : 3 : 3 : 1 |
+Each bin has 5 ears, each from a known cross (manual p. 129):
 
-Rules: kernels, husks and labels stay on; nobody eats them; count five rows only.
+| Ear | Cross | Expected ratio | Sample χ² |
+|---|---|---|---|
+| 1 | Rr × Rr (color) | 3 purple : 1 yellow | 0.427 |
+| 2 | Rr × rr (color) | 1 : 1 | 0.08 |
+| 3 | Hh × Hh (shape) | 3 smooth : 1 wrinkled | 0.667 |
+| 4 | RrHh × rrhh | 1 : 1 : 1 : 1 | 0.36 |
+| 5 | RrHh × RrHh | 9 : 3 : 3 : 1 | 0.376 |
 
-> [!question]- Test yourself: Which ear is the dihybrid F₂?
-> **Answer:** Ear 5.
+Rules: kernels, husks and labels stay on; nobody eats them; count five rows only. Note the p. 131 typo: the second table labeled "Corn Ear 1" is really ear 2.
 
-## Connected ideas
+Try it yourself. Which ear is a test cross? Ear 2 (one gene) and ear 4 (two genes).
 
-- [[Kernel]]
-- [[Silk]]
-- [[Ovule]]
-- [[Counting Five Rows]]
-- [[Lab 7 Letter Key]]
-
-Browse more in [[MOC - The Corn Lab]] · [[Vault Index|Index]]
+See also: [[Kernel]], [[Counting Five Rows]], [[Lab 7 Letter Key]], [[Topic - Reading the Five Corn Ears]].

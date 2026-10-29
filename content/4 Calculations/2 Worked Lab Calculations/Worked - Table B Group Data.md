@@ -1,5 +1,6 @@
 ---
 title: "Worked - Table B Group Data"
+type: molecular
 aliases:
   - "Table B group"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Table B group data: chi-square of one table's seedling counts against Gg × Gg and Gg × gg."
 ---
 
-> [!warning] Sample data
-> These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
+*Sample data.* These counts are the answer key's example numbers (the 18 green : 5 albino tray is from the TA meeting; the rest are made up). Swap in your room's real counts; the method stays the same.
 
 Our table: **18 green, 5 albino** (23 plants). Test both possible crosses.
 

@@ -1,36 +1,20 @@
 ---
 title: "Hypothesis"
+type: atomic
 aliases:
   - "hypotheses"
 tags:
   - atomic
-  - statistics
-description: "A hypothesis is a testable statement that makes a specific prediction about what data you will observe."
+  - statistics-and-chi-square
+description: "A hypothesis is a clear, testable guess about how something works, made before you look at the results."
 ---
 
-> [!abstract] In one sentence
-> A hypothesis is a testable statement that makes a specific prediction about what data you will observe.
+A hypothesis is a clear, testable guess about how something works, made before you look at the results.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A hypothesis is a bet that makes a specific prediction you can check.
+"These seedlings came from Gg × Gg parents, so they'll be ¾ green, ¼ albino." It's useful because it makes a **number** you can check against reality.
 
-## Build it from first principles
+Try it yourself. Is "corn is interesting" a hypothesis? No: it predicts nothing you can count.
 
-'The parents of this tray were Gg × Gg' is a hypothesis because it predicts a specific outcome: about ¾ green and ¼ albino. Statistics compares that prediction with the data.
+See also: [[Null Hypothesis]], [[Alternative Hypothesis]], [[A Priori Hypothesis]].
 
-In a test you set up a [[Null Hypothesis|null hypothesis]] and one or more [[Alternative Hypothesis|alternative hypotheses]].
-
-> [!question]- Test yourself: What does 'parents were Gg × Gg' predict?
-> **Answer:** About ¾ green and ¼ albino.
-
-## Connected ideas
-
-- [[Null Hypothesis]]
-- [[Alternative Hypothesis]]
-- [[A Priori Hypothesis]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Hypothesis](https://en.wikipedia.org/wiki/Hypothesis)
+Learn more: [Wikipedia: Hypothesis](<https://en.wikipedia.org/wiki/Hypothesis>)

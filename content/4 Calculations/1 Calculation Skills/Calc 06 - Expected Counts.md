@@ -1,5 +1,6 @@
 ---
 title: "Calc 06 - Expected Counts"
+type: molecular
 aliases:
   - "expected numbers"
   - "calculating E"
@@ -8,8 +9,7 @@ tags:
 description: "Calculating the expected number in each category: E = total counted × expected fraction."
 ---
 
-> [!example] The Feynman version
-> If the prediction were obeyed perfectly by your exact sample, how many of each would you have counted? Take the total you actually counted and split it in the predicted proportions.
+If the prediction were obeyed perfectly by your exact sample, how many of each would you have counted? Take the total you actually counted and split it in the predicted proportions.
 
 ## Formula
 
@@ -33,7 +33,6 @@ description: "Calculating the expected number in each category: E = total counte
 
 TA meeting: many students struggle here. The common mistake is writing the fraction (¾) or the percent (75) in the E column instead of the number.
 
-> [!question]- Try it: 24 seedlings, hypothesis 1 : 1. E for each?
-> **Answer:** 12 and 12.
+Try it yourself. 24 seedlings, hypothesis 1 : 1. E for each? 12 and 12.
 
 Concepts: [[Expected Value]] · [[A Priori Hypothesis]] · [[Phenotype Frequency]] · Back to [[MOC - Calculations]]

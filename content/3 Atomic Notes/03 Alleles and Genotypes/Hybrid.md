@@ -1,37 +1,20 @@
 ---
 title: "Hybrid"
+type: atomic
 aliases:
   - "hybrids"
   - "monohybrid individual"
   - "dihybrid individual"
 tags:
   - atomic
-  - alleles-genotypes
-description: "In genetics, a hybrid is the offspring of two genetically different purebred parents, so it is heterozygous for the genes in which the parents differ."
+  - alleles-and-genotypes
+description: "In genetics, a hybrid is the offspring of two different purebred parents, so it is heterozygous for the genes where they differ."
 ---
 
-> [!abstract] In one sentence
-> In genetics, a hybrid is the offspring of two genetically different purebred parents, so it is heterozygous for the genes in which the parents differ.
+In genetics, a hybrid is the offspring of two different purebred parents, so it is heterozygous for the genes where they differ.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A hybrid is a mix: one allele from each of two different purebred parents.
+A **monohybrid** is heterozygous for one gene (Rr); a **dihybrid** for two (RrHh). The [[F1 Generation|F₁]] of RR × rr is all monohybrid. Crossing two monohybrids is a [[Monohybrid Cross|monohybrid cross]]; crossing two dihybrids is a [[Dihybrid Cross|dihybrid cross]]. That's where those names come from.
 
-## Build it from first principles
+Try it yourself. What is the F₁ genotype from RRHH × rrhh? RrHh, a dihybrid.
 
-- A **monohybrid** is heterozygous for one gene (Rr).
-- A **dihybrid** is heterozygous for two genes (RrHh).
-
-Crossing two monohybrids is a [[Monohybrid Cross|monohybrid cross]]; crossing two dihybrids is a [[Dihybrid Cross|dihybrid cross]]. The [[F1 Generation|F₁]] of a purebred cross is all hybrid.
-
-> [!question]- Test yourself: What is the genotype of the F₁ from RR × rr?
-> **Answer:** Rr (a monohybrid).
-
-## Connected ideas
-
-- [[Heterozygous]]
-- [[Purebred]]
-- [[F1 Generation]]
-- [[Monohybrid Cross]]
-- [[Dihybrid Cross]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
+See also: [[Heterozygous]], [[Monohybrid Cross]], [[Dihybrid Cross]].

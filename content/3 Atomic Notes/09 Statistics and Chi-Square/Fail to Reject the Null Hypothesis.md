@@ -1,38 +1,22 @@
 ---
 title: "Fail to Reject the Null Hypothesis"
+type: atomic
 aliases:
   - "fail to reject"
-  - "fail to reject H0"
-  - "fail to reject H₀"
   - "accept provisionally"
+  - "do not reject"
 tags:
   - atomic
-  - statistics
-description: "Failing to reject the null hypothesis means the gap between observed and expected is small enough to be chance (χ² < critical value, p > 0.05), so the data are consistent with the tested model."
+  - statistics-and-chi-square
+description: "You fail to reject the null hypothesis when χ² is smaller than the critical value: the gap is small enough to be chance, so the data is consistent with the predicted ratio."
 ---
 
-> [!abstract] In one sentence
-> Failing to reject the null hypothesis means the gap between observed and expected is small enough to be chance (χ² < critical value, p > 0.05), so the data are consistent with the tested model.
+You fail to reject the null hypothesis when χ² is smaller than the critical value: the gap is small enough to be chance, so the data is consistent with the predicted ratio.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Not guilty isn't the same as proven innocent: the data don't contradict the prediction, but that's not proof.
+Verdict: not guilty, which isn't the same as innocent. A small χ² means "no evidence against" the ratio, not "proof" of it ([[Why we never accept the null hypothesis]]). The TA wording: "fail to reject" or "accept provisionally".
 
-## Build it from first principles
+Results statement: "χ² = 0.130 < 3.841 (df 1, 0.05), so we fail to reject H₀; the seedlings fit a 3:1 ratio, consistent with Gg × Gg parents."
 
-Why not say 'accept' or 'prove'? Because a bigger sample could still reveal a difference. Absence of evidence isn't proof. The TA meeting allows 'accept provisionally' at most.
+Try it yourself. Why not say "we proved 3:1"? Other ratios could also fit, and a bigger sample might reveal a difference.
 
-Example: 18 : 5 vs 3 : 1 gives χ² = 0.130 < 3.841 → fail to reject: consistent with Gg × Gg.
-
-Note: a small sample can fail to reject **two** different hypotheses at once. Then the test can't decide between them — get more data.
-
-> [!question]- Test yourself: Why not say 'accept'?
-> **Answer:** A larger sample might still reveal a difference.
-
-## Connected ideas
-
-- [[Reject the Null Hypothesis]]
-- [[Retained Null Hypothesis]]
-- [[Null Hypothesis]]
-- [[Sample Size]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
+See also: [[Reject the Null Hypothesis]], [[Retained Null Hypothesis]], [[Results Statement]], [[Why we never accept the null hypothesis]].

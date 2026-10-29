@@ -1,5 +1,6 @@
 ---
 title: "MOC - The Corn Lab"
+type: moc
 aliases:
   - "lab day walkthrough"
 tags:
@@ -28,6 +29,7 @@ Big-picture stories: [[Topic - Corn as a Genetic Model]] · [[Topic - Who Were t
 ### The Corn Lab
 
 - [[Albino Seedling]]
+- [[Anthocyanin]]
 - [[Corn]]
 - [[Corn Ear]]
 - [[Counting Five Rows]]
@@ -46,4 +48,4 @@ Big-picture stories: [[Topic - Corn as a Genetic Model]] · [[Topic - Who Were t
 - [[Wrinkled Kernel]]
 - [[Yellow Kernel]]
 
-Main path: [[MOC - Start Here]]
+Main path: [[Learning Path]]

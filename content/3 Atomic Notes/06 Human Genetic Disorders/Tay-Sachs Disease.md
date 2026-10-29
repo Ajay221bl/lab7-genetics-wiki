@@ -1,33 +1,20 @@
 ---
 title: "Tay-Sachs Disease"
+type: atomic
 aliases:
   - "Tay-Sachs"
 tags:
   - atomic
-  - disorders
-description: "Tay-Sachs disease is an autosomal recessive disorder in which a missing enzyme lets a fatty substance build up in nerve cells and destroy them."
+  - human-genetic-disorders
+description: "Tay-Sachs disease is an autosomal recessive disorder in which a missing enzyme lets a fatty substance pile up in nerve cells and destroy them."
 ---
 
-> [!abstract] In one sentence
-> Tay-Sachs disease is an autosomal recessive disorder in which a missing enzyme lets a fatty substance build up in nerve cells and destroy them.
+Tay-Sachs disease is an autosomal recessive disorder in which a missing enzyme lets a fatty substance pile up in nerve cells and destroy them.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A missing cleaning enzyme lets trash pile up inside nerve cells.
+The enzyme is a cleaner that breaks down a lipid. Without it, the trash builds up in the brain. One working copy keeps things clean, so carriers are healthy.
 
-## Build it from first principles
+Try it yourself. Inheritance pattern? Autosomal recessive.
 
-A broken enzyme (hexosaminidase A) can't break down a lipid, which accumulates in the brain. One working copy is enough, so carriers are healthy.
+See also: [[Autosomal Recessive Disorder]], [[Enzyme]].
 
-> [!question]- Test yourself: Inheritance pattern?
-> **Answer:** Autosomal recessive.
-
-## Connected ideas
-
-- [[Autosomal Recessive Disorder]]
-- [[Enzyme]]
-
-Browse more in [[MOC - Human Genetics and Disease]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Tay–Sachs disease](https://en.wikipedia.org/wiki/Tay–Sachs_disease)
+Learn more: [Wikipedia: Tay–Sachs disease](<https://en.wikipedia.org/wiki/Tay–Sachs_disease>)

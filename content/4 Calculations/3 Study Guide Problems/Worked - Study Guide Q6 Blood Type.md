@@ -1,5 +1,6 @@
 ---
 title: "Worked - Study Guide Q6 Blood Type"
+type: molecular
 aliases:
   - "Q6 blood type"
 tags:

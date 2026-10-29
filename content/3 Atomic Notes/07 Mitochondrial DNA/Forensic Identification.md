@@ -1,34 +1,21 @@
 ---
 title: "Forensic Identification"
+type: atomic
 aliases:
   - "forensics"
   - "forensic investigation"
 tags:
   - atomic
-  - mtdna
-description: "Forensic identification uses DNA evidence to identify people; mtDNA is useful because it can be matched to maternal relatives and survives in damaged samples."
+  - mitochondrial-dna
+description: "Forensic identification uses DNA to identify people; mtDNA helps because it can be matched to any maternal relative and survives in damaged samples."
 ---
 
-> [!abstract] In one sentence
-> Forensic identification uses DNA evidence to identify people; mtDNA is useful because it can be matched to maternal relatives and survives in damaged samples.
+Forensic identification uses DNA to identify people; mtDNA helps because it can be matched to any maternal relative and survives in damaged samples.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Hundreds of mtDNA copies per cell means even a scrap of evidence has some left.
+The manual (p. 123): a missing person's mtDNA can be compared with a maternal relative's. And since each cell has hundreds of mtDNA copies but only two of each chromosome, even old bones or a hair shaft can still yield some.
 
-## Build it from first principles
+Try it yourself. A brother and his sister's son: same mtDNA? Yes, both got it from the same maternal line.
 
-Manual p. 123: a missing or deceased person's mtDNA can be compared with any maternal relative's. Each cell has hundreds of mtDNA copies but only two copies of each chromosome, so degraded or tiny samples (old bones, hair shafts) still yield mtDNA.
+See also: [[Mitochondrial DNA]], [[Genealogy]].
 
-> [!question]- Test yourself: Who can provide a reference sample for a missing person's mtDNA?
-> **Answer:** Any maternal relative.
-
-## Connected ideas
-
-- [[Mitochondrial DNA]]
-- [[Genealogy]]
-
-Browse more in [[MOC - Mitochondrial DNA]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Forensic identification](https://en.wikipedia.org/wiki/Forensic_identification)
+Learn more: [Wikipedia: Forensic identification](<https://en.wikipedia.org/wiki/Forensic_identification>)

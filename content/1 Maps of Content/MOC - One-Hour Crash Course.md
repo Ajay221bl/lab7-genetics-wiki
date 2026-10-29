@@ -1,5 +1,6 @@
 ---
 title: "MOC - One-Hour Crash Course"
+type: moc
 aliases:
   - "crash course"
 tags:

@@ -1,34 +1,20 @@
 ---
 title: "rRNA"
+type: atomic
 aliases:
   - "ribosomal RNA"
 tags:
   - atomic
-  - mtdna
-description: "rRNA (ribosomal RNA) is the RNA that forms the core of the ribosome, the protein-building machine."
+  - mitochondrial-dna
+description: "rRNA (ribosomal RNA) forms the core of the ribosome, the machine that builds proteins."
 ---
 
-> [!abstract] In one sentence
-> rRNA (ribosomal RNA) is the RNA that forms the core of the ribosome, the protein-building machine.
+rRNA (ribosomal RNA) forms the core of the ribosome, the machine that builds proteins.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> rRNA is the frame of the protein factory itself (the ribosome).
+If tRNA is the delivery truck, rRNA is the frame of the factory itself. Mitochondrial ribosomes look like bacterial ones, more evidence for endosymbiosis.
 
-## Build it from first principles
+Try it yourself. Which structure does rRNA build? The ribosome.
 
-mtDNA codes for its own rRNAs; mitochondrial ribosomes resemble bacterial ones, more evidence for [[Endosymbiotic Theory]].
+See also: [[tRNA]], [[Gene Expression]], [[Endosymbiotic Theory]].
 
-> [!question]- Test yourself: What structure does rRNA build?
-> **Answer:** The ribosome.
-
-## Connected ideas
-
-- [[tRNA]]
-- [[Protein]]
-- [[Mitochondrial DNA]]
-
-Browse more in [[MOC - Mitochondrial DNA]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Ribosomal RNA](https://en.wikipedia.org/wiki/Ribosomal_RNA)
+Learn more: [Wikipedia: Ribosomal RNA](<https://en.wikipedia.org/wiki/Ribosomal_RNA>)

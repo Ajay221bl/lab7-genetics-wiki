@@ -1,42 +1,28 @@
 ---
 title: "ABO Blood Type"
+type: atomic
 aliases:
   - "blood type"
   - "ABO blood group"
 tags:
   - atomic
   - patterns-of-inheritance
-description: "ABO blood type is set by one gene with three alleles (I^A, I^B, i), in which I^A and I^B are codominant and both are dominant over i."
+description: "ABO blood type is controlled by one gene with three alleles: Iᴬ and Iᴮ are codominant with each other, and both are dominant over i."
 ---
 
-> [!abstract] In one sentence
-> ABO blood type is set by one gene with three alleles (I^A, I^B, i), in which I^A and I^B are codominant and both are dominant over i.
+ABO blood type is controlled by one gene with three alleles: Iᴬ and Iᴮ are codominant with each other, and both are dominant over i.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Each allele is a sticker machine: I^A sticks A labels on red cells, I^B sticks B labels, i sticks nothing.
+Mechanism: each allele is a sticker machine. Iᴬ sticks A labels on red cells, Iᴮ sticks B labels, i sticks none.
 
-## Build it from first principles
+| Genotype | Labels | Blood type |
+|---|---|---|
+| IᴬIᴬ or Iᴬi | A | A |
+| IᴮIᴮ or Iᴮi | B | B |
+| IᴬIᴮ | A and B | AB |
+| ii | none | O |
 
-| Genotype | Blood type |
-|---|---|
-| I^A I^A or I^A i | A |
-| I^B I^B or I^B i | B |
-| I^A I^B | AB (codominant) |
-| ii | O |
+Try it yourself. Can two type-A parents have a type-O child? Yes, if both are Iᴬi: each passes i (¼ chance).
 
-Mechanism: I^A adds one sugar marker to red cells, I^B adds a different one, i adds none.
+See also: [[Codominance]], [[Multiple Alleles]], [[Worked - Study Guide Q6 Blood Type]].
 
-> [!question]- Test yourself: Genotype of type O?
-> **Answer:** ii.
-
-## Connected ideas
-
-- [[Codominance]]
-- [[Multiple Alleles]]
-- [[Worked - Study Guide Q6 Blood Type]]
-
-Browse more in [[MOC - Patterns of Inheritance]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: ABO blood group system](https://en.wikipedia.org/wiki/ABO_blood_group_system)
+Learn more: [Wikipedia: ABO blood group system](<https://en.wikipedia.org/wiki/ABO_blood_group_system>)

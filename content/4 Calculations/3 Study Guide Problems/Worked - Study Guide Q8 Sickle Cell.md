@@ -1,5 +1,6 @@
 ---
 title: "Worked - Study Guide Q8 Sickle Cell"
+type: molecular
 aliases:
   - "Q8 sickle cell"
 tags:

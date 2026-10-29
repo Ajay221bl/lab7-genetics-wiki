@@ -1,5 +1,6 @@
 ---
 title: "Calc 03 - Filling a Monohybrid Punnett Square"
+type: molecular
 aliases:
   - "monohybrid square"
 tags:
@@ -7,8 +8,7 @@ tags:
 description: "Step-by-step filling of a 2 by 2 Punnett square."
 ---
 
-> [!example] The Feynman version
-> Mom's possible eggs along the top, Dad's possible sperm down the side. Each box is one meeting: copy the letter above it and the letter beside it.
+Mom's possible eggs along the top, Dad's possible sperm down the side. Each box is one meeting: copy the letter above it and the letter beside it.
 
 ## Steps (Rr × Rr)
 
@@ -25,7 +25,6 @@ description: "Step-by-step filling of a 2 by 2 Punnett square."
 
 Shortcut: if a parent is homozygous, both its gametes are the same, so whole rows (or columns) repeat.
 
-> [!question]- Try it: Fill Gg × gg.
-> **Answer:** Gg, gg, Gg, gg → ½ green, ½ albino.
+Try it yourself. Fill Gg × gg. Gg, gg, Gg, gg → ½ green, ½ albino.
 
 Concepts: [[Punnett Square]] · [[Monohybrid Cross]] · Back to [[MOC - Calculations]]

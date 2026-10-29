@@ -1,35 +1,18 @@
 ---
 title: "Zygote"
+type: atomic
 tags:
   - atomic
-  - meiosis-gametes
-description: "A zygote is the single diploid cell formed when an egg and sperm fuse; it is the first cell of the new individual."
+  - meiosis-and-gametes
+description: "A zygote is the single cell formed when egg and sperm fuse: the first cell of a new individual, with one allele of each gene from each parent."
 ---
 
-> [!abstract] In one sentence
-> A zygote is the single diploid cell formed when an egg and sperm fuse; it is the first cell of the new individual.
+A zygote is the single cell formed when egg and sperm fuse: the first cell of a new individual, with one allele of each gene from each parent.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> The zygote is the first cell of the new individual, with its full two-copy recipe set assembled from two halves.
+Its genotype is fixed at that moment. Each box inside a Punnett square is one possible zygote.
 
-## Build it from first principles
+Try it yourself. An egg carries r and a sperm carries R. What is the zygote's genotype? Rr.
 
-The zygote's genotype is fixed at fertilization: one allele from the egg + one from the sperm. Each box inside a Punnett square is a possible zygote.
+See also: [[Fertilization]], [[Genotype]].
 
-Manual p. 123 notes the egg contributes cytoplasm and organelles to the zygote, while the sperm usually injects only chromosomal material.
-
-> [!question]- Test yourself: What is a Punnett square box, biologically?
-> **Answer:** One possible zygote genotype.
-
-## Connected ideas
-
-- [[Fertilization]]
-- [[Egg]]
-- [[Sperm]]
-- [[Genotype]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Zygote](https://en.wikipedia.org/wiki/Zygote)
+Learn more: [Wikipedia: Zygote](<https://en.wikipedia.org/wiki/Zygote>)

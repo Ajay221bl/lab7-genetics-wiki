@@ -1,36 +1,20 @@
 ---
 title: "Haploid"
+type: atomic
 tags:
   - atomic
   - building-blocks
-description: "A haploid cell has only one set of chromosomes, so it carries just one copy of each gene; eggs and sperm are haploid."
+description: "A haploid cell has just one set of chromosomes, so it carries one copy of each gene; eggs and sperm are haploid."
 ---
 
-> [!abstract] In one sentence
-> A haploid cell has only one set of chromosomes, so it carries just one copy of each gene; eggs and sperm are haploid.
+A haploid cell has just one set of chromosomes, so it carries one copy of each gene; eggs and sperm are haploid.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Haploid is a half-set: one copy of each volume. Eggs and sperm are haploid so that two halves make a whole.
+Why must gametes be haploid? Do the arithmetic. If an egg had 46 chromosomes and a sperm had 46, the baby would have 92, and its children 184. Within a few generations, cells would burst. So [[Meiosis|meiosis]] halves the number: egg (23) + sperm (23) = baby (46).
 
-## Build it from first principles
+The practical consequence: **a gamete carries one allele per gene**. That's why you write gametes as single letters (R or r), and why "Rr" can never be a gamete ([[Why a gamete carries only one allele of each gene]]).
 
-[[Meiosis]] halves the chromosome number so that when an egg (n) and sperm (n) fuse, the [[Zygote|zygote]] is diploid again (2n). If gametes weren't haploid, chromosome number would double every generation.
+Try it yourself. How many letters per gene go on the outside of a Punnett square? One, because the outside holds gametes.
 
-Practical consequence: **a gamete carries one allele per gene**. Writing a gamete as 'Rr' is the single most common mistake in this lab (see [[Gamete]] and [[Calc 02 - Writing Gametes]]).
+See also: [[Diploid]], [[Gamete]], [[Meiosis]], [[Calc 02 - Writing Gametes]].
 
-> [!question]- Test yourself: How many letters per gene does a gamete carry?
-> **Answer:** One.
-
-## Connected ideas
-
-- [[Diploid]]
-- [[Gamete]]
-- [[Meiosis]]
-- [[Calc 02 - Writing Gametes]]
-
-Browse more in [[MOC - Genetics Foundations]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [NHGRI Talking Glossary: Haploid](https://www.genome.gov/genetics-glossary/Haploid)
-- [Wikipedia: Ploidy](https://en.wikipedia.org/wiki/Ploidy)
+Learn more: [NHGRI Talking Glossary: Haploid](<https://www.genome.gov/genetics-glossary/Haploid>) · [Wikipedia: Ploidy](<https://en.wikipedia.org/wiki/Ploidy>)

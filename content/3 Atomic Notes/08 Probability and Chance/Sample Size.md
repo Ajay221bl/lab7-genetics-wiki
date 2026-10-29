@@ -1,37 +1,26 @@
 ---
 title: "Sample Size"
+type: atomic
 aliases:
   - "number of observations"
 tags:
   - atomic
-  - probability
-description: "Sample size is how many observations are in a sample; larger samples give results closer to the true ratio and make statistical tests more decisive."
+  - probability-and-chance
+description: "Sample size is how many things you counted, written n."
 ---
 
-> [!abstract] In one sentence
-> Sample size is how many observations are in a sample; larger samples give results closer to the true ratio and make statistical tests more decisive.
+Sample size is how many things you counted, written n.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A bigger spoonful gives a more reliable taste.
+Small samples wobble a lot; big ones settle near the true ratio. Flip a coin 4 times and 3 heads (75%) is common. Flip it 1,000 times and 750 heads would be astonishing.
 
-## Build it from first principles
+![[Sample size wobble.png|700]]
 
-Question 9 (p. 128): why is a large sample important? Because small samples wobble a lot by chance. With 23 seedlings, data can fit both 3 : 1 and 1 : 1, or even the wrong one. With 140, chance deviations average out and the test can tell the hypotheses apart (see [[Law of Large Numbers]]).
+*The share of albino seedlings bounces around wildly in small samples and settles near ¼ as the sample grows.*
 
-Chi-square also grows with sample size for the same proportional gap, so a real difference is easier to detect with more data.
+That's why the lab pools class data (Table B) and why question 9 asks how sample size changes the result: the same 3:1 vs 1:1 question is hard to answer with 23 seedlings and easy with 140 ([[Why a bigger sample gives a clearer answer]]).
 
-> [!question]- Test yourself: Why can a single table's data fit both 3 : 1 and 1 : 1?
-> **Answer:** Small samples are noisy, so the test can't tell close hypotheses apart.
+Try it yourself. Why is a χ² from 23 seedlings less convincing than one from 140? Small samples wobble more, so real differences are harder to see.
 
-## Connected ideas
+See also: [[Law of Large Numbers]], [[Sample]], [[Worked - Question 9 Sample Size]].
 
-- [[Law of Large Numbers]]
-- [[Sample]]
-- [[Worked - Question 9 Sample Size]]
-- [[Worked - Table B Class Data]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Sample size determination](https://en.wikipedia.org/wiki/Sample_size_determination)
+Learn more: [Wikipedia: Sample size determination](<https://en.wikipedia.org/wiki/Sample_size_determination>)

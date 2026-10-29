@@ -1,31 +1,18 @@
 ---
 title: "Achondroplasia"
+type: atomic
 tags:
   - atomic
-  - disorders
+  - human-genetic-disorders
 description: "Achondroplasia is an autosomal dominant disorder of bone growth and the most common form of dwarfism."
 ---
 
-> [!abstract] In one sentence
-> Achondroplasia is an autosomal dominant disorder of bone growth and the most common form of dwarfism.
+Achondroplasia is an autosomal dominant disorder of bone growth and the most common form of dwarfism.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> A growth-plate signal stuck 'on' that slows bone growth.
+Most cases come from a brand-new mutation rather than an affected parent, a reminder that mutation keeps creating alleles.
 
-## Build it from first principles
+Try it yourself. Can an autosomal dominant disorder appear with two unaffected parents? Yes, through a new mutation.
 
-Most cases come from a new mutation in the FGFR3 gene rather than an affected parent.
+See also: [[Autosomal Dominant Disorder]], [[Mutation]].
 
-> [!question]- Test yourself: Inheritance pattern?
-> **Answer:** Autosomal dominant.
-
-## Connected ideas
-
-- [[Autosomal Dominant Disorder]]
-- [[Mutation]]
-
-Browse more in [[MOC - Human Genetics and Disease]] · [[Vault Index|Index]]
-
-## Learn more
-
-- [Wikipedia: Achondroplasia](https://en.wikipedia.org/wiki/Achondroplasia)
+Learn more: [Wikipedia: Achondroplasia](<https://en.wikipedia.org/wiki/Achondroplasia>)

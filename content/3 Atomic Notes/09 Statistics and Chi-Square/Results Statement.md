@@ -1,36 +1,20 @@
 ---
 title: "Results Statement"
+type: atomic
 aliases:
-  - "statement of results"
-  - "writing a results statement"
+  - "conclusion statement"
 tags:
   - atomic
-  - statistics
-description: "A results statement reports in one sentence whether there was a significant difference, its direction, and the statistics in the form (χ² = value, df = value, p < or > 0.05)."
+  - statistics-and-chi-square
+description: "A results statement is the one or two sentences that report a chi-square result: the numbers, the decision, and what it means biologically."
 ---
 
-> [!abstract] In one sentence
-> A results statement reports in one sentence whether there was a significant difference, its direction, and the statistics in the form (χ² = value, df = value, p < or > 0.05).
+A results statement is the one or two sentences that report a chi-square result: the numbers, the decision, and what it means biologically.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> One sentence a stranger could read and know exactly what you found and how strongly.
+Template:
 
-## Build it from first principles
+> χ² = [value], df = [n], critical value = [value] at 0.05. Since χ² is [less/greater] than the critical value, we [fail to reject/reject] H₀. The data [is/is not] consistent with a [ratio] ratio, so the parents were likely [genotypes].
 
-Manual p. 125 formats:
-- **No difference**: 'There was no significant difference between observed and expected heads and tails in 100 coin tosses (χ² = 2.56, df = 1, p > 0.05).'
-- **Significant**: 'There were significantly more heads than expected in 100 coin tosses (χ² = 4.65, df = 1, p < 0.05).'
+Try it yourself. Write one for ear 3 (χ² = 0.667, 3:1 smooth:wrinkled). "χ² = 0.667 < 3.841 (df 1), so we fail to reject H₀; the kernels fit 3:1, so the parents were likely Hh × Hh."
 
-TA meeting: include the hypothesis, the real numbers and what it means, in your own words. See [[Calc 11 - Writing the Results Statement]].
-
-> [!question]- Test yourself: What goes in the parentheses?
-> **Answer:** χ² value, df, and p > or < 0.05.
-
-## Connected ideas
-
-- [[P-Value]]
-- [[Chi-Square Statistic]]
-- [[Degrees of Freedom]]
-- [[Calc 11 - Writing the Results Statement]]
-
-Browse more in [[MOC - Statistics and Chi-Square]] · [[Vault Index|Index]]
+See also: [[Calc 11 - Writing the Results Statement]], [[Fail to Reject the Null Hypothesis]].

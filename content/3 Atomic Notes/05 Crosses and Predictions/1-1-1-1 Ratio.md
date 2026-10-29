@@ -1,33 +1,21 @@
 ---
 title: "1-1-1-1 Ratio"
+type: atomic
 aliases:
   - "1:1:1:1"
   - "1 : 1 : 1 : 1"
 tags:
   - atomic
-  - crosses
-description: "The 1 : 1 : 1 : 1 ratio is expected in a dihybrid test cross (RrHh × rrhh): the four phenotype combinations appear equally often."
+  - crosses-and-predictions
+description: "The 1 : 1 : 1 : 1 ratio is expected in a dihybrid test cross (RrHh × rrhh): all four phenotype combinations equally often."
 ---
 
-> [!abstract] In one sentence
-> The 1 : 1 : 1 : 1 ratio is expected in a dihybrid test cross (RrHh × rrhh): the four phenotype combinations appear equally often.
+The 1 : 1 : 1 : 1 ratio is expected in a dihybrid test cross (RrHh × rrhh): all four phenotype combinations equally often.
 
-> [!example] Explain it like I'm new (the Feynman way)
-> Four equally likely gametes from RrHh show directly when the partner is rrhh.
+The rrhh parent only gives rh, so each kernel shows directly which of the four equally likely gametes (RH, Rh, rH, rh) the RrHh parent gave.
 
-## Build it from first principles
+Lab 7: ear 4.
 
-rrhh only gives rh gametes, so each offspring's phenotype directly shows which of the four gametes (RH, Rh, rH, rh) the RrHh parent gave, each ¼ of the time.
+Try it yourself. 200 kernels on ear 4. Expected count for each phenotype? 50.
 
-Lab 7: Corn Ear 4.
-
-> [!question]- Test yourself: Which ear shows 1 : 1 : 1 : 1?
-> **Answer:** Ear 4.
-
-## Connected ideas
-
-- [[Test Cross]]
-- [[Dihybrid Cross]]
-- [[Worked - Corn Ear 4 Dihybrid Test Cross]]
-
-Browse more in [[MOC - Crosses and Punnett Squares]] · [[Vault Index|Index]]
+See also: [[Test Cross]], [[Dihybrid Cross]], [[Worked - Corn Ear 4 Dihybrid Test Cross]].

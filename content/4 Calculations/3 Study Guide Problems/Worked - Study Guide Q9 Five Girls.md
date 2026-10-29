@@ -1,5 +1,6 @@
 ---
 title: "Worked - Study Guide Q9 Five Girls"
+type: molecular
 aliases:
   - "Q9 five girls"
 tags:
